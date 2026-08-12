@@ -1,0 +1,58 @@
+{
+  "artifact": "FALSE_DEREK_ATTRIBUTION_ROOT_CAUSE_V1",
+  "status": "AUDIT_ONLY",
+  "source_benchmark": "PROVENANCE_ADVERSARIAL_BENCHMARK_V1.json",
+  "source_labels": "blind_adjudication/PROVENANCE_ADVERSARIAL_LABELS_V1.jsonl",
+  "case_count": 69,
+  "overlap_policy": "Each case has exactly one primary failure family. Secondary signals may overlap and are diagnostic only; they are not included in primary counts.",
+  "primary_families": {
+    "Cross-platform AI reuse": [
+      "adv_027022", "adv_027069", "adv_027082", "adv_027470", "adv_027736",
+      "adv_027756", "adv_027980", "adv_027990", "adv_028025", "adv_028040",
+      "adv_028118", "adv_028277", "adv_028378", "adv_028382", "adv_028925",
+      "adv_028973", "adv_029000", "adv_029035", "adv_029198", "adv_029212",
+      "adv_033504"
+    ],
+    "Same-platform AI reuse": ["adv_009750", "adv_019128"],
+    "AI-polished framework": [
+      "adv_011993", "adv_012035", "adv_012068", "adv_012199", "adv_012236",
+      "adv_012412", "adv_013200", "adv_013280", "adv_016829", "adv_017867",
+      "adv_024945", "adv_028263", "adv_028394", "adv_028399", "adv_028444"
+    ],
+    "External pasted material": [
+      "adv_001825", "adv_007135", "adv_008147", "adv_018536", "adv_019103",
+      "adv_019178", "adv_021773", "adv_023806", "adv_025602", "adv_026055",
+      "adv_026252", "adv_030132", "adv_032016", "adv_032023"
+    ],
+    "Mixed Derek + pasted content": [
+      "adv_025673", "adv_030261", "adv_030897", "adv_032963"
+    ],
+    "AI text substantially edited by Derek": [],
+    "Unknown origin": ["adv_006124", "adv_009046", "adv_017999"],
+    "Short carrier phrase + pasted body": [
+      "adv_000318", "adv_001381", "adv_006770", "adv_018391", "adv_021093",
+      "adv_023273"
+    ],
+    "Long polished first-person material": ["adv_007453", "adv_027972"],
+    "Chronology/origin failure": [],
+    "Other": ["adv_027815", "adv_028257"]
+  },
+  "primary_counts": {
+    "Cross-platform AI reuse": 21,
+    "Same-platform AI reuse": 2,
+    "AI-polished framework": 15,
+    "External pasted material": 14,
+    "Mixed Derek + pasted content": 4,
+    "AI text substantially edited by Derek": 0,
+    "Unknown origin": 3,
+    "Short carrier phrase + pasted body": 6,
+    "Long polished first-person material": 2,
+    "Chronology/origin failure": 0,
+    "Other": 2
+  },
+  "secondary_signal_policy": {
+    "Chronology/origin failure": "Applies when a located similarity candidate is later than the target, too weak, or otherwise cannot prove target authorship. This appeared across several primary families but was not the decisive primary cause for any case.",
+    "AI text substantially edited by Derek": "Requires positive trace evidence linking an earlier AI form to a materially edited Derek form. C08 similarity alone was insufficient, so no case received this as a primary finding.",
+    "Mixed content": "May overlap carrier-phrase cases and same-platform reuse; primary MIXED classification is reserved for records where both components are independently apparent."
+  }
+}

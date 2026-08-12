@@ -1,0 +1,31 @@
+{
+  "n": 230,
+  "resolver": "provenance_resolver_v0_3",
+  "overall_accuracy": 0.1435,
+  "primary_gate_false_derek_attribution": 0,
+  "primary_gate_pass": true,
+  "fda_records": [],
+  "d0_predictions_on_mixed": 0,
+  "d0_precision": 1.0,
+  "d0_recall": 0.5205,
+  "p0_precision": 0.5263,
+  "p0_recall": 0.1802,
+  "mixed_segmentation_accuracy": 0.1389,
+  "abstention_precision": 0.0537,
+  "abstention_recall": 0.8,
+  "over_abstention": 141,
+  "under_abstention": 2,
+  "ad3_ad4_accuracy": 1.0,
+  "confusion": {
+    "D0->D1": 38,
+    "MIXED->MIXED": 5,
+    "P0->D0": 7,
+    "P0->MIXED": 9,
+    "P0->P0": 20,
+    "P0->UNRESOLVED": 2,
+    "UNRESOLVED->D0": 28,
+    "UNRESOLVED->MIXED": 22,
+    "UNRESOLVED->P0": 91,
+    "UNRESOLVED->UNRESOLVED": 8
+  }
+}

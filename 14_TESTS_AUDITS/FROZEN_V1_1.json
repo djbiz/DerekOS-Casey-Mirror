@@ -1,0 +1,15 @@
+{
+  "frozen": true,
+  "frozen_at": "2026-08-12",
+  "version": "v1.1",
+  "record_count": 40,
+  "supersedes": "v1",
+  "derived_from": "provenance_gold_set_v1_ERRATA.md (Corrections 1-3)",
+  "rule": "Do not edit labels in provenance_gold_set_v1_1.jsonl to improve any classifier score. v1 (provenance_gold_set_v1.jsonl + FROZEN.json) is preserved permanently as historical evidence of the original adjudication; the errata records exactly what changed and why. New verified cases go into v1.2+ or the PROVENANCE_ADVERSARIAL_SET_V1. Benchmarks may be scored against v1 (historical) or v1.1 (corrected benchmark); both frozen sets are immutable.",
+  "changes_vs_v1": [
+    "gold_019: P0/PC1 -> P0/PC4 (origin located: assistant message 02170d3e-daf5-41f3-a576-d749873d00d6, 'Remote Hiring Benefits')",
+    "gold_037: UNRESOLVED -> P0/PC4 (origin located: assistant message 4df2be21-cf21-474f-af92-6676e3e17fe6, 'Flowla for DAC Funding')",
+    "gold_037 origin_conversation_id corrected to 68326864-d084-8006-bf19-fb8192c961ad (verified in 01_INGEST/messages.jsonl; errata Correction 3)"
+  ],
+  "verification_note": "PROVENANCE_RESOLVER_V0.1 predictions, re-scored directly against both frozen sets (not re-run, same stage3_classifications.json): 33/40 exact evidence_class match against v1, 34/40 against v1.1 (the one-record improvement is gold_037, which v0.1 correctly called P0 and v1 had as UNRESOLVED). D0 precision is 94.4% (17/18) on BOTH v1 and v1.1 - the v1.1 corrections (gold_019, gold_037) do not change the D0-precision denominator or numerator, since neither v0.1-predicted nor gold-labeled D0 for those two records. The prior text in this field (39/40, 40/40, D0 precision 1.0) was incorrect and has been corrected after direct re-verification against both benchmark files."
+}

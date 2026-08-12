@@ -1,0 +1,26 @@
+{
+  "artifact": "PROVENANCE_INDEX_V0.2_FROZEN_BENCHMARK",
+  "file": "frozen_benchmark_cases.jsonl",
+  "sha256": "827e4fd3bb24b06a31bae3f9ac2a0f66a849297ab2142d70403252ad293eaf26",
+  "case_count": 30,
+  "requested_target": 150,
+  "categories": {
+    "exact_cross_conversation": 2,
+    "exact_cross_platform": 4,
+    "partial_reuse": 4,
+    "heavily_edited": 4,
+    "long_document_scattered": 1,
+    "reverse_chronology_same_conv": 3,
+    "reverse_chronology_cross_conv": 1,
+    "reuse_chain_multi_hop": 1,
+    "multiple_earlier_sources": 2,
+    "external_no_corpus_origin": 2,
+    "derek_text_resembling_ai": 2,
+    "no_match_control": 2,
+    "independently_written_same_concept": 2
+  },
+  "built_from": "CORPUS_RELEASE_001",
+  "blind_to": "PROVENANCE_INDEX_V0.2 predictions (03_PROVENANCE_INDEX/v0_2/reuse_hits.jsonl) - ground truth in this file was independently determined by reading raw text/timestamps, never copied from V0.2 output",
+  "frozen_rule": "This file must never be edited in place after freezing. Corrections become new, linked, superseding records per MASTER_BRAIN_BUILD_SPEC.md section 6.0h (Evidence Truth vs Adjudication Truth).",
+  "scoring_note": "V0.2 must not be tuned against this benchmark after freezing. Defects found here become V0.3 findings, not in-place fixes, per explicit Architecture Board directive."
+}

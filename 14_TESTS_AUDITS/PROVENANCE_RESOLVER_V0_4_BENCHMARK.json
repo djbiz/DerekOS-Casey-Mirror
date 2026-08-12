@@ -1,0 +1,99 @@
+{
+  "benchmark": "PROVENANCE_ADVERSARIAL_SET_V1",
+  "records": 230,
+  "primary_gate": {
+    "name": "False Derek Attribution",
+    "required": 0,
+    "observed": 0,
+    "passed": true,
+    "case_ids": []
+  },
+  "d0": {
+    "predicted": 38,
+    "adjudicated": 47,
+    "correct": 38,
+    "precision": 1.0,
+    "recall": 0.8085106382978723
+  },
+  "exact_accuracy": {
+    "adoption_status": 0.23043478260869565,
+    "evidence_class": 0.6086956521739131,
+    "provenance_certainty": 0.1,
+    "requires_review": 0.6956521739130435
+  },
+  "confusion_matrix": {
+    "D0": {
+      "D0": 38,
+      "P0": 1,
+      "UNRESOLVED": 8
+    },
+    "MIXED": {
+      "MIXED": 13,
+      "P0": 4,
+      "UNRESOLVED": 1
+    },
+    "P0": {
+      "MIXED": 5,
+      "P0": 28,
+      "UNRESOLVED": 68
+    },
+    "UNRESOLVED": {
+      "MIXED": 3,
+      "UNRESOLVED": 61
+    }
+  },
+  "category_false_derek": {
+    "C01": {
+      "records": 24,
+      "false_derek": 0
+    },
+    "C02": {
+      "records": 70,
+      "false_derek": 0
+    },
+    "C03": {
+      "records": 50,
+      "false_derek": 0
+    },
+    "C04": {
+      "records": 81,
+      "false_derek": 0
+    },
+    "C05": {
+      "records": 32,
+      "false_derek": 0
+    },
+    "C06": {
+      "records": 55,
+      "false_derek": 0
+    },
+    "C07": {
+      "records": 29,
+      "false_derek": 0
+    },
+    "C08": {
+      "records": 48,
+      "false_derek": 0
+    },
+    "C10": {
+      "records": 38,
+      "false_derek": 0
+    },
+    "C11": {
+      "records": 9,
+      "false_derek": 0
+    },
+    "C12": {
+      "records": 38,
+      "false_derek": 0
+    },
+    "C13": {
+      "records": 72,
+      "false_derek": 0
+    },
+    "C14": {
+      "records": 53,
+      "false_derek": 0
+    }
+  }
+}

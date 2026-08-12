@@ -1,0 +1,1113 @@
+{
+  "benchmark": "MIXED_SEMANTICS_BENCHMARK_V2",
+  "schema_version": "2.0",
+  "parent_benchmark": "PROVENANCE_ADVERSARIAL_SET_V1",
+  "parent_benchmark_sha256": "12821adc0227490185b64a15fbd274d6a1a5bd89b6086edbb1179c48f6500b25",
+  "lineage": [
+    "Frozen V1 (PROVENANCE_ADVERSARIAL_SET_V1)",
+    "Independent Adjudication V1 (MIXED_SEMANTICS_ADJUDICATION_V1)",
+    "Independent Adjudication V0.1 (MIXED_LABEL_SEMANTICS_ADJUDICATION_V0.1)",
+    "26/26 Reconciliation (MIXED_SEMANTICS_RECONCILIATION_MATRIX_V0.1)",
+    "Benchmark V2 (this file)"
+  ],
+  "reconciliation_references": {
+    "v1_adjudication": "MIXED_SEMANTICS_ADJUDICATION_V1.jsonl",
+    "v01_adjudication": "MIXED_LABEL_SEMANTICS_ADJUDICATION_V0.1.jsonl",
+    "reconciliation_matrix": "MIXED_SEMANTICS_RECONCILIATION_MATRIX_V0.1.md",
+    "agreement_count": 26,
+    "disagreement_count": 0,
+    "schema_only_difference_count": 0
+  },
+  "frozen_benchmark_preserved": true,
+  "frozen_benchmark_path": "PROVENANCE_ADVERSARIAL_BENCHMARK_V1.json",
+  "frozen_benchmark_sha256": "12821adc0227490185b64a15fbd274d6a1a5bd89b6086edbb1179c48f6500b25",
+  "timestamp_utc": "2026-08-12T16:03:23.267401+00:00",
+  "total_records": 230,
+  "semantic_contract": {
+    "rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message.",
+    "carrier_collapse": "CONTROL_ACT, LABEL, and QUERY spans do not independently establish MIXED authorship. Carrier + imported/assistant-authored substantive body -> P0 + appropriate adoption status.",
+    "dual_authorship_requirement": "Both spans must have different supported provenance.",
+    "d0_rule": "D0 requires positive Derek-authorship evidence; ambiguity remains UNRESOLVED.",
+    "genuine_mixed_set": [
+      "adv_003597",
+      "adv_021989"
+    ]
+  },
+  "original_benchmark": {
+    "benchmark": "PROVENANCE_ADVERSARIAL_SET_V1",
+    "records": 230,
+    "primary_gate": {
+      "name": "False Derek Attribution",
+      "required": 0,
+      "observed": 69,
+      "passed": false,
+      "case_ids": [
+        "adv_000318",
+        "adv_001381",
+        "adv_001825",
+        "adv_006124",
+        "adv_006770",
+        "adv_007135",
+        "adv_007453",
+        "adv_008147",
+        "adv_009046",
+        "adv_009750",
+        "adv_011993",
+        "adv_012035",
+        "adv_012068",
+        "adv_012199",
+        "adv_012236",
+        "adv_012412",
+        "adv_013200",
+        "adv_013280",
+        "adv_016829",
+        "adv_017867",
+        "adv_017999",
+        "adv_018391",
+        "adv_018536",
+        "adv_019103",
+        "adv_019128",
+        "adv_019178",
+        "adv_021093",
+        "adv_021773",
+        "adv_023273",
+        "adv_023806",
+        "adv_024945",
+        "adv_025602",
+        "adv_025673",
+        "adv_026055",
+        "adv_026252",
+        "adv_027022",
+        "adv_027069",
+        "adv_027082",
+        "adv_027470",
+        "adv_027736",
+        "adv_027756",
+        "adv_027815",
+        "adv_027972",
+        "adv_027980",
+        "adv_027990",
+        "adv_028025",
+        "adv_028040",
+        "adv_028118",
+        "adv_028257",
+        "adv_028263",
+        "adv_028277",
+        "adv_028378",
+        "adv_028382",
+        "adv_028394",
+        "adv_028399",
+        "adv_028444",
+        "adv_028925",
+        "adv_028973",
+        "adv_029000",
+        "adv_029035",
+        "adv_029198",
+        "adv_029212",
+        "adv_030132",
+        "adv_030261",
+        "adv_030897",
+        "adv_032016",
+        "adv_032023",
+        "adv_032963",
+        "adv_033504"
+      ]
+    },
+    "d0": {
+      "predicted": 113,
+      "adjudicated": 47,
+      "correct": 44,
+      "precision": 0.3893805309734513,
+      "recall": 0.9361702127659575
+    },
+    "exact_accuracy": {
+      "adoption_status": 0.7043478260869566,
+      "evidence_class": 0.3391304347826087,
+      "provenance_certainty": 0.34782608695652173,
+      "requires_review": 0.6130434782608696
+    },
+    "confusion_matrix": {
+      "D0": {
+        "D0": 44,
+        "P0": 1,
+        "UNRESOLVED": 2
+      },
+      "MIXED": {
+        "D0": 2,
+        "MIXED": 8,
+        "P0": 5,
+        "UNRESOLVED": 3
+      },
+      "P0": {
+        "D0": 26,
+        "MIXED": 38,
+        "P0": 15,
+        "UNRESOLVED": 22
+      },
+      "UNRESOLVED": {
+        "D0": 41,
+        "MIXED": 4,
+        "P0": 8,
+        "UNRESOLVED": 11
+      }
+    },
+    "category_false_derek": {
+      "C01": {
+        "records": 24,
+        "false_derek": 24
+      },
+      "C02": {
+        "records": 70,
+        "false_derek": 1
+      },
+      "C03": {
+        "records": 50,
+        "false_derek": 30
+      },
+      "C04": {
+        "records": 81,
+        "false_derek": 18
+      },
+      "C05": {
+        "records": 32,
+        "false_derek": 0
+      },
+      "C06": {
+        "records": 55,
+        "false_derek": 27
+      },
+      "C07": {
+        "records": 29,
+        "false_derek": 2
+      },
+      "C08": {
+        "records": 48,
+        "false_derek": 5
+      },
+      "C10": {
+        "records": 38,
+        "false_derek": 0
+      },
+      "C11": {
+        "records": 9,
+        "false_derek": 1
+      },
+      "C12": {
+        "records": 38,
+        "false_derek": 0
+      },
+      "C13": {
+        "records": 72,
+        "false_derek": 66
+      },
+      "C14": {
+        "records": 53,
+        "false_derek": 7
+      }
+    }
+  },
+  "v2_overrides": {
+    "adv_000346": {
+      "adversarial_id": "adv_000346",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD3",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_A_TRANSCRIPT_TEMPLATE"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 133,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored task directive with no source reference"
+        },
+        {
+          "start": 133,
+          "end": null,
+          "author": "external",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "YouTube transcript by Odetta Rockhead-Kerr; traced to source_reference 9ec6ea60-ab62-4672-a6dd-c6e81a5cee60"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A CONTROL_ACT span does not create MIXED.",
+      "v2_evidence": "The Derek span is a fixed-format summarization instruction ('Summarize the transcript...'). The substantive content is the imported transcript. Structurally identical records adv_000735, adv_000941, adv_030261, adv_030897, adv_032963 resolve uniformly to P0.",
+      "v2_rationale": "Task directive with fixed format; substantive content is the imported transcript.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_000735": {
+      "adversarial_id": "adv_000735",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD3",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_A_TRANSCRIPT_TEMPLATE"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 200,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored task directive with no source reference"
+        },
+        {
+          "start": 200,
+          "end": null,
+          "author": "external",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "YouTube transcript by Dan Koe; traced to source_reference 12"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A CONTROL_ACT span does not create MIXED.",
+      "v2_evidence": "The Derek span is a fixed-format summarization instruction. The substantive content is the imported transcript.",
+      "v2_rationale": "Task directive with fixed format; substantive content is the imported transcript.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_000941": {
+      "adversarial_id": "adv_000941",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD3",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_A_TRANSCRIPT_TEMPLATE"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 203,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored task directive with no source reference"
+        },
+        {
+          "start": 203,
+          "end": null,
+          "author": "external",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "YouTube transcript by Amplify Views; traced to source_reference 4"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A CONTROL_ACT span does not create MIXED.",
+      "v2_evidence": "The Derek span is a fixed-format summarization instruction. The substantive content is the imported transcript.",
+      "v2_rationale": "Task directive with fixed format; substantive content is the imported transcript.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_030261": {
+      "adversarial_id": "adv_030261",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD3",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_A_TRANSCRIPT_TEMPLATE"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 133,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored task directive with no source reference"
+        },
+        {
+          "start": 133,
+          "end": null,
+          "author": "external",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "YouTube transcript by Kyrsti Snyder; external source material"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A CONTROL_ACT span does not create MIXED.",
+      "v2_evidence": "Frozen P0 confirmed. V0.5 MIXED over-fires on this structurally equivalent transcript carrier.",
+      "v2_rationale": "Task directive with fixed format; substantive content is the imported transcript. Frozen P0 confirmed.",
+      "frozen_label": "P0",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_030897": {
+      "adversarial_id": "adv_030897",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD3",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_A_TRANSCRIPT_TEMPLATE"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 200,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored task directive with no source reference"
+        },
+        {
+          "start": 200,
+          "end": null,
+          "author": "external",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "YouTube transcript; external source material"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A CONTROL_ACT span does not create MIXED.",
+      "v2_evidence": "Frozen P0 confirmed. V0.5 MIXED over-fires on this structurally equivalent transcript carrier.",
+      "v2_rationale": "Task directive with fixed format; substantive content is the imported transcript. Frozen P0 confirmed.",
+      "frozen_label": "P0",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_032963": {
+      "adversarial_id": "adv_032963",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD3",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_A_TRANSCRIPT_TEMPLATE"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 203,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored task directive with no source reference"
+        },
+        {
+          "start": 203,
+          "end": null,
+          "author": "external",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "YouTube transcript by Think Media; external source material"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A CONTROL_ACT span does not create MIXED.",
+      "v2_evidence": "Frozen P0 confirmed. V0.5 MIXED over-fires on this structurally equivalent transcript carrier.",
+      "v2_rationale": "Task directive with fixed format; substantive content is the imported transcript. Frozen P0 confirmed.",
+      "frozen_label": "P0",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_001324": {
+      "adversarial_id": "adv_001324",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD4",
+      "v2_requires_review": true,
+      "v2_family": [
+        "FAMILY_B_STYLE_CARRIER"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 121,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored style directive with no source reference"
+        },
+        {
+          "start": 121,
+          "end": 719,
+          "author": "assistant",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Traced assistant-origin email body; source_reference 899b392d-da4b-4519-bad5-5833bbadba6b"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A style/transform directive is a CONTROL_ACT; it establishes adoption but does not make the message MIXED.",
+      "v2_evidence": "The Derek span is a style directive ('...in a Dan Ferrari writing style and make it funny and very personal'). This is a material transformation request (AD4) over imported assistant text, but the Derek span carries no substantive semantic content of its own.",
+      "v2_rationale": "Style directive is a transformation request; material transformation establishes AD4.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_001326": {
+      "adversarial_id": "adv_001326",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD4",
+      "v2_requires_review": true,
+      "v2_family": [
+        "FAMILY_B_STYLE_CARRIER"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 110,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored style directive with no source reference"
+        },
+        {
+          "start": 110,
+          "end": 718,
+          "author": "unknown",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Live Answer Script; traced to source_reference 74919947-9bff-40d6-98bb-4fb2d92a7d7c"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A style/transform directive is a CONTROL_ACT; it establishes adoption but does not make the message MIXED.",
+      "v2_evidence": "The Derek span is a style directive ('...rewrite this Live Answer Script in a Kevin James writing style'). This is a material transformation request over imported text.",
+      "v2_rationale": "Style directive is a transformation request; material transformation establishes AD4.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_029474": {
+      "adversarial_id": "adv_029474",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD4",
+      "v2_requires_review": true,
+      "v2_family": [
+        "FAMILY_B_STYLE_CARRIER"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 60,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored rewrite directive"
+        },
+        {
+          "start": 60,
+          "end": null,
+          "author": "assistant",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Product-benefit copy; supplied source material"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A style/transform directive is a CONTROL_ACT.",
+      "v2_evidence": "Frozen P0 confirmed. V0.5 MIXED over-fires on this style carrier.",
+      "v2_rationale": "Style directive is a transformation request. Frozen P0 confirmed; V0.5 MIXED over-fires.",
+      "frozen_label": "P0",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_031597": {
+      "adversarial_id": "adv_031597",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD4",
+      "v2_requires_review": true,
+      "v2_family": [
+        "FAMILY_B_STYLE_CARRIER"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 60,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored length/style directive"
+        },
+        {
+          "start": 60,
+          "end": null,
+          "author": "assistant",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Promotional copy; supplied source material"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A length/style directive is a CONTROL_ACT.",
+      "v2_evidence": "Frozen P0 confirmed. V0.5 MIXED over-fires.",
+      "v2_rationale": "Length/style directive is a transformation request. Frozen P0 confirmed.",
+      "frozen_label": "P0",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_033054": {
+      "adversarial_id": "adv_033054",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD4",
+      "v2_requires_review": true,
+      "v2_family": [
+        "FAMILY_B_STYLE_CARRIER"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 70,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored rewrite directive"
+        },
+        {
+          "start": 70,
+          "end": null,
+          "author": "derek",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Derek's own email body; supplied as source material for rewrite"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning, and both spans must have different supported provenance. When both spans are Derek-authored, the message is not MIXED.",
+      "v2_evidence": "The body is Derek's own email, not an independently authored imported artifact. The rewrite request is a transformation directive (AD4) over his own material.",
+      "v2_rationale": "Rewrite + subject-line request over Derek's own email; transformation AD4, imported body.",
+      "frozen_label": "UNRESOLVED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_007563": {
+      "adversarial_id": "adv_007563",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD4",
+      "v2_requires_review": true,
+      "v2_family": [
+        "FAMILY_C_RECREATE"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 34,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored transformation directive ('Recreate this with 760 characters')"
+        },
+        {
+          "start": 34,
+          "end": 718,
+          "author": "unknown",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Traced assistant-origin marketing text; source_reference copilot_msg_62d9e780125c95c86b955a3fb08d4c90"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A transformation directive is a CONTROL_ACT; it establishes adoption but does not make the message MIXED.",
+      "v2_evidence": "The Derek span is a length-constrained transformation request. The body is traced imported assistant text. Borderline CONTROL_ACT/MODIFICATION; flagged for review.",
+      "v2_rationale": "Recreate + char constraint = transformation request over traced imported text.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_007820": {
+      "adversarial_id": "adv_007820",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD4",
+      "v2_requires_review": true,
+      "v2_family": [
+        "FAMILY_C_RECREATE"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 227,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored transformation directive ('Recreate this for me and DAC')"
+        },
+        {
+          "start": 227,
+          "end": 719,
+          "author": "external",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "YouTube transcript by Michael Cheney; traced to source_reference 4bfce45e-22ae-4d46-a586-89da32205ac0"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. 'For me and DAC' names a target beneficiary but does not add a second independently attributable semantic span; it strengthens adoption (AD4) rather than creating MIXED.",
+      "v2_evidence": "The Derek span is a transformation request over an imported transcript. The beneficiary naming is adoption metadata, not a substantive semantic contribution.",
+      "v2_rationale": "Recreate for me and DAC = transformation request over traced transcript; AD4. Borderline CONTROL_ACT/MODIFICATION, flagged review.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_001443": {
+      "adversarial_id": "adv_001443",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD4",
+      "v2_requires_review": true,
+      "v2_family": [
+        "FAMILY_B_STYLE_CARRIER"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 24,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored prompt-creation directive"
+        },
+        {
+          "start": 24,
+          "end": 476,
+          "author": "assistant",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Traced assistant-origin DALE prompt spec; source_reference eb401f56-d5d2-4b0f-b7ef-b2f1776651f6"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A prompt-creation directive is a CONTROL_ACT.",
+      "v2_evidence": "The Derek span is a brief carrier ('create a prompt for DALE'). The substantive content is the traced assistant-origin prompt specification.",
+      "v2_rationale": "create a prompt for DALE = carrier over traced assistant spec; AD4.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_018155": {
+      "adversarial_id": "adv_018155",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD2",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_D_QUERY_CODE"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 30,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "QUERY",
+          "provenance": "Derek-authored query ('Is this inside the system.')"
+        },
+        {
+          "start": 30,
+          "end": null,
+          "author": "assistant",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Python code agency_economics_v2.py; traced assistant-origin"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A QUERY span is not substantive content; it asks about imported material.",
+      "v2_evidence": "The Derek span is a query about the pasted code, not a substantive modification or requirement.",
+      "v2_rationale": "Query + traced imported Python; not MIXED.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_019425": {
+      "adversarial_id": "adv_019425",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD2",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_D_QUERY_CODE"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 30,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "QUERY",
+          "provenance": "Derek-authored query"
+        },
+        {
+          "start": 30,
+          "end": null,
+          "author": "assistant",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Python code HDE; imported artifact"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A QUERY span is not substantive content.",
+      "v2_evidence": "V0.5 MIXED over-fires. The Derek span is a query about imported code.",
+      "v2_rationale": "Query + imported Python; V0.5 MIXED over-fires.",
+      "frozen_label": "UNRESOLVED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_013001": {
+      "adversarial_id": "adv_013001",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD0",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_D_QUERY_CODE"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": null,
+          "author": "assistant",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Pure paste of n8n checklist; no Derek carrier present"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A pure paste with no Derek carrier is never MIXED.",
+      "v2_evidence": "No Derek span exists. This is a pure paste.",
+      "v2_rationale": "Pure paste, no carrier; never MIXED.",
+      "frozen_label": "UNRESOLVED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_014438": {
+      "adversarial_id": "adv_014438",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD1",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_E_LABEL_QUOTE"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 11,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "LABEL",
+          "provenance": "Derek-authored label ('Her reply.')"
+        },
+        {
+          "start": 11,
+          "end": null,
+          "author": "external",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Third-party quoted message; imported content"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A LABEL span is not substantive content.",
+      "v2_evidence": "The Derek span is a label ('Her reply.'), not a substantive semantic contribution. The body is imported third-party content.",
+      "v2_rationale": "'Her reply.' is a LABEL; body is imported third-party quote.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_006905": {
+      "adversarial_id": "adv_006905",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD2",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_F_INTENT_URL"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 45,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored intent carrier"
+        },
+        {
+          "start": 45,
+          "end": null,
+          "author": "external",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "LinkedIn post URL; external imported content"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A thin intent carrier is a CONTROL_ACT.",
+      "v2_evidence": "The Derek span is a thin intent carrier ('This is a post I like to leave a thoughtful message'). The substantive content is the external LinkedIn post.",
+      "v2_rationale": "Thin intent carrier + external post URL.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_009750": {
+      "adversarial_id": "adv_009750",
+      "v2_evidence_class": "P0",
+      "v2_adoption_status": "AD1",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_G_QUERY_LIST"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 36,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "QUERY",
+          "provenance": "Derek-authored query ('What can be done with these API keys')"
+        },
+        {
+          "start": 36,
+          "end": 159,
+          "author": "unknown",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "API name list (Campaign Management API, Audience Engagement API, Conversion Tracking API); imported content"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A QUERY span is not substantive content.",
+      "v2_evidence": "The Derek span is a query about the API names, not a substantive modification or requirement.",
+      "v2_rationale": "Query + imported API list.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "P0",
+      "v01_adjudicated": "P0",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_002059": {
+      "adversarial_id": "adv_002059",
+      "v2_evidence_class": "UNRESOLVED",
+      "v2_adoption_status": "AD4",
+      "v2_requires_review": true,
+      "v2_family": [
+        "FAMILY_H_OWN_MESSAGE"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 28,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored control act ('how can we make this better:')"
+        },
+        {
+          "start": 28,
+          "end": 610,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "DATA_SUBMISSION",
+          "provenance": "Derek's own Chrome-extension automated message; both spans are Derek-authored"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning, and both spans must have different supported provenance. When both spans are Derek-authored, the message is not MIXED. Fail-closed D0 bar keeps this UNRESOLVED.",
+      "v2_evidence": "Both spans are Derek-authored. The pasted body is Derek's own Chrome-extension message. No second author is present.",
+      "v2_rationale": "Both spans Derek-authored (own Chrome-extension message); D0-leaning, fail-closed UNRESOLVED.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "UNRESOLVED",
+      "v01_adjudicated": "UNRESOLVED",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_017999": {
+      "adversarial_id": "adv_017999",
+      "v2_evidence_class": "UNRESOLVED",
+      "v2_adoption_status": "AD0",
+      "v2_requires_review": true,
+      "v2_family": [
+        "FAMILY_I_PURE_REQUIREMENT"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": null,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "REQUIREMENT",
+          "provenance": "Derek-authored pure requirement ('Can you make the system self learning...')"
+        }
+      ],
+      "v2_derek_span_substantive": true,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A single Derek-authored requirement with no imported body is not MIXED. D0-leaning records stay UNRESOLVED under the fail-closed core.",
+      "v2_evidence": "No second span exists. V0.5 P0 is wrong; frozen MIXED is wrong. This is a Derek-authored requirement.",
+      "v2_rationale": "Pure Derek requirement, no second span; V0.5 P0 is wrong, frozen MIXED is wrong.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "UNRESOLVED",
+      "v01_adjudicated": "UNRESOLVED",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_001444": {
+      "adversarial_id": "adv_001444",
+      "v2_evidence_class": "UNRESOLVED",
+      "v2_adoption_status": "AD2",
+      "v2_requires_review": true,
+      "v2_family": [
+        "FAMILY_I_PURE_REQUIREMENT"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 9,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored directive ('create a')"
+        },
+        {
+          "start": 9,
+          "end": 113,
+          "author": "assistant",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Assistant-origin video-hook spec; traced to source_reference 44b9cef3-2d2f-4be6-abd0-22dc4d2b4963"
+        },
+        {
+          "start": 113,
+          "end": 154,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored directive ('and add it to the top of the description')"
+        }
+      ],
+      "v2_derek_span_substantive": false,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. Derek's spans are control directives (create/add) over imported assistant text; they do not constitute a substantive second span. D0-leaning records stay UNRESOLVED under the fail-closed core.",
+      "v2_evidence": "The Derek spans are brief control directives sandwiching a traced assistant-origin body. No substantive Derek proposition, correction, or reasoning is present.",
+      "v2_rationale": "Pure Derek directive (95-char constraint), no second span.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "UNRESOLVED",
+      "v01_adjudicated": "UNRESOLVED",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_004101": {
+      "adversarial_id": "adv_004101",
+      "v2_evidence_class": "UNRESOLVED",
+      "v2_adoption_status": "AD1",
+      "v2_requires_review": true,
+      "v2_family": [
+        "FAMILY_J_OWN_DATA"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": null,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "DATA_SUBMISSION",
+          "provenance": "Derek's own contact/business data (phone, email, LinkedIn, funding-platform URLs)"
+        }
+      ],
+      "v2_derek_span_substantive": true,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. A single Derek-authored data submission with no imported body is not MIXED. D0-leaning records stay UNRESOLVED under the fail-closed core.",
+      "v2_evidence": "All content is Derek's own identifying/business data. No second author or imported body is present.",
+      "v2_rationale": "Derek's own contact/business data; D0-leaning, fail-closed UNRESOLVED. Frozen MIXED is wrong.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "UNRESOLVED",
+      "v01_adjudicated": "UNRESOLVED",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_003597": {
+      "adversarial_id": "adv_003597",
+      "v2_evidence_class": "MIXED",
+      "v2_adoption_status": "AD1",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_K_GENUINE_MIXED"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 40,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "CONTROL_ACT",
+          "provenance": "Derek-authored carrier ('wait before we move on please help with this')"
+        },
+        {
+          "start": 40,
+          "end": 717,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "REQUIREMENT",
+          "provenance": "Derek's own chat statements ('Great I'm looking for closer and setters / Or I can train them to be')"
+        },
+        {
+          "start": 717,
+          "end": null,
+          "author": "external",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Rob Walker's LinkedIn message; third-party imported content"
+        }
+      ],
+      "v2_derek_span_substantive": true,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. Derek's own statements constitute a substantive span; Rob Walker's message is a second independently attributable substantive span.",
+      "v2_evidence": "Two independently attributable substantive spans exist: Derek's requirement ('looking for closer and setters / Or I can train them to be') and Rob Walker's third-party message. Both contribute meaning.",
+      "v2_rationale": "Derek's own chat statements + Rob Walker's message; two substantive spans.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "MIXED",
+      "v01_adjudicated": "MIXED",
+      "reconciliation_status": "AGREEMENT"
+    },
+    "adv_021989": {
+      "adversarial_id": "adv_021989",
+      "v2_evidence_class": "MIXED",
+      "v2_adoption_status": "AD4",
+      "v2_requires_review": false,
+      "v2_family": [
+        "FAMILY_K_GENUINE_MIXED"
+      ],
+      "v2_span_boundaries": [
+        {
+          "start": 0,
+          "end": 90,
+          "author": "derek",
+          "evidence_class": "D0",
+          "function": "REQUIREMENT",
+          "provenance": "Derek-authored governance requirement ('Can't we put a limit on how much or a plan that allows the system flexibility.')"
+        },
+        {
+          "start": 90,
+          "end": null,
+          "author": "assistant",
+          "evidence_class": "P0",
+          "function": "IMPORTED_CONTENT",
+          "provenance": "Capability list (Writing files / Running new code / ...); traced imported assistant text"
+        }
+      ],
+      "v2_derek_span_substantive": true,
+      "v2_governing_rule": "A message is MIXED only when at least two independently attributable semantic spans exist and both contribute substantive meaning to the resulting message. Derek's governance requirement is substantive; the imported capability list is a second substantive span.",
+      "v2_evidence": "Derek's span is a substantive governance requirement; the list is imported. This is a genuine MIXED record.",
+      "v2_rationale": "Substantive governance requirement + imported capability list.",
+      "frozen_label": "MIXED",
+      "v1_adjudicated": "MIXED",
+      "v01_adjudicated": "MIXED",
+      "reconciliation_status": "AGREEMENT"
+    }
+  }
+}

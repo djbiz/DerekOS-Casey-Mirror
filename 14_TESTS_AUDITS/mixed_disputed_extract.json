@@ -1,0 +1,517 @@
+[
+ {
+  "adversarial_id": "adv_000346",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_000735",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_000941",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_001102",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_001324",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_001326",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_001443",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_001444",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_001825",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_001964",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_002015",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_002059",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_003182",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_003597",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_004101",
+  "frozen": "MIXED",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_005835",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_005852",
+  "frozen": "D0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_006804",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_006905",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_007135",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_007257",
+  "frozen": "D0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_007563",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_007820",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_009750",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_011310",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_011640",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_013001",
+  "frozen": "UNRESOLVED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_013750",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_014438",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_014464",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_014544",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_017999",
+  "frozen": "MIXED",
+  "v05": "P0"
+ },
+ {
+  "adversarial_id": "adv_018155",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_018536",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_019150",
+  "frozen": "D0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_019178",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_019425",
+  "frozen": "UNRESOLVED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_021528",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_021989",
+  "frozen": "MIXED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_022859",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_023806",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_023994",
+  "frozen": "D0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_024593",
+  "frozen": "D0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_025184",
+  "frozen": "D0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_025602",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_025657",
+  "frozen": "D0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_025673",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_025720",
+  "frozen": "D0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_026055",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_026252",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_026722",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_027153",
+  "frozen": "D0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_027517",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_027661",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_027678",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_027762",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_027814",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_027815",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_027927",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_027980",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_028170",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_028257",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_028382",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_028404",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_028546",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_028560",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_028920",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_028925",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_028973",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_029000",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_029035",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_029198",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_029212",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_029474",
+  "frozen": "P0",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_030062",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_030092",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_030107",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_030132",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_030261",
+  "frozen": "P0",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_030670",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_030780",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_030804",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_030864",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_030897",
+  "frozen": "P0",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_030954",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_031092",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_031229",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_031360",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_031597",
+  "frozen": "P0",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_031661",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_032016",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_032023",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_032700",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_032963",
+  "frozen": "P0",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_033054",
+  "frozen": "UNRESOLVED",
+  "v05": "MIXED"
+ },
+ {
+  "adversarial_id": "adv_033117",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_033504",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_033685",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_033881",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_034117",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_034205",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_034335",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ },
+ {
+  "adversarial_id": "adv_034912",
+  "frozen": "P0",
+  "v05": "UNRESOLVED"
+ }
+]

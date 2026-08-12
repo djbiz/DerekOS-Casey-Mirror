@@ -1,0 +1,173 @@
+{
+  "benchmark": "PROVENANCE_ADVERSARIAL_SET_V1",
+  "records": 230,
+  "primary_gate": {
+    "name": "False Derek Attribution",
+    "required": 0,
+    "observed": 69,
+    "passed": false,
+    "case_ids": [
+      "adv_000318",
+      "adv_001381",
+      "adv_001825",
+      "adv_006124",
+      "adv_006770",
+      "adv_007135",
+      "adv_007453",
+      "adv_008147",
+      "adv_009046",
+      "adv_009750",
+      "adv_011993",
+      "adv_012035",
+      "adv_012068",
+      "adv_012199",
+      "adv_012236",
+      "adv_012412",
+      "adv_013200",
+      "adv_013280",
+      "adv_016829",
+      "adv_017867",
+      "adv_017999",
+      "adv_018391",
+      "adv_018536",
+      "adv_019103",
+      "adv_019128",
+      "adv_019178",
+      "adv_021093",
+      "adv_021773",
+      "adv_023273",
+      "adv_023806",
+      "adv_024945",
+      "adv_025602",
+      "adv_025673",
+      "adv_026055",
+      "adv_026252",
+      "adv_027022",
+      "adv_027069",
+      "adv_027082",
+      "adv_027470",
+      "adv_027736",
+      "adv_027756",
+      "adv_027815",
+      "adv_027972",
+      "adv_027980",
+      "adv_027990",
+      "adv_028025",
+      "adv_028040",
+      "adv_028118",
+      "adv_028257",
+      "adv_028263",
+      "adv_028277",
+      "adv_028378",
+      "adv_028382",
+      "adv_028394",
+      "adv_028399",
+      "adv_028444",
+      "adv_028925",
+      "adv_028973",
+      "adv_029000",
+      "adv_029035",
+      "adv_029198",
+      "adv_029212",
+      "adv_030132",
+      "adv_030261",
+      "adv_030897",
+      "adv_032016",
+      "adv_032023",
+      "adv_032963",
+      "adv_033504"
+    ]
+  },
+  "d0": {
+    "predicted": 113,
+    "adjudicated": 47,
+    "correct": 44,
+    "precision": 0.3893805309734513,
+    "recall": 0.9361702127659575
+  },
+  "exact_accuracy": {
+    "adoption_status": 0.7043478260869566,
+    "evidence_class": 0.3391304347826087,
+    "provenance_certainty": 0.34782608695652173,
+    "requires_review": 0.6130434782608696
+  },
+  "confusion_matrix": {
+    "D0": {
+      "D0": 44,
+      "P0": 1,
+      "UNRESOLVED": 2
+    },
+    "MIXED": {
+      "D0": 2,
+      "MIXED": 8,
+      "P0": 5,
+      "UNRESOLVED": 3
+    },
+    "P0": {
+      "D0": 26,
+      "MIXED": 38,
+      "P0": 15,
+      "UNRESOLVED": 22
+    },
+    "UNRESOLVED": {
+      "D0": 41,
+      "MIXED": 4,
+      "P0": 8,
+      "UNRESOLVED": 11
+    }
+  },
+  "category_false_derek": {
+    "C01": {
+      "records": 24,
+      "false_derek": 24
+    },
+    "C02": {
+      "records": 70,
+      "false_derek": 1
+    },
+    "C03": {
+      "records": 50,
+      "false_derek": 30
+    },
+    "C04": {
+      "records": 81,
+      "false_derek": 18
+    },
+    "C05": {
+      "records": 32,
+      "false_derek": 0
+    },
+    "C06": {
+      "records": 55,
+      "false_derek": 27
+    },
+    "C07": {
+      "records": 29,
+      "false_derek": 2
+    },
+    "C08": {
+      "records": 48,
+      "false_derek": 5
+    },
+    "C10": {
+      "records": 38,
+      "false_derek": 0
+    },
+    "C11": {
+      "records": 9,
+      "false_derek": 1
+    },
+    "C12": {
+      "records": 38,
+      "false_derek": 0
+    },
+    "C13": {
+      "records": 72,
+      "false_derek": 66
+    },
+    "C14": {
+      "records": 53,
+      "false_derek": 7
+    }
+  }
+}

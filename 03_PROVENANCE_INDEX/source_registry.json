@@ -1,0 +1,302 @@
+{
+  "generated_at": null,
+  "sources": [
+    {
+      "source": "conversations-000.json",
+      "message_count": 2604,
+      "role_counts": {
+        "user": 1290,
+        "assistant": 1314
+      }
+    },
+    {
+      "source": "conversations-001.json",
+      "message_count": 3063,
+      "role_counts": {
+        "user": 1513,
+        "assistant": 1550
+      }
+    },
+    {
+      "source": "conversations-002.json",
+      "message_count": 2296,
+      "role_counts": {
+        "user": 1142,
+        "assistant": 1154
+      }
+    },
+    {
+      "source": "conversations-003.json",
+      "message_count": 960,
+      "role_counts": {
+        "user": 480,
+        "assistant": 480
+      }
+    },
+    {
+      "source": "conversations-004.json",
+      "message_count": 1437,
+      "role_counts": {
+        "user": 719,
+        "assistant": 718
+      }
+    },
+    {
+      "source": "conversations-005.json",
+      "message_count": 3222,
+      "role_counts": {
+        "user": 1606,
+        "assistant": 1616
+      }
+    },
+    {
+      "source": "conversations-006.json",
+      "message_count": 1544,
+      "role_counts": {
+        "user": 604,
+        "assistant": 940
+      }
+    },
+    {
+      "source": "conversations-007.json",
+      "message_count": 696,
+      "role_counts": {
+        "user": 303,
+        "assistant": 393
+      }
+    },
+    {
+      "source": "conversations-008.json",
+      "message_count": 565,
+      "role_counts": {
+        "user": 232,
+        "assistant": 333
+      }
+    },
+    {
+      "source": "conversations-009.json",
+      "message_count": 1494,
+      "role_counts": {
+        "user": 645,
+        "assistant": 849
+      }
+    },
+    {
+      "source": "conversations-010.json",
+      "message_count": 1116,
+      "role_counts": {
+        "user": 515,
+        "assistant": 601
+      }
+    },
+    {
+      "source": "conversations-011.json",
+      "message_count": 2778,
+      "role_counts": {
+        "user": 1341,
+        "assistant": 1437
+      }
+    },
+    {
+      "source": "conversations-012.json",
+      "message_count": 2659,
+      "role_counts": {
+        "user": 1275,
+        "assistant": 1384
+      }
+    },
+    {
+      "source": "conversations-013.json",
+      "message_count": 3080,
+      "role_counts": {
+        "user": 1507,
+        "assistant": 1573
+      }
+    },
+    {
+      "source": "conversations-014.json",
+      "message_count": 1811,
+      "role_counts": {
+        "user": 859,
+        "assistant": 952
+      }
+    },
+    {
+      "source": "conversations-015.json",
+      "message_count": 1998,
+      "role_counts": {
+        "user": 947,
+        "assistant": 1051
+      }
+    },
+    {
+      "source": "conversations-016.json",
+      "message_count": 3993,
+      "role_counts": {
+        "user": 1940,
+        "assistant": 2053
+      }
+    },
+    {
+      "source": "conversations-017.json",
+      "message_count": 3492,
+      "role_counts": {
+        "user": 1687,
+        "assistant": 1805
+      }
+    },
+    {
+      "source": "conversations-018.json",
+      "message_count": 2159,
+      "role_counts": {
+        "user": 1078,
+        "assistant": 1081
+      }
+    },
+    {
+      "source": "conversations-019.json",
+      "message_count": 1141,
+      "role_counts": {
+        "user": 570,
+        "assistant": 571
+      }
+    },
+    {
+      "source": "conversations-020.json",
+      "message_count": 1364,
+      "role_counts": {
+        "user": 682,
+        "assistant": 682
+      }
+    },
+    {
+      "source": "conversations-021.json",
+      "message_count": 1061,
+      "role_counts": {
+        "user": 531,
+        "assistant": 530
+      }
+    },
+    {
+      "source": "conversations-022.json",
+      "message_count": 1646,
+      "role_counts": {
+        "user": 823,
+        "assistant": 823
+      }
+    },
+    {
+      "source": "conversations-023.json",
+      "message_count": 1163,
+      "role_counts": {
+        "user": 581,
+        "assistant": 582
+      }
+    },
+    {
+      "source": "conversations-024.json",
+      "message_count": 1353,
+      "role_counts": {
+        "user": 676,
+        "assistant": 677
+      }
+    },
+    {
+      "source": "conversations-025.json",
+      "message_count": 1116,
+      "role_counts": {
+        "user": 558,
+        "assistant": 558
+      }
+    },
+    {
+      "source": "conversations-026.json",
+      "message_count": 954,
+      "role_counts": {
+        "user": 476,
+        "assistant": 478
+      }
+    },
+    {
+      "source": "conversations-027.json",
+      "message_count": 875,
+      "role_counts": {
+        "user": 437,
+        "assistant": 438
+      }
+    },
+    {
+      "source": "conversations-028.json",
+      "message_count": 1205,
+      "role_counts": {
+        "user": 604,
+        "assistant": 601
+      }
+    },
+    {
+      "source": "conversations-029.json",
+      "message_count": 1316,
+      "role_counts": {
+        "user": 658,
+        "assistant": 658
+      }
+    },
+    {
+      "source": "conversations-030.json",
+      "message_count": 1204,
+      "role_counts": {
+        "user": 602,
+        "assistant": 602
+      }
+    },
+    {
+      "source": "conversations-031.json",
+      "message_count": 872,
+      "role_counts": {
+        "user": 435,
+        "assistant": 437
+      }
+    },
+    {
+      "source": "conversations-032.json",
+      "message_count": 4057,
+      "role_counts": {
+        "user": 1984,
+        "assistant": 2073
+      }
+    },
+    {
+      "source": "conversations-033.json",
+      "message_count": 4150,
+      "role_counts": {
+        "user": 2033,
+        "assistant": 2117
+      }
+    },
+    {
+      "source": "conversations-034.json",
+      "message_count": 4317,
+      "role_counts": {
+        "user": 2137,
+        "assistant": 2180
+      }
+    },
+    {
+      "source": "copilot-csv",
+      "message_count": 400,
+      "role_counts": {
+        "user": 200,
+        "assistant": 200
+      }
+    },
+    {
+      "source": "other-ai-export-fragments",
+      "message_count": 3080,
+      "role_counts": {
+        "user": 1506,
+        "assistant": 1523
+      }
+    }
+  ],
+  "total_messages": 72241
+}

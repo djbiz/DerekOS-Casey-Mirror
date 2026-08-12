@@ -1,0 +1,98 @@
+{
+  "benchmark": "MIXED_SEMANTICS_BENCHMARK_V2",
+  "timestamp_utc": "2026-08-12T16:05:23.550943+00:00",
+  "parent_benchmark": "PROVENANCE_ADVERSARIAL_SET_V1",
+  "parent_benchmark_sha256": "12821adc0227490185b64a15fbd274d6a1a5bd89b6086edbb1179c48f6500b25",
+  "lineage": [
+    "Frozen V1 (PROVENANCE_ADVERSARIAL_SET_V1)",
+    "Independent Adjudication V1 (MIXED_SEMANTICS_ADJUDICATION_V1)",
+    "Independent Adjudication V0.1 (MIXED_LABEL_SEMANTICS_ADJUDICATION_V0.1)",
+    "26/26 Reconciliation (MIXED_SEMANTICS_RECONCILIATION_MATRIX_V0.1)",
+    "Benchmark V2 (this file)"
+  ],
+  "total_records": 230,
+  "v2_overrides_count": 26,
+  "safety_verification": {
+    "d0_set_unchanged_v05_v06": true,
+    "v06_d0_expansion_vs_v2": [],
+    "v06_d0_expansion_count": 0,
+    "no_d0_expansion": true
+  },
+  "resolvers": {
+    "PROVENANCE_RESOLVER_V0.5": {
+      "resolver": "PROVENANCE_RESOLVER_V0.5",
+      "commit": "f768f1ed22f9022918b63efb20c5e7ececae4b73",
+      "total_records": 230,
+      "covered_records": 230,
+      "coverage": 1.0,
+      "false_derek_attribution": 0,
+      "d0": {
+        "predicted": 76,
+        "adjudicated": 94,
+        "correct": 76,
+        "precision": 1.0,
+        "recall": 0.8085106382978723
+      },
+      "p0": {
+        "predicted": 58,
+        "adjudicated": 232,
+        "correct": 56,
+        "precision": 0.9655172413793104,
+        "recall": 0.2413793103448276
+      },
+      "mixed": {
+        "predicted": 48,
+        "adjudicated": 4,
+        "correct": 4,
+        "precision": 0.08333333333333333,
+        "recall": 1.0
+      },
+      "unresolved": {
+        "predicted": 278,
+        "adjudicated": 130,
+        "correct": 124,
+        "accuracy": 0.9538461538461539
+      },
+      "ad3_ad4_accuracy": 0.7346938775510204,
+      "adoption_accuracy": 0.2391304347826087,
+      "requires_review_accuracy": 0.6652173913043479
+    },
+    "PROVENANCE_RESOLVER_V0.6": {
+      "resolver": "PROVENANCE_RESOLVER_V0.6",
+      "total_records": 230,
+      "covered_records": 230,
+      "coverage": 1.0,
+      "false_derek_attribution": 0,
+      "d0": {
+        "predicted": 76,
+        "adjudicated": 94,
+        "correct": 76,
+        "precision": 1.0,
+        "recall": 0.8085106382978723
+      },
+      "p0": {
+        "predicted": 96,
+        "adjudicated": 232,
+        "correct": 96,
+        "precision": 1.0,
+        "recall": 0.41379310344827586
+      },
+      "mixed": {
+        "predicted": 4,
+        "adjudicated": 4,
+        "correct": 4,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "unresolved": {
+        "predicted": 284,
+        "adjudicated": 130,
+        "correct": 130,
+        "accuracy": 1.0
+      },
+      "ad3_ad4_accuracy": 0.9591836734693877,
+      "adoption_accuracy": 0.2956521739130435,
+      "requires_review_accuracy": 0.6608695652173913
+    }
+  }
+}

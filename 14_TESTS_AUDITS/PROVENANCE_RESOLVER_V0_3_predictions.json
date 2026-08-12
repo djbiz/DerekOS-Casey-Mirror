@@ -1,0 +1,3563 @@
+{
+  "resolver": "PROVENANCE_RESOLVER_V0.3",
+  "count": 230,
+  "predictions": {
+    "adv_000136": {
+      "record_id": "adv_000136",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_000318": {
+      "record_id": "adv_000318",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_000346": {
+      "record_id": "adv_000346",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_000443": {
+      "record_id": "adv_000443",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "ffde76d6-1c69-4f4a-9bd0-e54a2488e5d7",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_000735": {
+      "record_id": "adv_000735",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_000941": {
+      "record_id": "adv_000941",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_001011": {
+      "record_id": "adv_001011",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "f415636d-5e4d-4423-9639-0cc70114ff71",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_001102": {
+      "record_id": "adv_001102",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_001306": {
+      "record_id": "adv_001306",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_001324": {
+      "record_id": "adv_001324",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "899b392d-da4b-4519-bad5-5833bbadba6b",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_001326": {
+      "record_id": "adv_001326",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_001381": {
+      "record_id": "adv_001381",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_001443": {
+      "record_id": "adv_001443",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "eb401f56-d5d2-4b0f-b7ef-b2f1776651f6",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_001444": {
+      "record_id": "adv_001444",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "44b9cef3-2d2f-4be6-abd0-22dc4d2b4963",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_001794": {
+      "record_id": "adv_001794",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "1fea17d6-2362-4493-8b20-0388c1163087",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_001825": {
+      "record_id": "adv_001825",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_001964": {
+      "record_id": "adv_001964",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_002015": {
+      "record_id": "adv_002015",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_002059": {
+      "record_id": "adv_002059",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_002297": {
+      "record_id": "adv_002297",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_002297",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_002323": {
+      "record_id": "adv_002323",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_002323",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_002846": {
+      "record_id": "adv_002846",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_002846",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_003147": {
+      "record_id": "adv_003147",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_003147",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_003182": {
+      "record_id": "adv_003182",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_003529": {
+      "record_id": "adv_003529",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_003529",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_003589": {
+      "record_id": "adv_003589",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_003589",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_003597": {
+      "record_id": "adv_003597",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_003710": {
+      "record_id": "adv_003710",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_004101": {
+      "record_id": "adv_004101",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_004806": {
+      "record_id": "adv_004806",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_004806",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_005835": {
+      "record_id": "adv_005835",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_005852": {
+      "record_id": "adv_005852",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_005890": {
+      "record_id": "adv_005890",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "6ad65682-8583-4cfe-984d-4e9dc274816e",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_006124": {
+      "record_id": "adv_006124",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_006285": {
+      "record_id": "adv_006285",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "7c1129c4-3406-4121-bc6c-8446b2d0b221",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_006770": {
+      "record_id": "adv_006770",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_006804": {
+      "record_id": "adv_006804",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_006905": {
+      "record_id": "adv_006905",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "534ca689-0cdd-4ace-8198-8692a485a77d",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_007135": {
+      "record_id": "adv_007135",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_007257": {
+      "record_id": "adv_007257",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_007453": {
+      "record_id": "adv_007453",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_007563": {
+      "record_id": "adv_007563",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "copilot_msg_62d9e780125c95c86b955a3fb08d4c90",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_007820": {
+      "record_id": "adv_007820",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "4bfce45e-22ae-4d46-a586-89da32205ac0",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_008147": {
+      "record_id": "adv_008147",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_009046": {
+      "record_id": "adv_009046",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_009731": {
+      "record_id": "adv_009731",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_009731",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_009750": {
+      "record_id": "adv_009750",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "4876793c-edc4-4b56-a051-db9c7ab2b667",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_010654": {
+      "record_id": "adv_010654",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_010840": {
+      "record_id": "adv_010840",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_010955": {
+      "record_id": "adv_010955",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "961081e1-2719-461e-89b3-52ae743e9ea1",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_011018": {
+      "record_id": "adv_011018",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_011310": {
+      "record_id": "adv_011310",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "29f4df88-bc97-4d0d-a23f-b1bfb7493bff",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_011482": {
+      "record_id": "adv_011482",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_011599": {
+      "record_id": "adv_011599",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_011640": {
+      "record_id": "adv_011640",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_011641": {
+      "record_id": "adv_011641",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "2",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_011746": {
+      "record_id": "adv_011746",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_011993": {
+      "record_id": "adv_011993",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_012035": {
+      "record_id": "adv_012035",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_012068": {
+      "record_id": "adv_012068",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_012199": {
+      "record_id": "adv_012199",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_012210": {
+      "record_id": "adv_012210",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_012236": {
+      "record_id": "adv_012236",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_012410": {
+      "record_id": "adv_012410",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_012412": {
+      "record_id": "adv_012412",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_012420": {
+      "record_id": "adv_012420",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_012485": {
+      "record_id": "adv_012485",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "7829914f-e438-4ead-9184-c18ae418a7d6",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_012699": {
+      "record_id": "adv_012699",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_012699",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_012771": {
+      "record_id": "adv_012771",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_013001": {
+      "record_id": "adv_013001",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_013200": {
+      "record_id": "adv_013200",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_013280": {
+      "record_id": "adv_013280",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_013330": {
+      "record_id": "adv_013330",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_013330",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_013750": {
+      "record_id": "adv_013750",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "3c15f5fe-5a3d-4d02-8523-2e4a2b86d0eb",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_014438": {
+      "record_id": "adv_014438",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_014464": {
+      "record_id": "adv_014464",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_014544": {
+      "record_id": "adv_014544",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_014859": {
+      "record_id": "adv_014859",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_014859",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_015875": {
+      "record_id": "adv_015875",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_015875",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_016153": {
+      "record_id": "adv_016153",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_016153",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_016489": {
+      "record_id": "adv_016489",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_016489",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_016498": {
+      "record_id": "adv_016498",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_016513": {
+      "record_id": "adv_016513",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_016513",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_016630": {
+      "record_id": "adv_016630",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_016630",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_016642": {
+      "record_id": "adv_016642",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_016684": {
+      "record_id": "adv_016684",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_016684",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_016717": {
+      "record_id": "adv_016717",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_016717",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_016829": {
+      "record_id": "adv_016829",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_016944": {
+      "record_id": "adv_016944",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_016944",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_017675": {
+      "record_id": "adv_017675",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_017675",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_017867": {
+      "record_id": "adv_017867",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_017930": {
+      "record_id": "adv_017930",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_017930",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_017999": {
+      "record_id": "adv_017999",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "167dabe2-341a-4eed-95cc-01e6ef18fb84",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_018019": {
+      "record_id": "adv_018019",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_018019",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_018155": {
+      "record_id": "adv_018155",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "d62281ee-006d-4021-a45e-987bebaa44f3",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_018391": {
+      "record_id": "adv_018391",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_018415": {
+      "record_id": "adv_018415",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_018415",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_018484": {
+      "record_id": "adv_018484",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_018484",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_018536": {
+      "record_id": "adv_018536",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_018613": {
+      "record_id": "adv_018613",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_018887": {
+      "record_id": "adv_018887",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_018887",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_019103": {
+      "record_id": "adv_019103",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_019128": {
+      "record_id": "adv_019128",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_019150": {
+      "record_id": "adv_019150",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_019178": {
+      "record_id": "adv_019178",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_019222": {
+      "record_id": "adv_019222",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_019222",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_019337": {
+      "record_id": "adv_019337",
+      "evidence_class": "MIXED",
+      "submitted_by": "derek",
+      "authored_by": "mixed",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "mixed_segment_evidence",
+          "source_reference": null,
+          "description": "Independent evidence identifies multiple authorship segments."
+        }
+      ],
+      "requires_review": true,
+      "reason": "Message requires claim-level segmentation.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_019425": {
+      "record_id": "adv_019425",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_019452": {
+      "record_id": "adv_019452",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_019452",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_019529": {
+      "record_id": "adv_019529",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_019529",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_020243": {
+      "record_id": "adv_020243",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_020243",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_020428": {
+      "record_id": "adv_020428",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_020428",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_020646": {
+      "record_id": "adv_020646",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_020646",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_021093": {
+      "record_id": "adv_021093",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_021289": {
+      "record_id": "adv_021289",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_021528": {
+      "record_id": "adv_021528",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_021773": {
+      "record_id": "adv_021773",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_021920": {
+      "record_id": "adv_021920",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_021920",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_021989": {
+      "record_id": "adv_021989",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "18dd033a-8754-46f8-a962-47c58dbdfbaf",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_021994": {
+      "record_id": "adv_021994",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_021994",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_022114": {
+      "record_id": "adv_022114",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_022216": {
+      "record_id": "adv_022216",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "copilot_msg_9b4006e7c3ac69d5abfa2abfd2809f5c",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_022859": {
+      "record_id": "adv_022859",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_023273": {
+      "record_id": "adv_023273",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_023641": {
+      "record_id": "adv_023641",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_023641",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_023806": {
+      "record_id": "adv_023806",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_023994": {
+      "record_id": "adv_023994",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_024223": {
+      "record_id": "adv_024223",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "d1865a4f-20b4-446e-b5a8-ff474c07f387",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_024593": {
+      "record_id": "adv_024593",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_024682": {
+      "record_id": "adv_024682",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "4fb6e365-8c58-48fb-9532-9e29d93797a8",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_024794": {
+      "record_id": "adv_024794",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_024794",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_024918": {
+      "record_id": "adv_024918",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD4",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_024918",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_024945": {
+      "record_id": "adv_024945",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_025184": {
+      "record_id": "adv_025184",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_025602": {
+      "record_id": "adv_025602",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_025657": {
+      "record_id": "adv_025657",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "70c2d7f0-c504-415b-94e4-d8fc0108bdd9",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_025673": {
+      "record_id": "adv_025673",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_025720": {
+      "record_id": "adv_025720",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_026055": {
+      "record_id": "adv_026055",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_026247": {
+      "record_id": "adv_026247",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_026247",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_026252": {
+      "record_id": "adv_026252",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_026480": {
+      "record_id": "adv_026480",
+      "evidence_class": "D0",
+      "submitted_by": "derek",
+      "authored_by": "derek",
+      "adopted_by": "derek",
+      "adoption_status": "AD3",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "direct_control_act",
+          "source_reference": "adv_026480",
+          "description": "Brief direct response to an immediately preceding assistant turn."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Derek authorship is supported by positive, traceable evidence.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_026699": {
+      "record_id": "adv_026699",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "a23d37b2-bf5b-42d0-b52c-83a80866ae69",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_026722": {
+      "record_id": "adv_026722",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027022": {
+      "record_id": "adv_027022",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027069": {
+      "record_id": "adv_027069",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027082": {
+      "record_id": "adv_027082",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027153": {
+      "record_id": "adv_027153",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027470": {
+      "record_id": "adv_027470",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027517": {
+      "record_id": "adv_027517",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027554": {
+      "record_id": "adv_027554",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "6e6c585a-dc3d-4f15-8718-9fa345a0f5c5",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_027661": {
+      "record_id": "adv_027661",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027678": {
+      "record_id": "adv_027678",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "64bc8f5f-af8f-44ae-8e56-2e1bf7da2a83",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_027736": {
+      "record_id": "adv_027736",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027756": {
+      "record_id": "adv_027756",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027762": {
+      "record_id": "adv_027762",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027814": {
+      "record_id": "adv_027814",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027815": {
+      "record_id": "adv_027815",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027927": {
+      "record_id": "adv_027927",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027972": {
+      "record_id": "adv_027972",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027980": {
+      "record_id": "adv_027980",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_027990": {
+      "record_id": "adv_027990",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028025": {
+      "record_id": "adv_028025",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028040": {
+      "record_id": "adv_028040",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028118": {
+      "record_id": "adv_028118",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028170": {
+      "record_id": "adv_028170",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028257": {
+      "record_id": "adv_028257",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028263": {
+      "record_id": "adv_028263",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028277": {
+      "record_id": "adv_028277",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028378": {
+      "record_id": "adv_028378",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028382": {
+      "record_id": "adv_028382",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028394": {
+      "record_id": "adv_028394",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028399": {
+      "record_id": "adv_028399",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028404": {
+      "record_id": "adv_028404",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028407": {
+      "record_id": "adv_028407",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "8",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_028411": {
+      "record_id": "adv_028411",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028444": {
+      "record_id": "adv_028444",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028546": {
+      "record_id": "adv_028546",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028560": {
+      "record_id": "adv_028560",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028654": {
+      "record_id": "adv_028654",
+      "evidence_class": "MIXED",
+      "submitted_by": "derek",
+      "authored_by": "mixed",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "mixed_segment_evidence",
+          "source_reference": null,
+          "description": "Independent evidence identifies multiple authorship segments."
+        }
+      ],
+      "requires_review": true,
+      "reason": "Message requires claim-level segmentation.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_028920": {
+      "record_id": "adv_028920",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028925": {
+      "record_id": "adv_028925",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_028973": {
+      "record_id": "adv_028973",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_029000": {
+      "record_id": "adv_029000",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_029035": {
+      "record_id": "adv_029035",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_029198": {
+      "record_id": "adv_029198",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_029212": {
+      "record_id": "adv_029212",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_029474": {
+      "record_id": "adv_029474",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_030062": {
+      "record_id": "adv_030062",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_030092": {
+      "record_id": "adv_030092",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_030104": {
+      "record_id": "adv_030104",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "6079e7ca-2238-4619-91b3-a824ac291d73",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_030107": {
+      "record_id": "adv_030107",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_030132": {
+      "record_id": "adv_030132",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_030261": {
+      "record_id": "adv_030261",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_030342": {
+      "record_id": "adv_030342",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "5269b501-d6ad-4d28-a2ea-ce1fd6d912bd",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_030604": {
+      "record_id": "adv_030604",
+      "evidence_class": "MIXED",
+      "submitted_by": "derek",
+      "authored_by": "mixed",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "mixed_segment_evidence",
+          "source_reference": null,
+          "description": "Independent evidence identifies multiple authorship segments."
+        }
+      ],
+      "requires_review": true,
+      "reason": "Message requires claim-level segmentation.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_030670": {
+      "record_id": "adv_030670",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_030780": {
+      "record_id": "adv_030780",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_030804": {
+      "record_id": "adv_030804",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_030864": {
+      "record_id": "adv_030864",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_030897": {
+      "record_id": "adv_030897",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_030954": {
+      "record_id": "adv_030954",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_031072": {
+      "record_id": "adv_031072",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "dbb4ccee-6a21-478f-b440-d3c72f24a834",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_031092": {
+      "record_id": "adv_031092",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_031229": {
+      "record_id": "adv_031229",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_031360": {
+      "record_id": "adv_031360",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_031597": {
+      "record_id": "adv_031597",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_031661": {
+      "record_id": "adv_031661",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_031889": {
+      "record_id": "adv_031889",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "54883f8d-96af-4ef2-b5d6-e66a5ce9a8fe",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_032016": {
+      "record_id": "adv_032016",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_032023": {
+      "record_id": "adv_032023",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_032030": {
+      "record_id": "adv_032030",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "39722ae2-4e51-4699-aa8f-c9ef000984f5",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_032700": {
+      "record_id": "adv_032700",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_032963": {
+      "record_id": "adv_032963",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_033022": {
+      "record_id": "adv_033022",
+      "evidence_class": "MIXED",
+      "submitted_by": "derek",
+      "authored_by": "mixed",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "mixed_segment_evidence",
+          "source_reference": null,
+          "description": "Independent evidence identifies multiple authorship segments."
+        }
+      ],
+      "requires_review": true,
+      "reason": "Message requires claim-level segmentation.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_033054": {
+      "record_id": "adv_033054",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_033108": {
+      "record_id": "adv_033108",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "39722ae2-4e51-4699-aa8f-c9ef000984f5",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_033117": {
+      "record_id": "adv_033117",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_033504": {
+      "record_id": "adv_033504",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_033685": {
+      "record_id": "adv_033685",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_033720": {
+      "record_id": "adv_033720",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "363eb4e5-e84a-4a3c-9512-7870c7498417",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_033805": {
+      "record_id": "adv_033805",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "38",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_033881": {
+      "record_id": "adv_033881",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_033891": {
+      "record_id": "adv_033891",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "16",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_034117": {
+      "record_id": "adv_034117",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_034205": {
+      "record_id": "adv_034205",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_034335": {
+      "record_id": "adv_034335",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    },
+    "adv_034448": {
+      "record_id": "adv_034448",
+      "evidence_class": "MIXED",
+      "submitted_by": "derek",
+      "authored_by": "mixed",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-3",
+      "positive_evidence": [
+        {
+          "code": "DAE-3",
+          "kind": "mixed_segment_evidence",
+          "source_reference": null,
+          "description": "Independent evidence identifies multiple authorship segments."
+        }
+      ],
+      "requires_review": true,
+      "reason": "Message requires claim-level segmentation.",
+      "provenance_certainty": "PC3"
+    },
+    "adv_034886": {
+      "record_id": "adv_034886",
+      "evidence_class": "P0",
+      "submitted_by": "derek",
+      "authored_by": "assistant",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-4",
+      "positive_evidence": [
+        {
+          "code": "DAE-4",
+          "kind": "assistant_origin",
+          "source_reference": "32",
+          "description": "Assistant origin or substantial assistant reuse is positively established."
+        }
+      ],
+      "requires_review": false,
+      "reason": "Submission is not authorship; assistant provenance controls.",
+      "provenance_certainty": "PC4"
+    },
+    "adv_034912": {
+      "record_id": "adv_034912",
+      "evidence_class": "UNRESOLVED",
+      "submitted_by": "derek",
+      "authored_by": "unknown",
+      "adopted_by": null,
+      "adoption_status": "AD0",
+      "derek_attribution_evidence": "DAE-0",
+      "positive_evidence": [],
+      "requires_review": true,
+      "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+      "provenance_certainty": "PC0"
+    }
+  }
+}

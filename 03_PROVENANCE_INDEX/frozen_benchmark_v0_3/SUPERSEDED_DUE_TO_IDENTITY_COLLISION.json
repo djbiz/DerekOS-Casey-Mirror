@@ -1,0 +1,16 @@
+{
+  "status": "SUPERSEDED_DUE_TO_IDENTITY_COLLISION",
+  "applies_to": [
+    "frozen_benchmark_v0_3_cases.jsonl (unedited, still frozen as-is)",
+    "PROVENANCE_INDEX_V0.3_EVALUATION_REPORT.md section 4"
+  ],
+  "affected_cases": [
+    "fbv3_001",
+    "fbv3_002",
+    "fbv3_006"
+  ],
+  "reason": "fbv3_001/fbv3_002 use candidate_origin_record_id values \"1\"/\"3\" from the other-ai-export source - both non-globally-unique. fbv3_006's reported SIMILARITY_EDGE hit was directly confirmed to be a collision artifact (origin_side_coverage: 2.628, mathematically impossible, and the resolved origin_conversation_id does not match the message the hit claims to reference). This affects the intended headline demonstration case for V0.3's reverse-direction capability - the independent manual verification (93.3% shingle coverage) recorded in the case notes still stands as evidence, but V0.3's own scored result for these specific pairs does not.",
+  "full_report": "03_PROVENANCE_INDEX/v0_3/CORPUS_IDENTITY_INTEGRITY_REPORT.md",
+  "created": "2026-08-12T16:51:01.525054+00:00",
+  "note": "The frozen case file itself is NOT edited - this is an additive, separate marker per the append-only Evidence Truth vs Adjudication Truth rule."
+}

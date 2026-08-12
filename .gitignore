@@ -1,0 +1,108 @@
+# Immutable source corpus: retained locally and proven by source manifests/hashes.
+00_RAW_ARCHIVE/**
+
+# Reproducible, large Phase 1 products.
+01_INGEST/messages.jsonl
+01_INGEST/conversations_index.json
+01_INGEST/ingest_report.json
+01_INGEST/checkpoint.json
+01_INGEST/conversations/
+01_INGEST/*.tmp
+
+# Large exploratory/audit products; generators and concise reports are tracked.
+14_TESTS_AUDITS/candidates_raw.json
+14_TESTS_AUDITS/reused_passages_candidates.json
+
+# Local runtime noise.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# ============================================================
+# DEREKOS LOCAL EVIDENCE / PRIVATE RUNTIME
+# ============================================================
+
+# Local backup files
+.gitignore.pre_mirror_backup
+
+# Qoder local indexes/databases
+.qoder/
+
+# Local databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Secrets / environment
+.env
+.env.*
+!.env.example
+!.env.template
+
+# Local Python environments
+.venv/
+venv/
+
+# Full corpus payloads stay on D:\
+13_SOURCE_INDEX/corpus_releases/*/messages.jsonl
+
+# Large generated provenance evidence stays local
+03_PROVENANCE_INDEX/**/origin_candidates.jsonl
+03_PROVENANCE_INDEX/**/reuse_hits.jsonl
+03_PROVENANCE_INDEX/**/derivation_chains.jsonl
+
+# Generated benchmark harvesting/raw outputs
+03_PROVENANCE_INDEX/**/harvested_candidates.json
+03_PROVENANCE_INDEX/**/scoring_raw_results*.json
+
+# ============================================================
+# PRIVATE MESSAGE-LEVEL / CORPUS-DERIVED TEST DATA
+# ============================================================
+
+14_TESTS_AUDITS/FROZEN_ADJUDICATION_V1.jsonl
+14_TESTS_AUDITS/NOTION_PROVENANCE_RESOLUTION_V0.1.jsonl
+14_TESTS_AUDITS/PROVENANCE_OUT_OF_SAMPLE_SET_V1.jsonl
+14_TESTS_AUDITS/PROVENANCE_OUT_OF_SAMPLE_SET_V2.jsonl
+14_TESTS_AUDITS/provenance_gold_set_v1_1.jsonl
+
+14_TESTS_AUDITS/provenance_resolver_v0_2/stage1_evidence_packages.jsonl
+14_TESTS_AUDITS/provenance_resolver_v0_2/stage2_segments.jsonl
+
+# ============================================================
+# PRIVATE RECONSTRUCTION / OUT-OF-SAMPLE EVIDENCE
+# ============================================================
+
+# OOS bundles contain target/context/origin_candidate source material
+14_TESTS_AUDITS/out_of_sample_bundles/
+14_TESTS_AUDITS/out_of_sample_v2_bundles/
+
+# Reconstruction artifacts contain content/evidence/source-derived history
+08_MASTER_PLAN/reconstruction_pilots/conglomerate/CONGLOMERATE_PROPOSITION_LEDGER_V0.1.jsonl
+08_MASTER_PLAN/reconstruction_pilots/conglomerate/CONGLOMERATE_TIMELINE_V0.1.jsonl
+08_MASTER_PLAN/reconstruction_pilots/conglomerate/CONGLOMERATE_CONTRADICTIONS_V0.1.jsonl
+08_MASTER_PLAN/reconstruction_pilots/conglomerate/CONGLOMERATE_RELATIONSHIP_CANDIDATES_V0.1.jsonl
+
+
+# ============================================================
+# PRIVATE NOTION / CROSS-SOURCE EVIDENCE OUTPUTS
+# ============================================================
+
+# Generated audit payloads contain message IDs, conversation context,
+# text previews, events, chains, and cross-source evidence.
+14_TESTS_AUDITS/notion_audit/
+
+# Raw crawl output may contain retrieved Notion/source content.
+14_TESTS_AUDITS/notion_audit_crawl_output.txt
+
+
+# ============================================================
+# PRIVATE CROSS-SOURCE / RECONSTRUCTED INTELLIGENCE DATA
+# ============================================================
+
+14_TESTS_AUDITS/cross_source_reuse_index.json
+14_TESTS_AUDITS/provenance_resolver_v0_2/stage3_input_bundle.json
+14_TESTS_AUDITS/copilot_chatgpt_overlap.json
+
+08_MASTER_PLAN/reconstruction_pilots/conglomerate/GEN3_ADOPTION_CHAINS_V0.1.json
+08_MASTER_PLAN/reconstruction_pilots/conglomerate/GEN3_PRIORITY_PROVENANCE_SET_V0.1.json
+

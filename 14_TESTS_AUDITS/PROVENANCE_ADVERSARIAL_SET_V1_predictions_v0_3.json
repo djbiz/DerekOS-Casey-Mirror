@@ -1,0 +1,2306 @@
+{
+ "resolver": "PROVENANCE_RESOLVER_V0.3",
+ "count": 230,
+ "predictions": {
+  "adv_000136": {
+   "adversarial_id": "adv_000136",
+   "message_id": "aaa21b09-e68b-4140-bce3-20fdc67a2333",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_000318": {
+   "adversarial_id": "adv_000318",
+   "message_id": "aaa21edd-7cb8-4a75-a5fc-90db6a496d2e",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_000346": {
+   "adversarial_id": "adv_000346",
+   "message_id": "aaa2eb97-e5e4-4e15-b841-b5cf3cefcaea",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_000443": {
+   "adversarial_id": "adv_000443",
+   "message_id": "aaa24998-d01c-4f55-9c00-f595ab7a5755",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_000735": {
+   "adversarial_id": "adv_000735",
+   "message_id": "aaa2707e-32f2-4bbc-9eb1-d45f7eb1f33c",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_000941": {
+   "adversarial_id": "adv_000941",
+   "message_id": "aaa2a2ee-c271-473a-90f9-095fa51b1039",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_001011": {
+   "adversarial_id": "adv_001011",
+   "message_id": "aaa2a6c0-deed-4980-9518-0a2132e6d315",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_001102": {
+   "adversarial_id": "adv_001102",
+   "message_id": "aaa25e44-dadd-4df8-b97d-a7417575238a",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_001306": {
+   "adversarial_id": "adv_001306",
+   "message_id": "aaa2648e-0aaf-4820-98d6-8a91e664117d",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_001324": {
+   "adversarial_id": "adv_001324",
+   "message_id": "aaa2ddf4-ae98-45ea-be8d-52a27934cbd5",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_001326": {
+   "adversarial_id": "adv_001326",
+   "message_id": "aaa2e565-8a57-4d47-b4ac-617c8d0d6444",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_001381": {
+   "adversarial_id": "adv_001381",
+   "message_id": "aaa22cab-3c85-4fc9-a433-f6f7292e26a9",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_001443": {
+   "adversarial_id": "adv_001443",
+   "message_id": "aaa2bea8-6eb7-4c13-8a3d-c9e395f8a017",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_001444": {
+   "adversarial_id": "adv_001444",
+   "message_id": "aaa2c23c-2c73-4845-8fa0-b5c2fdf531b2",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_001794": {
+   "adversarial_id": "adv_001794",
+   "message_id": "aaa24b07-b627-4390-bcb3-d0e4c7660bda",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_001825": {
+   "adversarial_id": "adv_001825",
+   "message_id": "aaa2957d-6013-4054-b170-b0ff0f73766b",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_001964": {
+   "adversarial_id": "adv_001964",
+   "message_id": "aaa27d88-9dcf-4253-bc9f-758fe0d21593",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_002015": {
+   "adversarial_id": "adv_002015",
+   "message_id": "aaa234e8-237f-4344-b724-a0166fc51343",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_002059": {
+   "adversarial_id": "adv_002059",
+   "message_id": "aaa2b8c8-bd05-4b6f-87f8-4296237bd5ac",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_002297": {
+   "adversarial_id": "adv_002297",
+   "message_id": "bbb21de1-6ea7-4bda-ac0c-007942d5a104",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_002323": {
+   "adversarial_id": "adv_002323",
+   "message_id": "bbb214f4-046c-4ac7-87f6-87ac63b702cd",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_002846": {
+   "adversarial_id": "adv_002846",
+   "message_id": "bbb21b4a-3ac4-43eb-9076-413a34296baa",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_003147": {
+   "adversarial_id": "adv_003147",
+   "message_id": "bbb21357-870f-43d2-a333-60d8d22464a2",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_003182": {
+   "adversarial_id": "adv_003182",
+   "message_id": "cc9849b1-23cc-4ad8-a09b-31a3cca78baf",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_003529": {
+   "adversarial_id": "adv_003529",
+   "message_id": "bbb2115b-b8b0-4268-b465-1a958f292497",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_003589": {
+   "adversarial_id": "adv_003589",
+   "message_id": "bbb214ab-21de-485f-8f03-8b4add3ddcb9",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_003597": {
+   "adversarial_id": "adv_003597",
+   "message_id": "2935da59-9150-4221-a529-9b9d556447e1",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_003710": {
+   "adversarial_id": "adv_003710",
+   "message_id": "bbb214d4-8d74-42f4-8daa-0a545b8d6d57",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_004101": {
+   "adversarial_id": "adv_004101",
+   "message_id": "8d094f5c-349e-446d-9c02-ab677906a060",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_004806": {
+   "adversarial_id": "adv_004806",
+   "message_id": "bbb213f3-9ef2-4218-9793-cb558d8aa811",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_005835": {
+   "adversarial_id": "adv_005835",
+   "message_id": "bbb21b23-59be-4852-bd64-0804e97c6205",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_005852": {
+   "adversarial_id": "adv_005852",
+   "message_id": "bbb21106-7c9f-4a19-8d64-b7ce56a31dbd",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_005890": {
+   "adversarial_id": "adv_005890",
+   "message_id": "bbb21443-0f65-401b-aa33-fd3465e0bacd",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_006124": {
+   "adversarial_id": "adv_006124",
+   "message_id": "bbb2168c-35a0-4758-94bb-e4081d91a079",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_006285": {
+   "adversarial_id": "adv_006285",
+   "message_id": "bbb21960-6089-4268-beaf-938b197c17dc",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_006770": {
+   "adversarial_id": "adv_006770",
+   "message_id": "bbb21c61-43b3-40a4-88ea-09f026d741d6",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_006804": {
+   "adversarial_id": "adv_006804",
+   "message_id": "bbb21190-d0f7-43ad-afb8-a760a3b307cc",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_006905": {
+   "adversarial_id": "adv_006905",
+   "message_id": "bbb213bf-764e-4e89-a801-c3ba975b5649",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_007135": {
+   "adversarial_id": "adv_007135",
+   "message_id": "bbb21a39-fa2d-4cf7-b826-a2a74a55d3e0",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_007257": {
+   "adversarial_id": "adv_007257",
+   "message_id": "bbb214f9-5d9d-4c58-b1d8-f6cc0f9b2647",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_007453": {
+   "adversarial_id": "adv_007453",
+   "message_id": "bbb2152e-c3ec-4a15-af2f-ca3296ca5efa",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_007563": {
+   "adversarial_id": "adv_007563",
+   "message_id": "bbb21e5a-dbb5-4d7d-a8a4-f9e736580e6d",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_007820": {
+   "adversarial_id": "adv_007820",
+   "message_id": "bbb21e47-908a-42d1-8222-43bb4bca757d",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_008147": {
+   "adversarial_id": "adv_008147",
+   "message_id": "bbb21ed4-8f18-4b90-b593-0ec0b93e0c2a",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_009046": {
+   "adversarial_id": "adv_009046",
+   "message_id": "bbb21322-3318-4d20-b477-0b799acdd2f4",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_009731": {
+   "adversarial_id": "adv_009731",
+   "message_id": "bbb216bf-e51c-41b5-961a-4486ef7fa4d2",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_009750": {
+   "adversarial_id": "adv_009750",
+   "message_id": "bbb21dfd-f637-4f4f-a70f-867cdffab3a5",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_010654": {
+   "adversarial_id": "adv_010654",
+   "message_id": "bbb218f2-2a84-4afc-bdc2-e89577a9ebb8",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_010840": {
+   "adversarial_id": "adv_010840",
+   "message_id": "bbb2147d-65f4-4bbf-b781-0bbd0af2e16a",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_010955": {
+   "adversarial_id": "adv_010955",
+   "message_id": "bbb217dc-0edd-4842-b507-6daa80f8b75e",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_011018": {
+   "adversarial_id": "adv_011018",
+   "message_id": "bbb21c37-63aa-4265-9ee6-46b0b94052fc",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_011310": {
+   "adversarial_id": "adv_011310",
+   "message_id": "bbb21da2-0f91-4425-9fcc-fe08e4bfbddc",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_011482": {
+   "adversarial_id": "adv_011482",
+   "message_id": "bbb21d51-7202-431e-8b09-db2de6755e9b",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_011599": {
+   "adversarial_id": "adv_011599",
+   "message_id": "bbb21519-5e98-4c2f-8760-eabf1fb53f5e",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_011640": {
+   "adversarial_id": "adv_011640",
+   "message_id": "bbb21125-d903-4a6d-b929-b8d98842adf2",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_011641": {
+   "adversarial_id": "adv_011641",
+   "message_id": "bbb21158-d4f9-46bb-996e-efde317988ee",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_011746": {
+   "adversarial_id": "adv_011746",
+   "message_id": "bbb21225-9f6b-4212-91d2-59e1aaa79b18",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_011993": {
+   "adversarial_id": "adv_011993",
+   "message_id": "bbb210af-4a6d-49a8-8262-adb7f981203b",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_012035": {
+   "adversarial_id": "adv_012035",
+   "message_id": "bbb2137e-05e7-4737-b6c5-6feef157744b",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_012068": {
+   "adversarial_id": "adv_012068",
+   "message_id": "bbb21c69-e685-49ee-b2d7-969d179a6ccb",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_012199": {
+   "adversarial_id": "adv_012199",
+   "message_id": "bbb21063-505b-48d8-8d0d-319a73a111a8",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_012210": {
+   "adversarial_id": "adv_012210",
+   "message_id": "bbb21452-9bff-408f-9b57-4a0dfce78dc3",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_012236": {
+   "adversarial_id": "adv_012236",
+   "message_id": "bbb21c3a-1f7e-4a92-a53b-adf35fc10957",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_012410": {
+   "adversarial_id": "adv_012410",
+   "message_id": "bbb2118b-b934-40cf-9f08-85665c97955c",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_012412": {
+   "adversarial_id": "adv_012412",
+   "message_id": "bbb21320-1fe0-42a6-a706-c4da8d3a62e8",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_012420": {
+   "adversarial_id": "adv_012420",
+   "message_id": "bbb218a9-0c33-48aa-b708-b7ba55173417",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_012485": {
+   "adversarial_id": "adv_012485",
+   "message_id": "bbb215e6-f5b5-46b9-86b7-1e544eae2f74",
+   "evidence_class": "P0",
+   "adoption_status": "AD3",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_012699": {
+   "adversarial_id": "adv_012699",
+   "message_id": "bbb219b4-5a2a-4768-a700-e2d403d1c405",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_012771": {
+   "adversarial_id": "adv_012771",
+   "message_id": "bbb21a6e-57a3-4642-b27a-ca7e32e242f2",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_013001": {
+   "adversarial_id": "adv_013001",
+   "message_id": "bbb2158a-b681-413d-a9c0-8ac51b2f0485",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_013200": {
+   "adversarial_id": "adv_013200",
+   "message_id": "bbb21679-5f7f-49d9-adea-53c2955f8c4c",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_013280": {
+   "adversarial_id": "adv_013280",
+   "message_id": "bbb21261-cafd-447f-94cf-e331c5921a69",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_013330": {
+   "adversarial_id": "adv_013330",
+   "message_id": "bbb217b9-a93d-4cf0-9548-21f55e89f231",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_013750": {
+   "adversarial_id": "adv_013750",
+   "message_id": "bbb211aa-251c-4144-86b3-26ca2b13b936",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_014438": {
+   "adversarial_id": "adv_014438",
+   "message_id": "bbb21384-cfb9-406a-a904-691f31ef81c2",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_014464": {
+   "adversarial_id": "adv_014464",
+   "message_id": "bbb216d7-1dc7-4941-800d-518a0a181f61",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_014544": {
+   "adversarial_id": "adv_014544",
+   "message_id": "bbb21f87-9cff-4684-925d-1288582369fc",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_014859": {
+   "adversarial_id": "adv_014859",
+   "message_id": "bbb217c7-e4cf-4328-aedb-3795ae4bdfd9",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_015875": {
+   "adversarial_id": "adv_015875",
+   "message_id": "bbb216d2-f5c8-40ef-bba4-6aa0925060da",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_016153": {
+   "adversarial_id": "adv_016153",
+   "message_id": "bbb21b76-c504-4e18-8db6-dfb041fabc0c",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_016489": {
+   "adversarial_id": "adv_016489",
+   "message_id": "bbb21c58-71a2-4726-a6ae-d7b8c39e1bbf",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_016498": {
+   "adversarial_id": "adv_016498",
+   "message_id": "bbb21e06-7a90-421d-9106-f88febf803cf",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_016513": {
+   "adversarial_id": "adv_016513",
+   "message_id": "bbb21056-8062-4ef5-9446-8584a0df0d2a",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_016630": {
+   "adversarial_id": "adv_016630",
+   "message_id": "bbb215c4-78a4-4e0a-ae61-911dd1b84d0e",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_016642": {
+   "adversarial_id": "adv_016642",
+   "message_id": "bbb21613-8ae7-472e-8871-436e1d044b09",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_016684": {
+   "adversarial_id": "adv_016684",
+   "message_id": "bbb217cc-c786-4446-a137-f0594ef5a0e2",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_016717": {
+   "adversarial_id": "adv_016717",
+   "message_id": "bbb2195a-6f04-4ced-9ab5-3fd70b1612a7",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_016829": {
+   "adversarial_id": "adv_016829",
+   "message_id": "bbb21ea1-9f74-4288-b9e0-cece5ea28f8b",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_016944": {
+   "adversarial_id": "adv_016944",
+   "message_id": "bbb21372-682f-42f8-9dbd-bdcffea42562",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_017675": {
+   "adversarial_id": "adv_017675",
+   "message_id": "bbb215d4-0625-4357-abf9-51f02982de0b",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_017867": {
+   "adversarial_id": "adv_017867",
+   "message_id": "bbb21beb-a37d-4e02-981e-46a2532d75d4",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_017930": {
+   "adversarial_id": "adv_017930",
+   "message_id": "bbb21212-709c-4d4d-92e0-1166397bd274",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_017999": {
+   "adversarial_id": "adv_017999",
+   "message_id": "bbb21c60-c09d-4246-b5d4-f54ac2b93e7c",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_018019": {
+   "adversarial_id": "adv_018019",
+   "message_id": "bbb216fa-091d-49eb-8e3f-642e14e0ebb2",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_018155": {
+   "adversarial_id": "adv_018155",
+   "message_id": "bbb2102e-db10-45b9-a0fd-6dd9be805d94",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_018391": {
+   "adversarial_id": "adv_018391",
+   "message_id": "bbb21fa1-bf05-4a7d-8fb7-a28d7452b3ba",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_018415": {
+   "adversarial_id": "adv_018415",
+   "message_id": "bbb21dea-e027-4d2c-9abf-daa96b085937",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_018484": {
+   "adversarial_id": "adv_018484",
+   "message_id": "bbb213f4-7691-4cbf-a1ce-2a76e3f78ac5",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_018536": {
+   "adversarial_id": "adv_018536",
+   "message_id": "bbb21854-d2e4-451e-a80d-0d1bed17a432",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_018613": {
+   "adversarial_id": "adv_018613",
+   "message_id": "bbb21968-ffa5-450a-8f34-06af078949c8",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_018887": {
+   "adversarial_id": "adv_018887",
+   "message_id": "bbb21ada-651d-4838-ab7d-b882c10a054d",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_019103": {
+   "adversarial_id": "adv_019103",
+   "message_id": "bbb213e0-a68f-45df-a493-dbabc2678308",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_019128": {
+   "adversarial_id": "adv_019128",
+   "message_id": "bbb21a58-f44f-40a4-864c-714239657456",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_019150": {
+   "adversarial_id": "adv_019150",
+   "message_id": "bbb215d9-f814-480d-a90b-974a248d5b3e",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_019178": {
+   "adversarial_id": "adv_019178",
+   "message_id": "bbb21ecc-452a-4b18-a6e6-4092c7dc19ae",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_019222": {
+   "adversarial_id": "adv_019222",
+   "message_id": "bbb216bf-aa16-4ba1-b997-e6bf9a2e8d98",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_019337": {
+   "adversarial_id": "adv_019337",
+   "message_id": "bbb21aeb-4045-49cf-8e6b-959742fb71a9",
+   "evidence_class": "MIXED",
+   "adoption_status": "AD0",
+   "authored_by": "mixed",
+   "reason": "Message requires claim-level segmentation.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_019425": {
+   "adversarial_id": "adv_019425",
+   "message_id": "bbb2125d-a9c6-4737-8d77-4cf4f63b1f8e",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_019452": {
+   "adversarial_id": "adv_019452",
+   "message_id": "bbb2198f-bac9-4996-b8e4-8568e7026016",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_019529": {
+   "adversarial_id": "adv_019529",
+   "message_id": "bbb21fae-4b7f-4d52-86ec-394ca415be96",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_020243": {
+   "adversarial_id": "adv_020243",
+   "message_id": "bbb21900-9021-4fb4-a5ba-c4c7d30e362f",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_020428": {
+   "adversarial_id": "adv_020428",
+   "message_id": "bbb212d7-f68d-49f3-ac13-7743e341c09c",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_020646": {
+   "adversarial_id": "adv_020646",
+   "message_id": "bbb218ac-92ae-4e2b-bca0-3ae09526652d",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_021093": {
+   "adversarial_id": "adv_021093",
+   "message_id": "bbb218fa-dced-4ea6-af69-c76a2604bbaa",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_021289": {
+   "adversarial_id": "adv_021289",
+   "message_id": "bbb217e1-d6c3-4766-b548-94e3c7d30ce6",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_021528": {
+   "adversarial_id": "adv_021528",
+   "message_id": "bbb21c28-9141-4608-8729-593e5f2dec9f",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_021773": {
+   "adversarial_id": "adv_021773",
+   "message_id": "bbb219be-5bc0-4e65-8625-addc360c9f18",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_021920": {
+   "adversarial_id": "adv_021920",
+   "message_id": "bbb2130a-870f-4903-b4f7-409d13364a07",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_021989": {
+   "adversarial_id": "adv_021989",
+   "message_id": "bbb215d2-4b2b-44f8-83bb-f4f3a845e82b",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_021994": {
+   "adversarial_id": "adv_021994",
+   "message_id": "bbb21729-fe0f-4303-b849-3619554c579e",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_022114": {
+   "adversarial_id": "adv_022114",
+   "message_id": "bbb21fbe-345f-45bd-84a5-9749890a918f",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_022216": {
+   "adversarial_id": "adv_022216",
+   "message_id": "bbb21d25-701c-4cbd-a7c7-519d732291a5",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_022859": {
+   "adversarial_id": "adv_022859",
+   "message_id": "bbb21c70-7553-49ce-b2c1-6d1d3e1a3a5b",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_023273": {
+   "adversarial_id": "adv_023273",
+   "message_id": "bbb2115a-9cde-455f-8653-1d20cc56a627",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_023641": {
+   "adversarial_id": "adv_023641",
+   "message_id": "bbb21ed0-d9ae-4224-8db0-9dc20019a405",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_023806": {
+   "adversarial_id": "adv_023806",
+   "message_id": "bbb21072-ee93-4d42-961d-8dd50aca7ab3",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_023994": {
+   "adversarial_id": "adv_023994",
+   "message_id": "bbb21f6f-06fa-4670-8427-e3fd13c702ca",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_024223": {
+   "adversarial_id": "adv_024223",
+   "message_id": "bbb213a2-5a07-4a67-85b3-f659f38b55a9",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_024593": {
+   "adversarial_id": "adv_024593",
+   "message_id": "bbb211e2-2192-4e8f-af49-6a11a1f7cc55",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_024682": {
+   "adversarial_id": "adv_024682",
+   "message_id": "bbb21e42-1a25-4a03-b91d-b0502e5eca12",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_024794": {
+   "adversarial_id": "adv_024794",
+   "message_id": "bbb210f8-fd7a-45db-9a5e-6659144404ab",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_024918": {
+   "adversarial_id": "adv_024918",
+   "message_id": "bbb2186a-537b-47bc-bd92-b041623f1cf1",
+   "evidence_class": "D0",
+   "adoption_status": "AD4",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_024945": {
+   "adversarial_id": "adv_024945",
+   "message_id": "bbb214bf-228b-4a24-bd1f-b8bac09edeae",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_025184": {
+   "adversarial_id": "adv_025184",
+   "message_id": "bbb21d6a-3862-49e5-b277-6005aaaa390e",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_025602": {
+   "adversarial_id": "adv_025602",
+   "message_id": "bbb21b84-85cf-4fd0-abe6-daac977df200",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_025657": {
+   "adversarial_id": "adv_025657",
+   "message_id": "bbb2172b-4886-47da-91de-1332e7f09995",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_025673": {
+   "adversarial_id": "adv_025673",
+   "message_id": "bbb216b0-02f2-4978-a655-ce595f6ec768",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_025720": {
+   "adversarial_id": "adv_025720",
+   "message_id": "bbb2125b-bf75-4c69-9373-54b501912ca3",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_026055": {
+   "adversarial_id": "adv_026055",
+   "message_id": "bbb21b5b-7130-407d-bffc-7695293e00ec",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_026247": {
+   "adversarial_id": "adv_026247",
+   "message_id": "bbb211ab-2d5c-4cb4-a442-3ee1e3d622bf",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_026252": {
+   "adversarial_id": "adv_026252",
+   "message_id": "bbb21e52-9dbc-43d8-9a1d-56c9dba23ba4",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_026480": {
+   "adversarial_id": "adv_026480",
+   "message_id": "bbb21b5a-9e59-4644-b715-9c1b31875853",
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_026699": {
+   "adversarial_id": "adv_026699",
+   "message_id": "bbb21b27-22ae-4fc3-b03e-39712bafd42e",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_026722": {
+   "adversarial_id": "adv_026722",
+   "message_id": "bbb2143d-4b3f-4bd5-b0d6-c622a4fd4100",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027022": {
+   "adversarial_id": "adv_027022",
+   "message_id": "bbb21c95-1303-45e4-b739-e6024bae9e27",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027069": {
+   "adversarial_id": "adv_027069",
+   "message_id": "bbb219fa-5745-4bc2-8d28-ab034221b854",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027082": {
+   "adversarial_id": "adv_027082",
+   "message_id": "bbb21fea-95de-4560-8ffa-aea1bd939142",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027153": {
+   "adversarial_id": "adv_027153",
+   "message_id": "bbb2146a-7db5-4287-8d58-7fd016bbf0a1",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027470": {
+   "adversarial_id": "adv_027470",
+   "message_id": "81ba34c3-0eca-4429-9432-f9d8e19ec034",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027517": {
+   "adversarial_id": "adv_027517",
+   "message_id": "b0d8986e-7a5f-4db3-88c3-4965bb104317",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027554": {
+   "adversarial_id": "adv_027554",
+   "message_id": "94b24aba-39c2-4f16-a444-fdc97b38810e",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_027661": {
+   "adversarial_id": "adv_027661",
+   "message_id": "985939f3-af2c-4c3b-9575-1629330f2644",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027678": {
+   "adversarial_id": "adv_027678",
+   "message_id": "a35c6dc3-141f-42b8-a35d-e3eb1f8e82f3",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_027736": {
+   "adversarial_id": "adv_027736",
+   "message_id": "c700eca4-377c-475d-8b8f-92abb50ac136",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027756": {
+   "adversarial_id": "adv_027756",
+   "message_id": "e746425b-1bee-42c9-8bc1-7413165b886d",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027762": {
+   "adversarial_id": "adv_027762",
+   "message_id": "0572f25f-f0e6-4124-b3b3-cef272033217",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027814": {
+   "adversarial_id": "adv_027814",
+   "message_id": "c1b016c9-c638-4c86-82ba-78e35d878994",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027815": {
+   "adversarial_id": "adv_027815",
+   "message_id": "c1d63dee-13b0-4d22-9da5-ec630911fe34",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027927": {
+   "adversarial_id": "adv_027927",
+   "message_id": "aa5055c7-fc12-43ce-bec7-f74e780a7bbc",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027972": {
+   "adversarial_id": "adv_027972",
+   "message_id": "32e726b3-eec9-4c22-b80e-1cd3c73bb18c",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027980": {
+   "adversarial_id": "adv_027980",
+   "message_id": "3899d945-4608-4c12-843d-f3a3de93820e",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_027990": {
+   "adversarial_id": "adv_027990",
+   "message_id": "51029415-0b40-485f-b4cd-0d738e9a8c04",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028025": {
+   "adversarial_id": "adv_028025",
+   "message_id": "89b902d6-cce7-47eb-b9a5-75c099c1a4f4",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028040": {
+   "adversarial_id": "adv_028040",
+   "message_id": "96793632-1874-4da4-b10c-3987eb090717",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028118": {
+   "adversarial_id": "adv_028118",
+   "message_id": "8bdf6037-7305-400e-bebb-75ca6fc5e54b",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028170": {
+   "adversarial_id": "adv_028170",
+   "message_id": "9b81d5ca-ff41-4ec1-b2f8-c863c851eb44",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028257": {
+   "adversarial_id": "adv_028257",
+   "message_id": "7f886755-d63e-4489-afc7-f636be49907e",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028263": {
+   "adversarial_id": "adv_028263",
+   "message_id": "040f2728-48cc-478f-bd6e-fc37e1739d5f",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028277": {
+   "adversarial_id": "adv_028277",
+   "message_id": "10604c22-9f14-4f9b-af7a-f508248019cc",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028378": {
+   "adversarial_id": "adv_028378",
+   "message_id": "9afc09a0-4fbe-4c33-9660-859e4ece0184",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028382": {
+   "adversarial_id": "adv_028382",
+   "message_id": "a057daa1-d277-4a51-b979-52cd7e3538bd",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028394": {
+   "adversarial_id": "adv_028394",
+   "message_id": "a8a4dc43-f7e8-4c8c-abb6-b4f1e34b7481",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028399": {
+   "adversarial_id": "adv_028399",
+   "message_id": "ac8c4ec7-c9a3-4a44-8fea-d3a72d8a4c4d",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028404": {
+   "adversarial_id": "adv_028404",
+   "message_id": "b2e46e5e-d576-4fcc-8f48-e3a25b051165",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028407": {
+   "adversarial_id": "adv_028407",
+   "message_id": "b56bb1c0-8d08-441b-a034-5d59e5cd5f7f",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_028411": {
+   "adversarial_id": "adv_028411",
+   "message_id": "bb6f3eaf-4e71-4521-9e03-1032f90f6785",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028444": {
+   "adversarial_id": "adv_028444",
+   "message_id": "df452ce0-1bb5-4fd9-91d4-3819af9705eb",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028546": {
+   "adversarial_id": "adv_028546",
+   "message_id": "a52f8334-0266-4b94-bba7-e9eefae72a27",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028560": {
+   "adversarial_id": "adv_028560",
+   "message_id": "03352f7b-1f55-4896-b73d-56e23a3163e4",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028654": {
+   "adversarial_id": "adv_028654",
+   "message_id": "7c5fd5db-1dd8-404f-9daa-cbe3c0bf74cf",
+   "evidence_class": "MIXED",
+   "adoption_status": "AD0",
+   "authored_by": "mixed",
+   "reason": "Message requires claim-level segmentation.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_028920": {
+   "adversarial_id": "adv_028920",
+   "message_id": "4a9c575d-87c9-4c5d-8a51-8f4a46995776",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028925": {
+   "adversarial_id": "adv_028925",
+   "message_id": "4b29c7a7-31f6-46ec-af55-7850b6fd0f62",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_028973": {
+   "adversarial_id": "adv_028973",
+   "message_id": "69e9d0e5-134e-4019-9662-552841204e09",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_029000": {
+   "adversarial_id": "adv_029000",
+   "message_id": "7801b4b5-26a3-40e5-9a84-911af420241a",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_029035": {
+   "adversarial_id": "adv_029035",
+   "message_id": "896e8698-5419-41cb-9c02-fc85589eadbd",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_029198": {
+   "adversarial_id": "adv_029198",
+   "message_id": "ea71a15b-be3c-4dd2-879b-033f74e98e83",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_029212": {
+   "adversarial_id": "adv_029212",
+   "message_id": "f2c5981a-9ed7-42f6-ad4b-2111729be850",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_029474": {
+   "adversarial_id": "adv_029474",
+   "message_id": "aaa21c83-9965-4b96-9700-5f43f6333d17",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_030062": {
+   "adversarial_id": "adv_030062",
+   "message_id": "aaa20e35-2dba-48b8-9a4c-719a1eb2369b",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_030092": {
+   "adversarial_id": "adv_030092",
+   "message_id": "aaa26258-a751-4c26-b018-8e7de409e42f",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_030104": {
+   "adversarial_id": "adv_030104",
+   "message_id": "aaa28d5e-ecc6-4cff-b274-48f33e8f4b80",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_030107": {
+   "adversarial_id": "adv_030107",
+   "message_id": "aaa29049-153c-4390-b5c0-2a53c12b5aa3",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_030132": {
+   "adversarial_id": "adv_030132",
+   "message_id": "aaa2dec9-9e03-41fa-8d83-1061310696b6",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_030261": {
+   "adversarial_id": "adv_030261",
+   "message_id": "aaa202f8-3f85-43b6-b73c-322dd745ed1d",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_030342": {
+   "adversarial_id": "adv_030342",
+   "message_id": "aaa21294-8fe7-401c-a029-161673f0e411",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_030604": {
+   "adversarial_id": "adv_030604",
+   "message_id": "aaa21eb0-d918-45cb-b370-71a815f1f8cf",
+   "evidence_class": "MIXED",
+   "adoption_status": "AD0",
+   "authored_by": "mixed",
+   "reason": "Message requires claim-level segmentation.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_030670": {
+   "adversarial_id": "adv_030670",
+   "message_id": "aaa20178-dfd7-4387-b9d1-74800bf0b2ae",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_030780": {
+   "adversarial_id": "adv_030780",
+   "message_id": "aaa26d75-26cf-4dec-b6a0-35057ffaf63f",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_030804": {
+   "adversarial_id": "adv_030804",
+   "message_id": "aaa29738-6f78-42ba-a38d-becaab123ffd",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_030864": {
+   "adversarial_id": "adv_030864",
+   "message_id": "aaa2e1bf-f071-4242-a567-2b14656b52bc",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_030897": {
+   "adversarial_id": "adv_030897",
+   "message_id": "aaa244e9-c706-44db-9226-d7953defb4bb",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_030954": {
+   "adversarial_id": "adv_030954",
+   "message_id": "aaa2cd74-578b-45d7-a7d6-d28383a52426",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_031072": {
+   "adversarial_id": "adv_031072",
+   "message_id": "aaa24f5d-df4c-4e76-8a3c-4a46fcefae14",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_031092": {
+   "adversarial_id": "adv_031092",
+   "message_id": "aaa25821-20a1-4025-9610-7486f488faf9",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_031229": {
+   "adversarial_id": "adv_031229",
+   "message_id": "aaa2c496-8ab3-4de4-af55-8d4e4e610585",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_031360": {
+   "adversarial_id": "adv_031360",
+   "message_id": "aaa20f2e-8db2-4b81-a017-f1d8ef8a7b88",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_031597": {
+   "adversarial_id": "adv_031597",
+   "message_id": "aaa288bf-924e-4403-bd12-2d61ee7c7204",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_031661": {
+   "adversarial_id": "adv_031661",
+   "message_id": "aaa2a959-d098-495c-add3-495a203fa582",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_031889": {
+   "adversarial_id": "adv_031889",
+   "message_id": "aaa26595-3ab7-4277-9ac3-4dc8a81dab9a",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_032016": {
+   "adversarial_id": "adv_032016",
+   "message_id": "aaa2efc7-b8f5-4295-ae97-0046f7a79b48",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_032023": {
+   "adversarial_id": "adv_032023",
+   "message_id": "e4d167ba-e146-4345-a7c5-501d13445c3b",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_032030": {
+   "adversarial_id": "adv_032030",
+   "message_id": "aaa256a7-bdf2-4d1c-b0bc-7ea545904e43",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_032700": {
+   "adversarial_id": "adv_032700",
+   "message_id": "aaa27b21-fdf1-4975-8a65-59b7d3ff008d",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_032963": {
+   "adversarial_id": "adv_032963",
+   "message_id": "aaa20265-07b4-46c7-9b06-2d4eb2310dcf",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_033022": {
+   "adversarial_id": "adv_033022",
+   "message_id": "aaa2f1aa-2475-459f-938c-b26142164784",
+   "evidence_class": "MIXED",
+   "adoption_status": "AD0",
+   "authored_by": "mixed",
+   "reason": "Message requires claim-level segmentation.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_033054": {
+   "adversarial_id": "adv_033054",
+   "message_id": "aaa2e4aa-26b5-4bb4-ae7e-efbd235de225",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_033108": {
+   "adversarial_id": "adv_033108",
+   "message_id": "aaa2e8fb-8c18-43f7-ba3b-4c6e71173e9d",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_033117": {
+   "adversarial_id": "adv_033117",
+   "message_id": "aaa242c2-e9d0-4fff-87cc-860069a592f5",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_033504": {
+   "adversarial_id": "adv_033504",
+   "message_id": "11",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_033685": {
+   "adversarial_id": "adv_033685",
+   "message_id": "13",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_033720": {
+   "adversarial_id": "adv_033720",
+   "message_id": "1",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_033805": {
+   "adversarial_id": "adv_033805",
+   "message_id": "29",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_033881": {
+   "adversarial_id": "adv_033881",
+   "message_id": "9",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_033891": {
+   "adversarial_id": "adv_033891",
+   "message_id": "27",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_034117": {
+   "adversarial_id": "adv_034117",
+   "message_id": "7",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_034205": {
+   "adversarial_id": "adv_034205",
+   "message_id": "3",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_034335": {
+   "adversarial_id": "adv_034335",
+   "message_id": "5",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  },
+  "adv_034448": {
+   "adversarial_id": "adv_034448",
+   "message_id": "15",
+   "evidence_class": "MIXED",
+   "adoption_status": "AD0",
+   "authored_by": "mixed",
+   "reason": "Message requires claim-level segmentation.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-3"
+  },
+  "adv_034886": {
+   "adversarial_id": "adv_034886",
+   "message_id": "25",
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "reason": "Submission is not authorship; assistant provenance controls.",
+   "requires_review": false,
+   "derek_attribution_evidence": "DAE-4"
+  },
+  "adv_034912": {
+   "adversarial_id": "adv_034912",
+   "message_id": "71",
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence.",
+   "requires_review": true,
+   "derek_attribution_evidence": "DAE-0"
+  }
+ }
+}

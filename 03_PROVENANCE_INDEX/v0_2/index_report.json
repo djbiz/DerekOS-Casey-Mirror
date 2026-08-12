@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-08-12T14:37:05.813943+00:00",
+  "corpus_release": "CORPUS_RELEASE_001",
+  "corpus_sha256": "66a20833143c52c94201402c176b9c2c36615514e76050ad82d8c2ff2da38590",
+  "total_messages": 72241,
+  "total_hits": 6052,
+  "derivation_edges": 3924,
+  "similarity_only_or_reverse_match_edges": 2128,
+  "cross_source_hits": 2418,
+  "exact_copy_hits": 1161
+}

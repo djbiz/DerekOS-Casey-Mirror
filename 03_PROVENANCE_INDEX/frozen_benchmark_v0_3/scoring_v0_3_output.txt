@@ -1,0 +1,22 @@
+=== fbv3_001 cross_platform_reverse_direction ===
+  ground_truth: {'similar': True, 'derived_from_candidate': 'YES', 'earlier_in_corpus': 'YES', 'true_corpus_origin': 'YES', 'intellectual_origin': 'UNRESOLVED'}
+  NO HIT FOUND for this specific pair. All hits for reuse_id:
+    SIMILARITY_EDGE origin: copilot_msg_2d0e span: 862
+=== fbv3_002 multiple_earlier_sources_same_conversation ===
+  ground_truth: {'similar': True, 'derived_from_candidate': 'YES', 'earlier_in_corpus': 'YES', 'true_corpus_origin': 'YES', 'intellectual_origin': 'UNRESOLVED'}
+  NO HIT FOUND for this specific pair. All hits for reuse_id:
+    SIMILARITY_EDGE origin: copilot_msg_2d0e span: 862
+=== fbv3_003 reuse_chain_multi_hop ===
+  ground_truth: {'similar': True, 'derived_from_candidate': 'YES', 'earlier_in_corpus': 'YES', 'true_corpus_origin': 'YES', 'intellectual_origin': 'UNRESOLVED'}
+  MATCH: DERIVATION_EDGE chain: chain_01096 span: 862 chron: True cross_actor: True
+=== fbv3_004 reuse_chain_multi_hop ===
+  ground_truth: {'similar': True, 'derived_from_candidate': 'YES', 'earlier_in_corpus': 'YES', 'true_corpus_origin': 'YES', 'intellectual_origin': 'UNRESOLVED'}
+  NO HIT FOUND for this specific pair. All hits for reuse_id:
+    DERIVATION_EDGE origin: copilot_msg_daa9 span: 901
+=== fbv3_005 cross_actor_voice_convergence_control ===
+  ground_truth: {'similar': False, 'derived_from_candidate': 'NO', 'earlier_in_corpus': 'N/A', 'true_corpus_origin': 'N/A', 'intellectual_origin': 'N/A'}
+  (no-match-expected case) any hits at all: 0
+=== fbv3_006 scattered_generic_overlap_control ===
+  ground_truth: {'similar': False, 'derived_from_candidate': 'NO', 'earlier_in_corpus': 'N/A', 'true_corpus_origin': 'N/A', 'intellectual_origin': 'N/A'}
+  MATCH: SIMILARITY_EDGE chain: None span: 0 chron: False cross_actor: True
+  (no-match-expected case) any hits at all: 1

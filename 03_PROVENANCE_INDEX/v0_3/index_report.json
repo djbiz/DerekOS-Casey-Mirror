@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-08-12T16:03:06.043234+00:00",
+  "corpus_release": "CORPUS_RELEASE_001",
+  "corpus_sha256": "66a20833143c52c94201402c176b9c2c36615514e76050ad82d8c2ff2da38590",
+  "total_messages": 72241,
+  "total_hits": 19495,
+  "derivation_edges": 11505,
+  "similarity_only_or_reverse_match_edges": 7990,
+  "cross_source_hits": 6166,
+  "cross_actor_hits": 9417,
+  "exact_copy_hits": 3205,
+  "multi_hop_chains": 1103,
+  "multi_hop_edges": 9326,
+  "derivation_edge_actor_pair_counts": {
+    "chatgpt_assistant->chatgpt_assistant": 3597,
+    "chatgpt_assistant->derek": 2846,
+    "derek->derek": 2810,
+    "derek->chatgpt_assistant": 1009,
+    "derek->other_ai_assistant": 719,
+    "chatgpt_assistant->other_ai_assistant": 393,
+    "copilot_assistant->copilot_assistant": 33,
+    "derek->copilot_assistant": 28,
+    "other_ai_assistant->derek": 26,
+    "other_ai_assistant->other_ai_assistant": 26,
+    "copilot_assistant->derek": 8,
+    "chatgpt_assistant->copilot_assistant": 5,
+    "chatgpt_assistant->unknown": 2,
+    "copilot_assistant->other_ai_assistant": 2,
+    "copilot_assistant->chatgpt_assistant": 1
+  }
+}

@@ -1,0 +1,530 @@
+[
+  {
+    "id": "6a44db75-ad1c-83ea-870b-cd320a42af71",
+    "title": "PowerShell Environment Variable",
+    "source_file": "conversations-032.json",
+    "message_count": 20
+  },
+  {
+    "id": "6a44e629-378c-83ea-bd90-c9ef145cf40e",
+    "title": "PowerShell Curl Warning",
+    "source_file": "conversations-032.json",
+    "message_count": 34
+  },
+  {
+    "id": "6a4518e6-6c8c-83ea-845b-4bb5170cfa2d",
+    "title": "Research Workflow Optimization",
+    "source_file": "conversations-032.json",
+    "message_count": 53
+  },
+  {
+    "id": "6a454b0a-9d44-83ea-9caa-9bae52ed91cf",
+    "title": "Growth Hacker Brief",
+    "source_file": "conversations-032.json",
+    "message_count": 17
+  },
+  {
+    "id": "6a4569dd-9d0c-83ea-b708-49edbef5c25f",
+    "title": "Go Installation Error",
+    "source_file": "conversations-032.json",
+    "message_count": 20
+  },
+  {
+    "id": "6a4574da-5ab0-83ea-9c6d-e421ee9056eb",
+    "title": "Configuring OpenRouter API",
+    "source_file": "conversations-032.json",
+    "message_count": 118
+  },
+  {
+    "id": "6a45e592-78d0-83ea-b329-9142687f9fdb",
+    "title": "Hermes config error",
+    "source_file": "conversations-032.json",
+    "message_count": 20
+  },
+  {
+    "id": "6a45fd36-5348-83ea-9715-c8189d343997",
+    "title": "Slack DM Diagnosis Path",
+    "source_file": "conversations-032.json",
+    "message_count": 8
+  },
+  {
+    "id": "6a460a11-5720-83ea-ad8d-0b2f5fe74ed8",
+    "title": "Market Intent Prediction Stack",
+    "source_file": "conversations-032.json",
+    "message_count": 72
+  },
+  {
+    "id": "6a4633bc-d688-83ea-8d68-42f22f2b36d3",
+    "title": "Firecrawl setup troubleshooting",
+    "source_file": "conversations-032.json",
+    "message_count": 14
+  },
+  {
+    "id": "6a46743e-c07c-83ea-b971-4e10b8531c37",
+    "title": "Free AI Models Guide",
+    "source_file": "conversations-032.json",
+    "message_count": 10
+  },
+  {
+    "id": "6a46bf56-69b8-83ea-a76f-fbf713701d93",
+    "title": "User context migration",
+    "source_file": "conversations-032.json",
+    "message_count": 4
+  },
+  {
+    "id": "6a47d7a8-edf4-83ea-9151-4119e5616858",
+    "title": "Ollama Model Installation",
+    "source_file": "conversations-032.json",
+    "message_count": 48
+  },
+  {
+    "id": "6a486839-2704-83ea-afe8-8e81c5d61bf5",
+    "title": "Reality Check Execution Plan",
+    "source_file": "conversations-032.json",
+    "message_count": 16
+  },
+  {
+    "id": "6a4887c7-8004-83ea-bd54-dea6b1fdb05d",
+    "title": "AI Partner vs Assistant",
+    "source_file": "conversations-032.json",
+    "message_count": 22
+  },
+  {
+    "id": "6a48a8ed-6edc-83ea-9f59-44d05ee81b18",
+    "title": "Memory Export Request",
+    "source_file": "conversations-032.json",
+    "message_count": 8
+  },
+  {
+    "id": "6a48b150-7508-83ea-bf3e-921446bb50bc",
+    "title": "Day 2 Optimization Focus",
+    "source_file": "conversations-032.json",
+    "message_count": 16
+  },
+  {
+    "id": "6a48eec5-a3f8-83ea-b9cb-11ccde6669e7",
+    "title": "Is Hermes Really Free?",
+    "source_file": "conversations-032.json",
+    "message_count": 12
+  },
+  {
+    "id": "6a48f6f0-7f44-83ea-a03c-63b1bfe4db00",
+    "title": "AI Finance YouTube Setup",
+    "source_file": "conversations-032.json",
+    "message_count": 6
+  },
+  {
+    "id": "6a4924fc-80f4-83ea-af54-eed66c84466e",
+    "title": "Movie title inquiry",
+    "source_file": "conversations-032.json",
+    "message_count": 10
+  },
+  {
+    "id": "6a498350-bd3c-83ea-aa4a-6df882f20701",
+    "title": "Remove Local AI Tools",
+    "source_file": "conversations-032.json",
+    "message_count": 4
+  },
+  {
+    "id": "6a499586-a4ec-83ea-b55a-abce44d48a03",
+    "title": "Free YouTube Transcript Download",
+    "source_file": "conversations-032.json",
+    "message_count": 2
+  },
+  {
+    "id": "6a499bc3-921c-83ea-bea4-ff52d9719d93",
+    "title": "Alex Hormozi Channel Info",
+    "source_file": "conversations-032.json",
+    "message_count": 2
+  },
+  {
+    "id": "6a49cd69-68f0-83ea-8f46-ea7dfb364991",
+    "title": "Social Media Algorithm Rush",
+    "source_file": "conversations-032.json",
+    "message_count": 6
+  },
+  {
+    "id": "6a49f63e-7878-83ea-b657-bba2d261d5a2",
+    "title": "Firmware Update Failure Fix",
+    "source_file": "conversations-032.json",
+    "message_count": 4
+  },
+  {
+    "id": "6a4a13c1-9974-83ea-8032-538dfb8e45ab",
+    "title": "OneDrive n8n Obsidian Workflow",
+    "source_file": "conversations-032.json",
+    "message_count": 41
+  },
+  {
+    "id": "6a4baeae-6cfc-83ea-8aeb-bad52f3eb174",
+    "title": "Kalopilot TikTok AI",
+    "source_file": "conversations-032.json",
+    "message_count": 4
+  },
+  {
+    "id": "6a4cc07f-a26c-83ea-99c7-f32764b4e3d7",
+    "title": "Daily Briefing Workflow",
+    "source_file": "conversations-032.json",
+    "message_count": 6
+  },
+  {
+    "id": "6a4ce08a-d2b4-83ea-b73e-330d190401c6",
+    "title": "Freelancer VA Structure Advice",
+    "source_file": "conversations-032.json",
+    "message_count": 40
+  },
+  {
+    "id": "6a4d0a64-8ab8-83ea-8de5-46f7e541fa2b",
+    "title": "AI WhatsApp Lead Workflow",
+    "source_file": "conversations-032.json",
+    "message_count": 38
+  },
+  {
+    "id": "6a4d2a82-2e10-83ea-8bc6-2077122da9d3",
+    "title": "System Rebuild in Runner.ai",
+    "source_file": "conversations-032.json",
+    "message_count": 18
+  },
+  {
+    "id": "6a4d37fb-dd70-83ea-9fc3-cd36d10acc7a",
+    "title": "PowerShell Git Environment Issue",
+    "source_file": "conversations-032.json",
+    "message_count": 10
+  },
+  {
+    "id": "6a4d3e85-f630-83ea-88b8-928a4a133fe5",
+    "title": "Runner Activepieces Integration",
+    "source_file": "conversations-032.json",
+    "message_count": 2
+  },
+  {
+    "id": "6a4d4d07-9744-83ea-8803-39b22358c5eb",
+    "title": "Activepieces Variable Fix",
+    "source_file": "conversations-032.json",
+    "message_count": 45
+  },
+  {
+    "id": "6a4e1828-9ef4-83ea-9e83-d1beeb81f114",
+    "title": "Financial Tracking Setup",
+    "source_file": "conversations-032.json",
+    "message_count": 2
+  },
+  {
+    "id": "6a4e3d9a-71c0-83ea-a30c-ee48e7276534",
+    "title": "DAC Marketing Integration",
+    "source_file": "conversations-032.json",
+    "message_count": 65
+  },
+  {
+    "id": "6a4e8010-bfc0-83ea-a7c5-dce77ba6453b",
+    "title": "AI Agent Architecture",
+    "source_file": "conversations-032.json",
+    "message_count": 6
+  },
+  {
+    "id": "6a4e8214-0fe8-83ea-b0b0-0825cdbc43dd",
+    "title": "AI Voice Agent Design",
+    "source_file": "conversations-032.json",
+    "message_count": 2
+  },
+  {
+    "id": "6a4e85bc-186c-83ea-88d4-1ac95bce41a6",
+    "title": "Marketing Strategy and Execution",
+    "source_file": "conversations-032.json",
+    "message_count": 6
+  },
+  {
+    "id": "6a4e8aa3-916c-83ea-ad8a-7acfa559014d",
+    "title": "Growth Bottleneck Audit",
+    "source_file": "conversations-032.json",
+    "message_count": 8
+  },
+  {
+    "id": "6a4e9198-e0dc-83ea-bbbf-a91174791e39",
+    "title": "Experiment Planning and Roles",
+    "source_file": "conversations-032.json",
+    "message_count": 20
+  },
+  {
+    "id": "6a4e969f-783c-83ea-8324-47b90f5f1ddf",
+    "title": "AI Agent Revenue Strategy",
+    "source_file": "conversations-032.json",
+    "message_count": 10
+  },
+  {
+    "id": "6a4e9fc8-3d80-83ea-a8b5-5afc97334b6b",
+    "title": "Team Update Strategy",
+    "source_file": "conversations-032.json",
+    "message_count": 32
+  },
+  {
+    "id": "6a4ed66e-ca18-83ea-bd73-5db673e357ba",
+    "title": "Scoop temporal installation error",
+    "source_file": "conversations-032.json",
+    "message_count": 140
+  },
+  {
+    "id": "6a4f5dee-bd58-83ea-9e75-06731f642678",
+    "title": "Llama model download guide",
+    "source_file": "conversations-032.json",
+    "message_count": 138
+  },
+  {
+    "id": "6a50cddf-a4e0-83ea-977c-9c5b84e848e1",
+    "title": "Business Description Creation",
+    "source_file": "conversations-032.json",
+    "message_count": 2
+  },
+  {
+    "id": "6a50d5b2-b4f0-83ea-8fe4-b85480ebba9e",
+    "title": "Cloudflare Tunnel Setup",
+    "source_file": "conversations-032.json",
+    "message_count": 78
+  },
+  {
+    "id": "6a519a2d-1530-83ea-a4fb-9f14609f117b",
+    "title": "Sound Card Issue Troubleshooting",
+    "source_file": "conversations-032.json",
+    "message_count": 4
+  },
+  {
+    "id": "6a524fbe-0ca0-83ea-885f-ba81fd562ca2",
+    "title": "Laptop Overheating Noise Issues",
+    "source_file": "conversations-032.json",
+    "message_count": 310
+  },
+  {
+    "id": "6a53425b-7070-83ea-a0cb-6bd7e836be50",
+    "title": "Windows 11 Reinstall Insights",
+    "source_file": "conversations-032.json",
+    "message_count": 6
+  },
+  {
+    "id": "6a53c015-0c38-83ea-8d1d-c78a74e4d278",
+    "title": "Kimi Code Bash Issue",
+    "source_file": "conversations-032.json",
+    "message_count": 6
+  },
+  {
+    "id": "6a54f8ec-bdd8-83ea-8894-7a2c19ebe5b9",
+    "title": "Business Strategy and AI",
+    "source_file": "conversations-032.json",
+    "message_count": 28
+  },
+  {
+    "id": "6a558b4c-07a8-83ea-971b-e78305940174",
+    "title": "Business OS Model Idea",
+    "source_file": "conversations-032.json",
+    "message_count": 10
+  },
+  {
+    "id": "6a55b774-4398-83ea-98b0-0398731eb3e9",
+    "title": "hf command not found",
+    "source_file": "conversations-032.json",
+    "message_count": 148
+  },
+  {
+    "id": "6a57cd12-ed08-83ea-9f39-139c1cff1694",
+    "title": "PostgreSQL Table Error Fix",
+    "source_file": "conversations-032.json",
+    "message_count": 18
+  },
+  {
+    "id": "6a57e182-21a4-83ea-952b-b8a894c2de0e",
+    "title": "Vox Architecture Overview",
+    "source_file": "conversations-032.json",
+    "message_count": 68
+  },
+  {
+    "id": "6a593bd6-4190-83ea-a847-5161a70a4975",
+    "title": "Ollama model connection error",
+    "source_file": "conversations-032.json",
+    "message_count": 12
+  },
+  {
+    "id": "6a596832-e020-83ea-9acb-51334b4910d6",
+    "title": "Tool Usage and Logic",
+    "source_file": "conversations-032.json",
+    "message_count": 8
+  },
+  {
+    "id": "6a599611-6fe4-83ea-8b93-1b96ae1ed174",
+    "title": "Business Model Analysis Options",
+    "source_file": "conversations-032.json",
+    "message_count": 406
+  },
+  {
+    "id": "6a5a943f-681c-83ea-ae3e-daca72e6ccba",
+    "title": "App Not Responding Troubleshoot",
+    "source_file": "conversations-032.json",
+    "message_count": 14
+  },
+  {
+    "id": "6a5fc97d-3c94-83ea-adc7-7495740e2af4",
+    "title": "Artlist AI Workflow",
+    "source_file": "conversations-032.json",
+    "message_count": 2
+  },
+  {
+    "id": "6a5fe613-4500-83ea-be0a-112d4790bc22",
+    "title": "Love and Consciousness",
+    "source_file": "conversations-032.json",
+    "message_count": 2
+  },
+  {
+    "id": "6a629f8f-ed10-83ea-98f1-7db8a51cdd25",
+    "title": "Work Limitations Response Guide",
+    "source_file": "conversations-032.json",
+    "message_count": 58
+  },
+  {
+    "id": "6a62ba31-0d24-83ea-bd30-dda1474fe581",
+    "title": "Tony Robbins 10-10-10",
+    "source_file": "conversations-032.json",
+    "message_count": 8
+  },
+  {
+    "id": "6a62c459-06d0-83ea-8c24-e39679796fe1",
+    "title": "Jay Abraham Business Principles",
+    "source_file": "conversations-032.json",
+    "message_count": 6
+  },
+  {
+    "id": "6a64517e-7b84-83ea-8873-4afb41420db7",
+    "title": "Stripe B2B Description",
+    "source_file": "conversations-032.json",
+    "message_count": 8
+  },
+  {
+    "id": "6a65192c-845c-83ea-a294-11ac72a21249",
+    "title": "Colibri Installation Guide",
+    "source_file": "conversations-032.json",
+    "message_count": 4
+  },
+  {
+    "id": "6a65564d-6eac-83ea-9f81-b9d6db5d168d",
+    "title": "Momentum Formula",
+    "source_file": "conversations-032.json",
+    "message_count": 16
+  },
+  {
+    "id": "6a659e26-e3b8-83ea-b809-7b3e40c8d437",
+    "title": "VOX AI 90-Day Vision",
+    "source_file": "conversations-032.json",
+    "message_count": 7
+  },
+  {
+    "id": "6a665ec2-8330-83ea-81e0-52565173605b",
+    "title": "Vox AI Overview",
+    "source_file": "conversations-032.json",
+    "message_count": 6
+  },
+  {
+    "id": "6a670236-6f28-83ea-b42f-267b4fa9b4ab",
+    "title": "Niel 4th Album",
+    "source_file": "conversations-032.json",
+    "message_count": 22
+  },
+  {
+    "id": "6a671562-d788-83ea-99b0-27685a04c35c",
+    "title": "Tony Robbins 24/7 Effects",
+    "source_file": "conversations-032.json",
+    "message_count": 34
+  },
+  {
+    "id": "6a677a2d-3ce4-83ea-bfe2-5a61be581337",
+    "title": "Linux VPS Overview",
+    "source_file": "conversations-032.json",
+    "message_count": 9
+  },
+  {
+    "id": "6a68cdb4-1cf0-83ea-8153-63fcbc5ec801",
+    "title": "Code Integration Assistance",
+    "source_file": "conversations-032.json",
+    "message_count": 39
+  },
+  {
+    "id": "6a6a3500-1a1c-83ea-85fb-e87072da96fe",
+    "title": "Building Vox AI Architecture",
+    "source_file": "conversations-032.json",
+    "message_count": 2
+  },
+  {
+    "id": "6a6a4d3e-70e8-83ea-aa1b-e1e086206ea1",
+    "title": "DerekOS v3 Sprint 1",
+    "source_file": "conversations-032.json",
+    "message_count": 88
+  },
+  {
+    "id": "6a6a52b1-cee4-83ea-8c23-c7cedeb48eb8",
+    "title": "Cleaning C and Hard Drive",
+    "source_file": "conversations-032.json",
+    "message_count": 133
+  },
+  {
+    "id": "6a6abe08-e1dc-83ea-80a0-11e73042fa63",
+    "title": "VOX Desktop Assistant",
+    "source_file": "conversations-032.json",
+    "message_count": 6
+  },
+  {
+    "id": "6a6ad3f3-7d14-83ea-874b-5a1bf407f863",
+    "title": "Insight vs Transformation",
+    "source_file": "conversations-032.json",
+    "message_count": 14
+  },
+  {
+    "id": "6a6addad-34fc-83ea-8d47-a1e6d6974665",
+    "title": "Fear of Life Choices",
+    "source_file": "conversations-032.json",
+    "message_count": 4
+  },
+  {
+    "id": "6a6b352f-3788-83ea-881b-400e99afcd99",
+    "title": "Remote Digital Voting",
+    "source_file": "conversations-032.json",
+    "message_count": 8
+  },
+  {
+    "id": "6a6b3bcb-343c-83ea-b938-e451a6b18384",
+    "title": "Private Executive Fitness Concept",
+    "source_file": "conversations-032.json",
+    "message_count": 20
+  },
+  {
+    "id": "6a6b4adc-902c-83ea-9b08-d8fa410b6530",
+    "title": "Dux-Soup AI Integration",
+    "source_file": "conversations-032.json",
+    "message_count": 6
+  },
+  {
+    "id": "6a6b6134-4e60-83ea-933a-65402f065c31",
+    "title": "OOC-EMRO Decision Framework",
+    "source_file": "conversations-032.json",
+    "message_count": 2
+  },
+  {
+    "id": "6a6b646b-1978-83ea-9407-900e1e3ec253",
+    "title": "The Experience of Achievement",
+    "source_file": "conversations-032.json",
+    "message_count": 2
+  },
+  {
+    "id": "6a6b6fc2-b9ac-83ea-8b03-bd2a9253f865",
+    "title": "Who Created God",
+    "source_file": "conversations-032.json",
+    "message_count": 16
+  },
+  {
+    "id": "6a6bfa06-2918-83ea-9b50-40eaca7d98ac",
+    "title": "CLI Shell Test",
+    "source_file": "conversations-032.json",
+    "message_count": 949
+  },
+  {
+    "id": "6a6cee64-5f98-83ea-9044-1b4e02c4cd08",
+    "title": "VOX v4 Rebuild Plan",
+    "source_file": "conversations-032.json",
+    "message_count": 34
+  }
+]

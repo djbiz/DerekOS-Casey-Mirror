@@ -1,0 +1,112 @@
+{
+  "source_map_id": "CONGLOMERATE_SOURCE_MAP_V0.1",
+  "generated": "2026-08-12",
+  "corpus_searched": {
+    "chatgpt_export": {
+      "files": 36,
+      "conversations": 3504,
+      "messages": 67841,
+      "total_bytes": 195000000,
+      "location": "00_RAW_ARCHIVE/chatgpt/"
+    },
+    "other_ai_export": {
+      "files": 1,
+      "conversations": 465,
+      "messages": 4400,
+      "location": "00_RAW_ARCHIVE/other-ai-export/conversations.json"
+    },
+    "copilot_csv": {
+      "files": 1,
+      "conversations": 28,
+      "messages": 400,
+      "location": "C:/Users/starw/Downloads/copilot-2026-08-12T11_59_49.315Z.csv"
+    }
+  },
+  "search_terms_used": [
+    "conglomerate", "corporate takeover", "holding company", "holdings",
+    "100 business", "300 business", "100 companies", "300 companies",
+    "1000 companies", "acquisition", "acquire", "capital allocat",
+    "manufactur", "factor", "logistics", "africa", "new york",
+    "headquarters", "academy", "talent", "energy", "infrastructure",
+    "agricultur", "food", "media", "distribution", "portfolio",
+    "parent company", "subsidiary", "berkshire", "master plan",
+    "corporate services", "shared services", "leadership academy",
+    "talent pipeline", "buy businesses", "buy companies",
+    "corporate structure", "corporate academy", "corporate school",
+    "buy a company", "buy a business", "portfolio of companies"
+  ],
+  "key_conversations": [
+    {
+      "file": "conversations-001.json",
+      "title": "CDP Formula Clarification",
+      "id": "68632ed6-31d8-8006-9788-ec66540f74c2",
+      "relevance": "PRIMARY — Derek uses 'conglomerate' term, AI builds Conglomerate Machine Plan",
+      "propositions": ["P-002"],
+      "timeline_events": ["E-003", "E-004"]
+    },
+    {
+      "file": "conversations-001.json",
+      "title": "Content Strategy Breakdown",
+      "id": "686345ff-fb58-8006-a168-e4c9e0f51440",
+      "relevance": "PRIMARY — AI builds capital raising playbook, funding conglomerate concept",
+      "propositions": [],
+      "timeline_events": []
+    },
+    {
+      "file": "conversations-005.json",
+      "title": "Empire Blueprint Enhancement",
+      "id": "6833a17a-7a7c-8006-a4d8-2c23717ef405",
+      "relevance": "PRIMARY — DAC Empire Vision, mascots, agent hubs, international takeover, 5-brand ecosystem",
+      "propositions": ["P-001", "P-005", "P-007", "P-008", "P-009", "P-010", "P-013", "P-014", "P-015"],
+      "timeline_events": ["E-005", "E-008"]
+    },
+    {
+      "file": "conversations-005.json",
+      "title": "Missing Chat Recovery Tips",
+      "id": "6833a17a-7a7c-8006-a4d8-2c23717ef405",
+      "relevance": "PRIMARY — $10B DAC Empire Vision Plan, 5-Leg Income Ecosystem, Fund the Block",
+      "propositions": ["P-003", "P-004", "P-008"],
+      "timeline_events": ["E-006", "E-009"]
+    },
+    {
+      "file": "conversations-005.json",
+      "title": "BlockSeed Bank Partnership Deck",
+      "id": "6833a17a-7a7c-8006-a4d8-2c23717ef405",
+      "relevance": "PRIMARY — Blockverse/BlockSeed crypto vision, $100B+ deck, Berkshire reference",
+      "propositions": ["P-006"],
+      "timeline_events": ["E-007"]
+    },
+    {
+      "file": "conversations-010.json",
+      "title": "24/7 Video Content Automation",
+      "id": "",
+      "relevance": "SECONDARY — AI proposes 200 faceless YouTube channels as media empire",
+      "propositions": ["P-011"],
+      "timeline_events": ["E-010"]
+    }
+  ],
+  "concepts_not_established": [
+    "Corporate takeover / acquisition strategy",
+    "100/300-business portfolio (as acquisition targets)",
+    "Holding-company structure",
+    "Centralized corporate services",
+    "Factories / manufacturing",
+    "Logistics network",
+    "Africa expansion (as concrete plan)",
+    "New York corporate headquarters",
+    "Corporate school / academy / talent production",
+    "Energy / infrastructure company",
+    "Food / agriculture company",
+    "Capital allocation (Berkshire-style)"
+  ],
+  "noise_filtered": [
+    "Supplement product reviews (BioLean, Cerebrozen, Sugar Defender, Lean Gene)",
+    "YouTube transcript summaries (faceless channels, network marketing)",
+    "Weight loss / health product content",
+    "Dog food / pet product content",
+    "Skincare / beauty product content",
+    "Third-party company descriptions (Sahil Bloom, Jesse Itzler, Dionne Von Zyl)",
+    "Network marketing training transcripts (Eric Worre, Tim Sales)"
+  ],
+  "schema_version": "reconstruction_pilot_v0.1"
+}

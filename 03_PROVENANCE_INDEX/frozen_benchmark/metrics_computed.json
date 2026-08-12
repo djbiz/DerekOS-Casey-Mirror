@@ -1,0 +1,31 @@
+{
+  "n_cases": 30,
+  "derivation_edge_precision_strict": 0.9375,
+  "derivation_edge_precision_excluding_unresolved_gt": 1.0,
+  "derivation_edge_precision_numerator_denominator": "15/16 (strict), 15/15 (excl. 1 UNRESOLVED-gt case, fb_011)",
+  "derivation_edge_recall": 1.0,
+  "derivation_edge_recall_numerator_denominator": "15/15",
+  "false_origin_rate": 0.0,
+  "false_origin_rate_numerator_denominator": "0/30",
+  "chronology_violations_found": 0,
+  "chronology_violations_denominator": 5,
+  "similarity_edge_wrongly_promoted_to_derivation": 1,
+  "similarity_edge_wrongly_promoted_denominator": 15,
+  "multi_origin_cases_detail": [
+    {
+      "case_id": "fb_021",
+      "v02_candidate_count_for_reuse_id": 6,
+      "predicted_derivation": true
+    },
+    {
+      "case_id": "fb_022",
+      "v02_candidate_count_for_reuse_id": 1,
+      "predicted_derivation": true
+    }
+  ],
+  "long_document_case": {
+    "case_id": "fb_015",
+    "total_v02_hits_for_this_message": null,
+    "false_derivation_edge_count": 0
+  }
+}

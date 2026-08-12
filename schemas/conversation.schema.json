@@ -1,0 +1,164 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://derekos.master-brain/schemas/conversation.json",
+  "title": "Ingested Conversation",
+  "description": "Normalized conversation record produced by Phase 1 ingestion from raw ChatGPT export.",
+  "type": "object",
+  "required": ["id", "source_file", "source_index", "title", "create_time", "messages"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Original conversation ID from ChatGPT export",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"
+    },
+    "source_file": {
+      "type": "string",
+      "description": "Original export file this was parsed from",
+      "pattern": "^conversations-[0-9]{3}\\.json$"
+    },
+    "source_index": {
+      "type": "integer",
+      "description": "Index of this conversation within the source file (0-based)"
+    },
+    "title": {
+      "type": "string",
+      "description": "Conversation title from ChatGPT"
+    },
+    "create_time": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of conversation creation"
+    },
+    "update_time": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of last update"
+    },
+    "model": {
+      "type": ["string", "null"],
+      "description": "Default model slug (e.g. gpt-4, gpt-4o)"
+    },
+    "is_archived": {
+      "type": "boolean",
+      "description": "Whether conversation was archived"
+    },
+    "is_starred": {
+      "type": "boolean",
+      "description": "Whether conversation was starred"
+    },
+    "message_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Total number of messages in the linear chain"
+    },
+    "user_message_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Number of messages from the user (Derek)"
+    },
+    "assistant_message_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Number of messages from the assistant"
+    },
+    "date_range": {
+      "type": "object",
+      "description": "Time span of the conversation",
+      "properties": {
+        "first_message": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "last_message": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "duration_minutes": {
+          "type": "number",
+          "description": "Approximate duration in minutes"
+        }
+      }
+    },
+    "messages": {
+      "type": "array",
+      "description": "Messages in chronological order (root to leaf)",
+      "items": {
+        "$ref": "#/definitions/message"
+      }
+    },
+    "has_attachments": {
+      "type": "boolean",
+      "description": "Whether any message in the conversation has file attachments"
+    },
+    "plugin_ids": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Plugins used in this conversation"
+    }
+  },
+  "definitions": {
+    "message": {
+      "type": "object",
+      "required": ["id", "author_role", "content_type", "create_time"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Message ID (node key in the mapping tree)"
+        },
+        "parent_id": {
+          "type": ["string", "null"],
+          "description": "Parent message ID (null for root)"
+        },
+        "author_role": {
+          "type": "string",
+          "enum": ["user", "assistant", "system"],
+          "description": "Who wrote this message"
+        },
+        "author_name": {
+          "type": ["string", "null"],
+          "description": "Author name if provided"
+        },
+        "content_type": {
+          "type": "string",
+          "enum": ["text", "code", "image", "multimodal_text"],
+          "description": "Type of content"
+        },
+        "content_text": {
+          "type": "string",
+          "description": "Full text content (concatenated from parts)"
+        },
+        "content_preview": {
+          "type": "string",
+          "description": "First 300 characters of content for quick scanning"
+        },
+        "content_length": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Character count of full content"
+        },
+        "create_time": {
+          "type": "number",
+          "description": "Unix timestamp"
+        },
+        "create_time_iso": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 timestamp"
+        },
+        "model_slug": {
+          "type": ["string", "null"],
+          "description": "Model used for this specific message (assistant only)"
+        },
+        "has_attachments": {
+          "type": "boolean",
+          "description": "Whether this message has file attachments"
+        },
+        "metadata": {
+          "type": "object",
+          "description": "Additional metadata from the export",
+          "additionalProperties": true
+        }
+      }
+    }
+  }
+}

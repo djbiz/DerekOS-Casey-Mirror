@@ -1,0 +1,26 @@
+{
+  "release_id": "NOTION_EVIDENCE_RELEASE_001",
+  "source_identity": "notion-workspace",
+  "status": "FROZEN",
+  "parent": null,
+  "record_count": 23,
+  "database_count": 3,
+  "release_content_sha256": "e26ea8d5a5b36f0a3f34d401839cf8123533d6fc3389cf8a4328d47deaee881c",
+  "manifest_path": "00_RAW_ARCHIVE/notion-workspace/NOTION_EVIDENCE_RELEASE_001/manifest.json",
+  "extraction_timestamp": "2026-08-12T15:34:49.680372+00:00",
+  "secret_redactions": 0,
+  "exclusions": [
+    "marketplace/template bulk content (1,827 pages, 2025-06 import)",
+    "CRM/client/contact PII (entire client/contact dataset)",
+    "credentials/secrets (regex-scanned; matches redacted)",
+    "obvious duplicate/template instances"
+  ],
+  "cross_source_scan": {
+    "compared_with": "CORPUS_RELEASE_001",
+    "matches_ge_3_shingles": 31,
+    "results": "14_TESTS_AUDITS/notion_audit/cross_source_matches.json"
+  },
+  "relationship_to_corpus": "Independent evidence lineage. CORPUS_RELEASE_002 remains the clean ChatGPT-only delta of CORPUS_RELEASE_001.",
+  "canonical_status": "EVIDENCE_ONLY — nothing promoted to 10_CANONICAL_KNOWLEDGE",
+  "delta": "First frozen Notion evidence release: 23 page records from founder-approved scope (DerekOS cluster, VOX cluster, Ghost Protocol Ops, non-template Company-in-a-Box/DAC, OS-concept pages) + 3 databases (DerekOS Rules & Principles, RPM Cycles, VOX Industry Messaging Matrix)."
+}

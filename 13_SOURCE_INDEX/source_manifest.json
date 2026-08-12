@@ -1,0 +1,345 @@
+{
+  "corpus": "chatgpt-export-2026-08-10 + other-ai-export-2026-08-12 + copilot-csv-2026-08-12",
+  "files": [
+    {
+      "conversation_count": 100,
+      "filename": "conversations-000.json",
+      "json_valid": true,
+      "mapping_node_count": 2704,
+      "message_count": 2604,
+      "sha256": "3e875615b0952795d1b1f34023b7db846192917a03801d23f5896634b901b58f",
+      "size_bytes": 6083369
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-001.json",
+      "json_valid": true,
+      "mapping_node_count": 3163,
+      "message_count": 3063,
+      "sha256": "d50e5ff2d1a6eca7a2a5bb8b626c7e0125d4cc014f0b6dc555424512e9df3d58",
+      "size_bytes": 8432351
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-002.json",
+      "json_valid": true,
+      "mapping_node_count": 2396,
+      "message_count": 2296,
+      "sha256": "ab728516711ef6dc6b204b0cb6e366554f3de52cdda71175446fc76162bf3c4a",
+      "size_bytes": 6076328
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-003.json",
+      "json_valid": true,
+      "mapping_node_count": 1060,
+      "message_count": 960,
+      "sha256": "787235ffaf8f3fb22f6a07fdde89c61d8316b4771931b332fc4794982e0819fa",
+      "size_bytes": 2988338
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-004.json",
+      "json_valid": true,
+      "mapping_node_count": 1537,
+      "message_count": 1437,
+      "sha256": "5513a1fb1a3d63665a02867cb14fd42ed5700a887d80231ecf222a33d0852c6d",
+      "size_bytes": 4069747
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-005.json",
+      "json_valid": true,
+      "mapping_node_count": 3322,
+      "message_count": 3222,
+      "sha256": "27fb2ed81401aaf62e5f4c8c17540432220affa7ec1fe7fb976904b05eed90f3",
+      "size_bytes": 10124492
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-006.json",
+      "json_valid": true,
+      "mapping_node_count": 1644,
+      "message_count": 1544,
+      "sha256": "4d6658c82560486a78bb1aa55216de6e437400a1f1e4ce5ddff7fee1e16e04d7",
+      "size_bytes": 5899025
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-007.json",
+      "json_valid": true,
+      "mapping_node_count": 796,
+      "message_count": 696,
+      "sha256": "394b5571c234102b1677dd9ec61240fe4015dbd768659d67eebe45d3444e309e",
+      "size_bytes": 2793448
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-008.json",
+      "json_valid": true,
+      "mapping_node_count": 665,
+      "message_count": 565,
+      "sha256": "5b56a1566371e808033209282a6c7dd26970d122456b22b2a112be75bd5a859f",
+      "size_bytes": 2637745
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-009.json",
+      "json_valid": true,
+      "mapping_node_count": 1594,
+      "message_count": 1494,
+      "sha256": "96b3fd15b1922f0603838006ec061cc8780e4dbe533109765d21fe510a27e28a",
+      "size_bytes": 4994366
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-010.json",
+      "json_valid": true,
+      "mapping_node_count": 1216,
+      "message_count": 1116,
+      "sha256": "27fee5f0156fd0ac82939c7aab896873c2ce9178d6267cfe2b333b6e754cc8ac",
+      "size_bytes": 4155999
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-011.json",
+      "json_valid": true,
+      "mapping_node_count": 2878,
+      "message_count": 2778,
+      "sha256": "3784aeccf1bf147d49cdf120ee30b68687a4123fbd56efc8c8083fe7224a1838",
+      "size_bytes": 9122749
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-012.json",
+      "json_valid": true,
+      "mapping_node_count": 2759,
+      "message_count": 2659,
+      "sha256": "6c55f9d86e8c88310fe4a073d9c27df3d03d5b132ce706c48a3e533010bcffc9",
+      "size_bytes": 11858081
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-013.json",
+      "json_valid": true,
+      "mapping_node_count": 3180,
+      "message_count": 3080,
+      "sha256": "03af67cdd3d0d3aa4a846de853400a7e148ecb32d82e8d614a4ae89b6c05dc7f",
+      "size_bytes": 11718444
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-014.json",
+      "json_valid": true,
+      "mapping_node_count": 1911,
+      "message_count": 1811,
+      "sha256": "74757d8b68f28e321df04b262d93588fc9394de4a8ec15e57980e72d32ff43fe",
+      "size_bytes": 5330447
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-015.json",
+      "json_valid": true,
+      "mapping_node_count": 2098,
+      "message_count": 1998,
+      "sha256": "928e86dfb925792989417b9bdfa91eb456b67d8af90868c9f53f545c5f571d5c",
+      "size_bytes": 6239009
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-016.json",
+      "json_valid": true,
+      "mapping_node_count": 4093,
+      "message_count": 3993,
+      "sha256": "3d98c3f4a67e8041b1ae145500fc290c4c1f8034036db8e3ce048139820edb46",
+      "size_bytes": 13669836
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-017.json",
+      "json_valid": true,
+      "mapping_node_count": 3592,
+      "message_count": 3492,
+      "sha256": "eb924f89227bcc7e47e0f7fe689d7f1089f9b526875ea0e2a5f982a22bd49dd7",
+      "size_bytes": 14477951
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-018.json",
+      "json_valid": true,
+      "mapping_node_count": 2259,
+      "message_count": 2159,
+      "sha256": "ecd352047a638bc069f194be79294c8cdfcdc842d70d2950c361e7214317e29d",
+      "size_bytes": 8364721
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-019.json",
+      "json_valid": true,
+      "mapping_node_count": 1241,
+      "message_count": 1141,
+      "sha256": "70a51e4b789476d87e31e15f17871ece0e5028f6f93a5d08632a438de2740e9d",
+      "size_bytes": 4354345
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-020.json",
+      "json_valid": true,
+      "mapping_node_count": 1464,
+      "message_count": 1364,
+      "sha256": "4c3cf3811674cb2b38516b9a07f30cb8e2329d16f86735a5d3d6f371c42cc014",
+      "size_bytes": 5024861
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-021.json",
+      "json_valid": true,
+      "mapping_node_count": 1161,
+      "message_count": 1061,
+      "sha256": "a99aa4895c133d1b879f9286417277e5cc85897ab2730869e398ad85202ac836",
+      "size_bytes": 4611717
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-022.json",
+      "json_valid": true,
+      "mapping_node_count": 1746,
+      "message_count": 1646,
+      "sha256": "0809ff5ad3b3a6a64cba642554158901da510c6ef23a9018b13f505b84772ed0",
+      "size_bytes": 7081768
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-023.json",
+      "json_valid": true,
+      "mapping_node_count": 1263,
+      "message_count": 1163,
+      "sha256": "52bbcaede1e229f5fbf8d05ab6867e8977825bc582e6116720070b3f0efddeb2",
+      "size_bytes": 6065840
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-024.json",
+      "json_valid": true,
+      "mapping_node_count": 1453,
+      "message_count": 1353,
+      "sha256": "47c6609feddbf2f88b56eb27f8c02cbf17d1f89f4bc2d77ea1c379330dd4eaa6",
+      "size_bytes": 5918192
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-025.json",
+      "json_valid": true,
+      "mapping_node_count": 1216,
+      "message_count": 1116,
+      "sha256": "d380a06d1f4a77aba569d2bc26fbe61e0e1dd73d583e38b3faace0fdf2164fbe",
+      "size_bytes": 5349400
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-026.json",
+      "json_valid": true,
+      "mapping_node_count": 1054,
+      "message_count": 954,
+      "sha256": "fe09f49b9b334c26e56ae710fc58561e3d53c907217f11fa1186b0d2c2912b67",
+      "size_bytes": 4980460
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-027.json",
+      "json_valid": true,
+      "mapping_node_count": 975,
+      "message_count": 875,
+      "sha256": "513bb875d41a7a2565aef11ce5e3a3dab3a6dbd66fa252f144903dd9a2df4d1d",
+      "size_bytes": 3488428
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-028.json",
+      "json_valid": true,
+      "mapping_node_count": 1305,
+      "message_count": 1205,
+      "sha256": "5e0fb29c8be62f663d9c3ff77d3f09f3b03eba805f85e49da5fa597a64df6f64",
+      "size_bytes": 4387752
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-029.json",
+      "json_valid": true,
+      "mapping_node_count": 1416,
+      "message_count": 1316,
+      "sha256": "24f19da0510edf6d700030651c61ecdabe180c93043134b59aa7b842ba0b4290",
+      "size_bytes": 5171238
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-030.json",
+      "json_valid": true,
+      "mapping_node_count": 1304,
+      "message_count": 1204,
+      "sha256": "67af0d7cf8fdbf7c6631daac2c62afec1752964d93a84ad2968a49e59b3f48c3",
+      "size_bytes": 4992317
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-031.json",
+      "json_valid": true,
+      "mapping_node_count": 972,
+      "message_count": 872,
+      "sha256": "b2d5c1f9773d787e56b0a1eb98e46a9ac30dc04236b2f5eab34b01184c62b0b8",
+      "size_bytes": 3556211
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-032.json",
+      "json_valid": true,
+      "mapping_node_count": 4157,
+      "message_count": 4057,
+      "sha256": "07232893fb0430c9e6e3567fae0b692078b9dc1a67540f3b53ce4709aa5a6bc1",
+      "size_bytes": 17757728
+    },
+    {
+      "conversation_count": 100,
+      "filename": "conversations-033.json",
+      "json_valid": true,
+      "mapping_node_count": 4250,
+      "message_count": 4150,
+      "sha256": "d53d31942f3899827c4fcdecf06fa665ebfd3dc2bd2221f4a4a32ae2f2f6033c",
+      "size_bytes": 8837154
+    },
+    {
+      "conversation_count": 76,
+      "filename": "conversations-034.json",
+      "json_valid": true,
+      "mapping_node_count": 4393,
+      "message_count": 4317,
+      "sha256": "7cf1858d3394811fcda6010bd14a935e34225d845b31bd4e443299b04137dd19",
+      "size_bytes": 8885496
+    },
+    {
+      "conversation_count": 465,
+      "filename": "conversations.json",
+      "json_valid": true,
+      "mapping_node_count": 3497,
+      "message_count": 3080,
+      "sha256": "2e3d2b5a1cae429a3162c117045dd038de6c076814c41bac3ef71fe335baac74",
+      "size_bytes": 107422950
+    },
+    {
+      "conversation_count": 28,
+      "filename": "copilot-2026-08-12T11_59_49.315Z.csv",
+      "json_valid": null,
+      "message_count": 400,
+      "sha256": "4d08d154ea75037b884b1799f47ec8d561629f80b2c8b4311affffa858713b98",
+      "size_bytes": 1200013
+    }
+  ],
+  "schema_version": "1.0.0",
+  "totals": {
+    "conversations": 3969,
+    "mapping_nodes": 75734,
+    "messages": 72241,
+    "source_files": 37,
+    "structural_nodes_without_messages": 3941
+  }
+}

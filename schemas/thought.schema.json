@@ -1,0 +1,180 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://derekos.master-brain/schemas/thought.json",
+  "title": "Extracted Thought",
+  "description": "Atomic thought object with full provenance, produced by Phase 2 extraction.",
+  "type": "object",
+  "required": ["id", "name", "type", "originator", "evidence_class", "status", "confidence", "source", "summary"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^T[0-9]{7}$",
+      "description": "Unique thought ID"
+    },
+    "name": {
+      "type": "string",
+      "description": "Short name for the thought"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "idea", "invention", "framework", "business", "goal", "principle",
+        "correction", "decision", "observation", "question", "plan",
+        "architecture", "strategy", "insight", "critique", "vision"
+      ],
+      "description": "Category of thought"
+    },
+    "originator": {
+      "type": "string",
+      "enum": ["derek", "assistant", "collaborative", "unknown"],
+      "description": "Who originated this thought"
+    },
+    "evidence_class": {
+      "type": "string",
+      "enum": ["D0", "D1", "A0", "I0", "E0", "B0", "X0"],
+      "description": "Evidence class per MASTER_BRAIN_BUILD_SPEC"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active_concept", "superseded", "rejected", "archived", "in_progress", "completed", "abandoned"],
+      "description": "Current lifecycle status"
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Confidence level (1.0=Derek explicit, 0.8=approved, 0.6=inferred, 0.4=assistant only, 0.2=machine inference)"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "When this thought object was created (ingestion time)"
+    },
+    "source": {
+      "type": "object",
+      "required": ["file", "conversation_id", "message_id"],
+      "properties": {
+        "file": {
+          "type": "string",
+          "description": "Source conversation file (e.g. conversations-033.json)"
+        },
+        "conversation_id": {
+          "type": "string",
+          "description": "Conversation ID in the source"
+        },
+        "conversation_title": {
+          "type": "string",
+          "description": "Conversation title"
+        },
+        "message_id": {
+          "type": "string",
+          "description": "Specific message ID where this thought originates"
+        },
+        "timestamp": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Timestamp of the source message"
+        },
+        "author_role": {
+          "type": "string",
+          "enum": ["user", "assistant", "system"],
+          "description": "Who wrote the source message"
+        },
+        "original_text": {
+          "type": "string",
+          "description": "Exact text from the source message (or relevant excerpt)"
+        }
+      }
+    },
+    "summary": {
+      "type": "string",
+      "description": "Concise summary of the thought"
+    },
+    "detail": {
+      "type": "string",
+      "description": "Extended analysis or explanation"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Topical tags for search and filtering"
+    },
+    "supersedes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Thought IDs that this thought replaces"
+    },
+    "superseded_by": {
+      "type": ["string", "null"],
+      "description": "Thought ID that replaced this one (null if active)"
+    },
+    "relationships": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/relationship_ref" },
+      "description": "Links to other thoughts"
+    },
+    "timeline": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/timeline_entry" },
+      "description": "Chronological evolution of this thought"
+    },
+    "entities_mentioned": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Entity IDs referenced by this thought"
+    }
+  },
+  "definitions": {
+    "relationship_ref": {
+      "type": "object",
+      "required": ["target_id", "type", "evidence_class", "confidence"],
+      "properties": {
+        "target_id": {
+          "type": "string",
+          "description": "Target thought or entity ID"
+        },
+        "type": {
+          "type": "string",
+          "enum": ["related_to", "builds_on", "supersedes", "contradicts", "depends_on", "part_of", "inspired_by", "evolved_into"],
+          "description": "Relationship type"
+        },
+        "evidence_class": {
+          "type": "string",
+          "enum": ["D0", "D1", "A0", "I0", "E0", "B0", "X0"]
+        },
+        "confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "timeline_entry": {
+      "type": "object",
+      "required": ["date", "event"],
+      "properties": {
+        "date": {
+          "type": "string",
+          "description": "ISO date (YYYY-MM-DD)"
+        },
+        "event": {
+          "type": "string",
+          "enum": ["originated", "developed", "approved", "implemented", "superseded", "rejected", "revisited", "completed"],
+          "description": "What happened"
+        },
+        "description": {
+          "type": "string",
+          "description": "What happened on this date"
+        },
+        "source_ref": {
+          "type": "object",
+          "properties": {
+            "file": { "type": "string" },
+            "conversation_id": { "type": "string" },
+            "message_id": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}

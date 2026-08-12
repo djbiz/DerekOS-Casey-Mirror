@@ -1,0 +1,2834 @@
+[
+  {
+    "id": "6812cf77-d0b0-8006-acd0-7a4ba9ed7a1a",
+    "title": "Master Marketing Strategy Fusion",
+    "source_file": "conversations-001.json",
+    "message_count": 10
+  },
+  {
+    "id": "6812e5e4-260c-8006-a044-bbc76e5a9f7e",
+    "title": "Matt Leitz Biz Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 18
+  },
+  {
+    "id": "6812f4a8-b8a0-8006-9fd9-75344cfb57dd",
+    "title": "Trust Trinity Framework",
+    "source_file": "conversations-001.json",
+    "message_count": 32
+  },
+  {
+    "id": "681310e4-8f64-8006-9a21-2dffd73a633f",
+    "title": "Forbes Factor Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 10
+  },
+  {
+    "id": "681313a8-74fc-8006-8364-74e4962aed78",
+    "title": "Forbes Factor Social Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 10
+  },
+  {
+    "id": "681321ea-acec-8006-8707-2db6d08e90e0",
+    "title": "Joseph Feor DAC Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 4
+  },
+  {
+    "id": "6813381d-32a8-8006-9612-116bade25659",
+    "title": "DAC Marketing Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 12
+  },
+  {
+    "id": "6813ba88-c5a8-8006-96cf-22365e59d247",
+    "title": "David to Goliath Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 20
+  },
+  {
+    "id": "6813ee24-23b0-8006-99ae-30c948830a43",
+    "title": "DAC Marketing Strategy Playbook",
+    "source_file": "conversations-001.json",
+    "message_count": 10
+  },
+  {
+    "id": "6813eec3-cecc-8006-9b68-b12f5767e5c1",
+    "title": "PDF Discussion Recap",
+    "source_file": "conversations-001.json",
+    "message_count": 2
+  },
+  {
+    "id": "6813eee5-719c-8006-aea4-9e0bbe606e94",
+    "title": "DAC Welcome Letter Summary",
+    "source_file": "conversations-001.json",
+    "message_count": 12
+  },
+  {
+    "id": "6813fd5d-2dc8-8006-a780-f1a9e66b57c4",
+    "title": "DAC Client-Getting Strategies",
+    "source_file": "conversations-001.json",
+    "message_count": 10
+  },
+  {
+    "id": "681406c5-b214-8006-8795-4cacad9ceefa",
+    "title": "DAC Funding Sales Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 8
+  },
+  {
+    "id": "681411d9-6d10-8006-a8c5-45570c2a76ba",
+    "title": "Mitchell Miles Marketing Playbook",
+    "source_file": "conversations-001.json",
+    "message_count": 22
+  },
+  {
+    "id": "68141c5c-2058-8006-a79c-de1930043ba5",
+    "title": "DAC Social Media Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 66
+  },
+  {
+    "id": "6814e139-f31c-8006-8ac2-df7b3791b8a5",
+    "title": "DAC Social Media Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 16
+  },
+  {
+    "id": "6814f8e1-b6cc-8006-8e58-30f9628ef920",
+    "title": "Todd Brown DAC Marketing",
+    "source_file": "conversations-001.json",
+    "message_count": 14
+  },
+  {
+    "id": "6815162c-f188-8006-87ad-89f6ff5ff92d",
+    "title": "DAC Agent Marketing Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 94
+  },
+  {
+    "id": "6815805e-adfc-8006-928c-7e005b3570dd",
+    "title": "CDP Formula Clarification",
+    "source_file": "conversations-001.json",
+    "message_count": 274
+  },
+  {
+    "id": "68178783-c540-8006-9399-3da12cd70b6b",
+    "title": "Viral Funding Video Formats",
+    "source_file": "conversations-001.json",
+    "message_count": 54
+  },
+  {
+    "id": "6817c27e-8d38-8006-a813-fdca98d9b5e3",
+    "title": "Sales Call Formula",
+    "source_file": "conversations-001.json",
+    "message_count": 14
+  },
+  {
+    "id": "6817c5bf-b194-8006-87fc-e25f59f69573",
+    "title": "DAC Funding Freebie Ideas",
+    "source_file": "conversations-001.json",
+    "message_count": 6
+  },
+  {
+    "id": "6817cb9d-77c4-8006-aac3-fd845276ee73",
+    "title": "Fictional Testimonial Creation",
+    "source_file": "conversations-001.json",
+    "message_count": 22
+  },
+  {
+    "id": "6817d59f-fd90-8006-94ea-8dbcd1f76f1a",
+    "title": "ISE Framework for DAC",
+    "source_file": "conversations-001.json",
+    "message_count": 20
+  },
+  {
+    "id": "6817e575-4450-8006-ab45-3a68a686aa63",
+    "title": "Hybrid Marketing Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 18
+  },
+  {
+    "id": "6817eefd-32c0-8006-ac4b-c051d09ad506",
+    "title": "DAC Business Growth Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 14
+  },
+  {
+    "id": "681869cc-fce8-8006-b860-3bc459ca0ca1",
+    "title": "DAC Funding Email Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 4
+  },
+  {
+    "id": "68187358-a2e0-8006-b787-877b0f0c31f7",
+    "title": "Max Steingart DAC Retreat",
+    "source_file": "conversations-001.json",
+    "message_count": 6
+  },
+  {
+    "id": "681878f8-8480-8006-8f91-eb3704159595",
+    "title": "Mike Dillard DAC Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 70
+  },
+  {
+    "id": "68189b85-fa2c-8006-9f12-7bed0cdac89a",
+    "title": "Building Email Calendar",
+    "source_file": "conversations-001.json",
+    "message_count": 15
+  },
+  {
+    "id": "6818ddaa-6e48-8006-9764-7600c19f59b4",
+    "title": "90-Day 6-Person Blueprint",
+    "source_file": "conversations-001.json",
+    "message_count": 69
+  },
+  {
+    "id": "68193c48-640c-8006-862f-8315dda50dfb",
+    "title": "DAC Customer Acquisition System",
+    "source_file": "conversations-001.json",
+    "message_count": 6
+  },
+  {
+    "id": "68194c7a-b664-8006-b319-373a141cac1c",
+    "title": "DAC Funding Webinar Script",
+    "source_file": "conversations-001.json",
+    "message_count": 6
+  },
+  {
+    "id": "68194f90-3e18-8006-96f1-439735a8bbc9",
+    "title": "Cedrick Harris Marketing Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 36
+  },
+  {
+    "id": "68195f70-3774-8006-94bd-9ea68d1befb0",
+    "title": "Top Marketers for Cedrick",
+    "source_file": "conversations-001.json",
+    "message_count": 20
+  },
+  {
+    "id": "681968ed-5434-8006-9baf-0d4dd9b169d1",
+    "title": "Legacy GPT Sales Funnel",
+    "source_file": "conversations-001.json",
+    "message_count": 14
+  },
+  {
+    "id": "6819705b-3b80-8006-8bb4-cd50aa3478d7",
+    "title": "DAC $50k Agent Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 8
+  },
+  {
+    "id": "68197507-cc84-8006-976c-26d552c6d4ed",
+    "title": "Safelist Traffic Funnel Strategy",
+    "source_file": "conversations-001.json",
+    "message_count": 8
+  },
+  {
+    "id": "68197cd8-2d04-8006-bf89-98d634ad9c36",
+    "title": "Rapid Capital Offer",
+    "source_file": "conversations-001.json",
+    "message_count": 2
+  },
+  {
+    "id": "68197e6a-6e90-8006-8168-8ac437a21619",
+    "title": "VSL Script for Funding",
+    "source_file": "conversations-001.json",
+    "message_count": 6
+  },
+  {
+    "id": "68197fb2-f420-8006-97a4-48d21c1f518b",
+    "title": "VSL Script for Funding",
+    "source_file": "conversations-002.json",
+    "message_count": 4
+  },
+  {
+    "id": "68198201-ea84-8006-9dcb-01e03388e0a7",
+    "title": "VSL Funnel Script Outline",
+    "source_file": "conversations-002.json",
+    "message_count": 18
+  },
+  {
+    "id": "68199592-c7cc-8006-9154-51c606ece8b7",
+    "title": "Daymond John's Funding Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 46
+  },
+  {
+    "id": "6819ac52-0464-8006-add3-e4160b644a4b",
+    "title": "Kevin Harrington VSL Script Outline",
+    "source_file": "conversations-002.json",
+    "message_count": 6
+  },
+  {
+    "id": "6819ae5a-39c0-8006-a447-bf4d20b7ab82",
+    "title": "Johnathan Budd DAC VSL Script Outline",
+    "source_file": "conversations-002.json",
+    "message_count": 4
+  },
+  {
+    "id": "6819b012-636c-8006-8c62-485f7588b175",
+    "title": "Johnathan Budd DAC Marketing Revolution Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 58
+  },
+  {
+    "id": "6819d9f3-aa70-8006-aeb0-9f5fe6e954f2",
+    "title": "Webinar Engagement Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 11
+  },
+  {
+    "id": "6819e1a1-60a0-8006-b035-c848bb87a1a2",
+    "title": "Mike Dillard DAC Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 52
+  },
+  {
+    "id": "6819fc54-4f7c-8006-8acc-cb7635ea774b",
+    "title": "Sales Flow Clarity",
+    "source_file": "conversations-002.json",
+    "message_count": 42
+  },
+  {
+    "id": "681a5e97-c264-8006-9640-bc2d5f7e8d5d",
+    "title": "DAC Business Persona Creation",
+    "source_file": "conversations-002.json",
+    "message_count": 42
+  },
+  {
+    "id": "681a9708-ae8c-8006-a6f8-cccef4606561",
+    "title": "Team Invitation Message",
+    "source_file": "conversations-002.json",
+    "message_count": 22
+  },
+  {
+    "id": "681aa834-41ec-8006-86ce-bc32d6668124",
+    "title": "Lead Generation Assistance Inquiry",
+    "source_file": "conversations-002.json",
+    "message_count": 8
+  },
+  {
+    "id": "681ab1d5-a868-8006-a937-1577bc8adee1",
+    "title": "Growth Strategy for DAC",
+    "source_file": "conversations-002.json",
+    "message_count": 2
+  },
+  {
+    "id": "681ab1f9-35e8-8006-a92f-7a7034c759eb",
+    "title": "DAC Growth Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 16
+  },
+  {
+    "id": "681abd22-6414-8006-a1e9-039ea2e99f31",
+    "title": "DAC Marketing Integration",
+    "source_file": "conversations-002.json",
+    "message_count": 138
+  },
+  {
+    "id": "681ae908-0b74-8006-a698-a9302110f42b",
+    "title": "Team Building Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 8
+  },
+  {
+    "id": "681af943-048c-8006-a068-1950f5222d8d",
+    "title": "Business SOP Drafting Guide",
+    "source_file": "conversations-002.json",
+    "message_count": 57
+  },
+  {
+    "id": "681b04cf-fed0-8006-91c9-7c8d344a8758",
+    "title": "Giana Cambria 8-Figure Formula",
+    "source_file": "conversations-002.json",
+    "message_count": 14
+  },
+  {
+    "id": "681b16c0-db40-8006-8eb3-36a65520d267",
+    "title": "DAC Social Media Plan",
+    "source_file": "conversations-002.json",
+    "message_count": 8
+  },
+  {
+    "id": "681b195f-f1dc-8006-8f03-fdc3dffb7a8e",
+    "title": "Tanya Aliza DAC Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 142
+  },
+  {
+    "id": "681b3e2b-4918-8006-885f-140e5435f8fc",
+    "title": "VA Lead Qualification Process",
+    "source_file": "conversations-002.json",
+    "message_count": 12
+  },
+  {
+    "id": "681b4bfc-d320-8006-9b01-95bf573687f9",
+    "title": "Virtual Event Strategy Guide",
+    "source_file": "conversations-002.json",
+    "message_count": 2
+  },
+  {
+    "id": "681b58aa-1630-8006-a789-2f9d6276ec5a",
+    "title": "Copyboarding Process Breakdown",
+    "source_file": "conversations-002.json",
+    "message_count": 52
+  },
+  {
+    "id": "681b7a64-7fa4-8006-86c0-ccfd6e149178",
+    "title": "LinkedIn Banner Slogans",
+    "source_file": "conversations-002.json",
+    "message_count": 18
+  },
+  {
+    "id": "681b8ce3-b6c4-8006-9883-9b3b1c1c6ad8",
+    "title": "Max Steingart Approach",
+    "source_file": "conversations-002.json",
+    "message_count": 24
+  },
+  {
+    "id": "681b948d-d25c-8006-a7e2-3fa370c7121e",
+    "title": "Ryan Pineda Overview",
+    "source_file": "conversations-002.json",
+    "message_count": 4
+  },
+  {
+    "id": "681b9956-7bdc-8006-8703-5ae4b69a8fb7",
+    "title": "Sales Role Pricing Overview",
+    "source_file": "conversations-002.json",
+    "message_count": 14
+  },
+  {
+    "id": "681bb04d-ffa4-8006-9ed6-f73e244619ff",
+    "title": "Billy Jean Clarification",
+    "source_file": "conversations-002.json",
+    "message_count": 8
+  },
+  {
+    "id": "681bb2ae-6630-8006-81e2-e82b5dda77fb",
+    "title": "Vince Reed Marketing Playbook",
+    "source_file": "conversations-002.json",
+    "message_count": 126
+  },
+  {
+    "id": "681bb4a6-70fc-8006-aed3-f12b37dca5b9",
+    "title": "Best Times for DAC Posts",
+    "source_file": "conversations-002.json",
+    "message_count": 2
+  },
+  {
+    "id": "681bb6c4-b9a0-8006-80c6-391bb2f8a466",
+    "title": "Post Formula Framework",
+    "source_file": "conversations-002.json",
+    "message_count": 34
+  },
+  {
+    "id": "681bbeb5-0e1c-8006-ab42-bac0165e9748",
+    "title": "Hybrid Marketing System Ideas",
+    "source_file": "conversations-002.json",
+    "message_count": 34
+  },
+  {
+    "id": "681bd0b2-2bd8-8006-8470-eb5f1930647a",
+    "title": "Hiring Ads Manager DAC",
+    "source_file": "conversations-002.json",
+    "message_count": 2
+  },
+  {
+    "id": "681bd941-36a0-8006-b174-0fa452c375a4",
+    "title": "Sales Warrior Summary",
+    "source_file": "conversations-002.json",
+    "message_count": 9
+  },
+  {
+    "id": "681be97a-572c-8006-9901-29e6eb274e17",
+    "title": "Who is Rana Saini",
+    "source_file": "conversations-002.json",
+    "message_count": 54
+  },
+  {
+    "id": "681c1b48-0614-8006-a01f-a8be22e0648b",
+    "title": "DAC Webinar Script",
+    "source_file": "conversations-002.json",
+    "message_count": 4
+  },
+  {
+    "id": "681c6642-3dac-8006-951a-f4cd54c4e173",
+    "title": "Viral DAC Video Scripts",
+    "source_file": "conversations-002.json",
+    "message_count": 40
+  },
+  {
+    "id": "681cefca-1918-8006-8957-0259d36fdf63",
+    "title": "Sales Call Transformation Tips",
+    "source_file": "conversations-002.json",
+    "message_count": 34
+  },
+  {
+    "id": "681d2c29-eab0-8006-a7f9-79658a92f86f",
+    "title": "Faceless YouTube Channel Tips",
+    "source_file": "conversations-002.json",
+    "message_count": 60
+  },
+  {
+    "id": "681d45d5-ad9c-8006-90e3-c2189c3c76bf",
+    "title": "Best Video Producer Debate",
+    "source_file": "conversations-002.json",
+    "message_count": 18
+  },
+  {
+    "id": "681d4b92-99ec-8006-8da4-8eb649d08d84",
+    "title": "Content Style Mashup",
+    "source_file": "conversations-002.json",
+    "message_count": 16
+  },
+  {
+    "id": "681d5620-fcc4-8006-ae53-34f56f53469e",
+    "title": "85% Close Rate Process",
+    "source_file": "conversations-002.json",
+    "message_count": 4
+  },
+  {
+    "id": "681d5897-11dc-8006-ac1c-c81e9eac9b6d",
+    "title": "Top Video Marketers Guide",
+    "source_file": "conversations-002.json",
+    "message_count": 8
+  },
+  {
+    "id": "681d5b4e-a678-8006-82c7-e784d2e11d90",
+    "title": "Ryan Reynolds Ad Script",
+    "source_file": "conversations-002.json",
+    "message_count": 12
+  },
+  {
+    "id": "681d607a-0d44-8006-bd77-4af40ebdd707",
+    "title": "Lead Closer Role Hiring",
+    "source_file": "conversations-002.json",
+    "message_count": 36
+  },
+  {
+    "id": "681d662f-4ed0-8006-8ec1-90f4ba99a8c6",
+    "title": "Max Method Icebreaker",
+    "source_file": "conversations-002.json",
+    "message_count": 2
+  },
+  {
+    "id": "681d7193-5294-8006-a344-f4c98ac3e3a8",
+    "title": "BOPA Marketing Strategy Explained",
+    "source_file": "conversations-002.json",
+    "message_count": 14
+  },
+  {
+    "id": "681d7bbd-48fc-8006-b826-ce7e030ce229",
+    "title": "DAC BK Style Marketing",
+    "source_file": "conversations-002.json",
+    "message_count": 20
+  },
+  {
+    "id": "681d95d0-8f58-8006-a78d-9323ea13ed59",
+    "title": "Top Marketing Teams 2025",
+    "source_file": "conversations-002.json",
+    "message_count": 21
+  },
+  {
+    "id": "681da5ff-f4b8-8006-87a1-bf68cd7d50ba",
+    "title": "VA Scope Clarification",
+    "source_file": "conversations-002.json",
+    "message_count": 12
+  },
+  {
+    "id": "681da849-8564-8006-9464-50afedb33ffc",
+    "title": "Hiring for DAC services",
+    "source_file": "conversations-002.json",
+    "message_count": 2
+  },
+  {
+    "id": "681db4fd-11f4-8006-8645-98e95ce07820",
+    "title": "Wunderstars Coaching Zusammenfassung",
+    "source_file": "conversations-002.json",
+    "message_count": 29
+  },
+  {
+    "id": "681e2c63-54d4-8006-8eb2-c74488d27e29",
+    "title": "Hiring for DAC Support",
+    "source_file": "conversations-002.json",
+    "message_count": 2
+  },
+  {
+    "id": "681e3c8f-d148-8006-b5c7-0307378c7f82",
+    "title": "Trey Bearor Script Adaptation",
+    "source_file": "conversations-002.json",
+    "message_count": 10
+  },
+  {
+    "id": "681e3dd6-cff4-8006-86ba-7102d0bc6a6e",
+    "title": "Million-Dollar Marketing Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 12
+  },
+  {
+    "id": "681e431e-3700-8006-a809-40c8763ff96d",
+    "title": "2M Month Playbook",
+    "source_file": "conversations-002.json",
+    "message_count": 8
+  },
+  {
+    "id": "681e454a-f310-8006-8b84-3161b122d622",
+    "title": "DAC Fame Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 24
+  },
+  {
+    "id": "681e48e3-c8a8-8006-af3a-7e0df717dbd6",
+    "title": "DAC Business Growth Plan",
+    "source_file": "conversations-002.json",
+    "message_count": 4
+  },
+  {
+    "id": "681e4e1e-0554-8006-af61-98fd1522bbac",
+    "title": "Best Horror Director",
+    "source_file": "conversations-002.json",
+    "message_count": 44
+  },
+  {
+    "id": "681e6032-b63c-8006-8944-174ada36fad3",
+    "title": "DAC Social Media Campaigns",
+    "source_file": "conversations-002.json",
+    "message_count": 60
+  },
+  {
+    "id": "681e6ece-4d04-8006-b680-a6bcf0a5d5e9",
+    "title": "DAC Business Onboarding Guide",
+    "source_file": "conversations-002.json",
+    "message_count": 2
+  },
+  {
+    "id": "681e72fd-5994-8006-b5ff-4bf2384ccab3",
+    "title": "DAC Success Blueprint",
+    "source_file": "conversations-002.json",
+    "message_count": 4
+  },
+  {
+    "id": "681e73f2-7e28-8006-8819-d0a962cf1ef8",
+    "title": "DAC Business Domination Plan",
+    "source_file": "conversations-002.json",
+    "message_count": 8
+  },
+  {
+    "id": "681e90bd-2dac-8006-be79-8d336bfb2f48",
+    "title": "5M/month Marketing Blueprint",
+    "source_file": "conversations-002.json",
+    "message_count": 14
+  },
+  {
+    "id": "681ea174-d1a0-8006-acc8-207381922b54",
+    "title": "Best Business Services Agent",
+    "source_file": "conversations-002.json",
+    "message_count": 70
+  },
+  {
+    "id": "681eb59d-8ad4-8006-80a5-2cd22ca325a8",
+    "title": "5-Day Challenge Marketing Model",
+    "source_file": "conversations-002.json",
+    "message_count": 28
+  },
+  {
+    "id": "681ebaf7-c2f8-8006-af0d-00feaf24904d",
+    "title": "DAC Funding Challenge Plan",
+    "source_file": "conversations-002.json",
+    "message_count": 26
+  },
+  {
+    "id": "681ed04a-02b8-8006-a48e-def30eed1030",
+    "title": "Roy Carter Marketing Strategies",
+    "source_file": "conversations-002.json",
+    "message_count": 24
+  },
+  {
+    "id": "681ee72a-4770-8006-a322-978f5c0f29ad",
+    "title": "Client Acquisition System Explained",
+    "source_file": "conversations-002.json",
+    "message_count": 10
+  },
+  {
+    "id": "681ee766-c898-8006-8e87-e58146a6e465",
+    "title": "Power Close Script Tips",
+    "source_file": "conversations-002.json",
+    "message_count": 10
+  },
+  {
+    "id": "681eed8e-fe34-8006-9904-5a0bf88b99fa",
+    "title": "DAC Client Acquisition Plan",
+    "source_file": "conversations-002.json",
+    "message_count": 4
+  },
+  {
+    "id": "681ef313-d8b4-8006-9466-ccc6e5e30dac",
+    "title": "Funding Lead Generation Tips",
+    "source_file": "conversations-002.json",
+    "message_count": 40
+  },
+  {
+    "id": "681f0994-fe80-8006-a7fa-6fe44e6636a1",
+    "title": "Elite DAC Funding System",
+    "source_file": "conversations-002.json",
+    "message_count": 15
+  },
+  {
+    "id": "681f36c8-5fb8-8006-8996-cc0fc2405c18",
+    "title": "Limitless Business Model",
+    "source_file": "conversations-002.json",
+    "message_count": 15
+  },
+  {
+    "id": "681f3ce5-8520-8006-b08b-1e45e0d4982e",
+    "title": "DAC Funding Growth Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 32
+  },
+  {
+    "id": "681fa2e4-0a58-8006-a4aa-5e220db4a21b",
+    "title": "Loan Broker Network Pitch",
+    "source_file": "conversations-002.json",
+    "message_count": 18
+  },
+  {
+    "id": "681fac06-7398-8006-ae3c-f80bb5b57c99",
+    "title": "Jon Benson VSL Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 40
+  },
+  {
+    "id": "681fbfce-dd80-8006-a75c-11492806ef50",
+    "title": "Winback Email Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 6
+  },
+  {
+    "id": "681fc50e-5f70-8006-8e4c-a89e8dc27dc2",
+    "title": "Billy Gene Marketing Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 24
+  },
+  {
+    "id": "681fd90f-5284-8006-848e-2a76c0baad5a",
+    "title": "Shark Tank Creation Guide",
+    "source_file": "conversations-002.json",
+    "message_count": 6
+  },
+  {
+    "id": "681fd99c-50b8-8006-b540-284f3bca54e8",
+    "title": "Stark Mode for DAC",
+    "source_file": "conversations-002.json",
+    "message_count": 12
+  },
+  {
+    "id": "681fe8ec-5710-8006-8731-1eb85bb51dd7",
+    "title": "Speeding Up Max's Method",
+    "source_file": "conversations-002.json",
+    "message_count": 16
+  },
+  {
+    "id": "681febf9-1184-8006-a0d8-09189e880041",
+    "title": "Psychology Copywriting Webinar Scripts",
+    "source_file": "conversations-002.json",
+    "message_count": 10
+  },
+  {
+    "id": "681ffc3c-dfe4-8006-82ba-0d97a41e393b",
+    "title": "AI Content System Breakdown",
+    "source_file": "conversations-002.json",
+    "message_count": 8
+  },
+  {
+    "id": "681fff9d-52c4-8006-bce7-ba86756a93ba",
+    "title": "DAC American Dream Funding",
+    "source_file": "conversations-002.json",
+    "message_count": 13
+  },
+  {
+    "id": "682008d8-e84c-8006-975e-6f9c49f5f226",
+    "title": "DNL 2025 Modern Strategies",
+    "source_file": "conversations-002.json",
+    "message_count": 18
+  },
+  {
+    "id": "68201ac4-4420-8006-84ea-90d3dcffb236",
+    "title": "DAC Funnel Framework",
+    "source_file": "conversations-002.json",
+    "message_count": 6
+  },
+  {
+    "id": "68202567-744c-8006-87fc-699ce3ad352f",
+    "title": "POD Client Acquisition Machine",
+    "source_file": "conversations-002.json",
+    "message_count": 10
+  },
+  {
+    "id": "68202868-291c-8006-8d4f-17c93eed8268",
+    "title": "DAC Funding Copy Strategy",
+    "source_file": "conversations-002.json",
+    "message_count": 8
+  },
+  {
+    "id": "68202af8-8ccc-8006-af2b-265e77dc45da",
+    "title": "DM Flow Breakdown",
+    "source_file": "conversations-002.json",
+    "message_count": 42
+  },
+  {
+    "id": "68203265-1a08-8006-94c1-b1c0a56522a2",
+    "title": "Bill McIntosh Webinar Script",
+    "source_file": "conversations-002.json",
+    "message_count": 16
+  },
+  {
+    "id": "682037a6-0bd8-8006-906d-0b187e6e6ee7",
+    "title": "Jonathan Budd Webinar Script",
+    "source_file": "conversations-002.json",
+    "message_count": 4
+  },
+  {
+    "id": "682047e7-67b4-8006-a50e-74bd299e8db8",
+    "title": "Ivy League Sales Script",
+    "source_file": "conversations-002.json",
+    "message_count": 28
+  },
+  {
+    "id": "6820541d-7250-8006-a7b3-753437db9c09",
+    "title": "Hiring VA for Business",
+    "source_file": "conversations-002.json",
+    "message_count": 33
+  },
+  {
+    "id": "68205e97-d640-8006-9914-58fcbd72a15f",
+    "title": "DAC Funding Commission Breakdown",
+    "source_file": "conversations-002.json",
+    "message_count": 4
+  },
+  {
+    "id": "682064c8-f408-8006-b572-973e9241472e",
+    "title": "YouTube Video Optimization Tips",
+    "source_file": "conversations-002.json",
+    "message_count": 22
+  },
+  {
+    "id": "6820a3ac-fc28-8006-817e-d0427547e324",
+    "title": "Engaging Webinar Blueprint",
+    "source_file": "conversations-002.json",
+    "message_count": 18
+  },
+  {
+    "id": "6820b14d-6bf4-8006-9538-2e5d3e954d87",
+    "title": "Build LinkedIn Presence Framework",
+    "source_file": "conversations-002.json",
+    "message_count": 16
+  },
+  {
+    "id": "6820b6b0-b7d8-8006-b78e-566eb4f7c96e",
+    "title": "DAC Business Funding Hooks",
+    "source_file": "conversations-002.json",
+    "message_count": 4
+  },
+  {
+    "id": "682110cd-21b4-8006-b627-ef7b74bc2f55",
+    "title": "Funnel Client Acquisition Breakdown",
+    "source_file": "conversations-002.json",
+    "message_count": 14
+  },
+  {
+    "id": "68212c6e-bf70-8006-95b5-89b1aa47414b",
+    "title": "Stuart Turnbull Bart Hennin",
+    "source_file": "conversations-003.json",
+    "message_count": 28
+  },
+  {
+    "id": "68213383-e3d8-8006-80a9-84fc37b254bc",
+    "title": "Alicia Teltz Career Shift",
+    "source_file": "conversations-003.json",
+    "message_count": 10
+  },
+  {
+    "id": "68213c3d-f898-8006-b440-50e796ab7b93",
+    "title": "AI Sales Mastery Guide",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "68214089-1d80-8006-8cde-3af209f6e511",
+    "title": "DAC Business Growth Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 14
+  },
+  {
+    "id": "682147a3-b374-8006-9d60-54f4c8ee2a11",
+    "title": "Mission Fund Possible Skit",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "68214de2-a858-8006-bae8-8d01d3cbf213",
+    "title": "DAC Skit Ideas",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "68215074-105c-8006-8078-84d309904329",
+    "title": "DAC Skit Collaboration",
+    "source_file": "conversations-003.json",
+    "message_count": 10
+  },
+  {
+    "id": "6821579f-c2a0-8006-8689-3680a0489e2d",
+    "title": "Small Business on Reddit",
+    "source_file": "conversations-003.json",
+    "message_count": 12
+  },
+  {
+    "id": "68215937-051c-8006-929d-24c25ad7f247",
+    "title": "Marketing DAC on Quora",
+    "source_file": "conversations-003.json",
+    "message_count": 14
+  },
+  {
+    "id": "682170c2-86a0-8006-9b69-742cff32a4ac",
+    "title": "DAC Leadership Mastery Plan",
+    "source_file": "conversations-003.json",
+    "message_count": 10
+  },
+  {
+    "id": "68218916-acb4-8006-b4c1-30d14cd53bab",
+    "title": "DAC Marketing Strategies",
+    "source_file": "conversations-003.json",
+    "message_count": 12
+  },
+  {
+    "id": "68219667-4ad8-8006-8740-7e2014cc878d",
+    "title": "Google Knowledge Panel Guide",
+    "source_file": "conversations-003.json",
+    "message_count": 18
+  },
+  {
+    "id": "68219c16-8ad0-8006-bdcf-baae29f32b8e",
+    "title": "PR Release Writing Assistance",
+    "source_file": "conversations-003.json",
+    "message_count": 18
+  },
+  {
+    "id": "6821a5c9-f820-8006-bf07-7a6ba86910db",
+    "title": "DAC Content Strategy Guide",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "6821aaf2-13ec-8006-850a-4f0892747328",
+    "title": "DAC Social Campaign Ideas",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "6821af4d-e70c-8006-b149-b36e191e6998",
+    "title": "DAC Digital Product Blueprint",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "6821b098-9354-8006-bf01-b549ebc606a2",
+    "title": "DAC Digital Product Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "6821b85a-d4ec-8006-a9c7-cb3eb1c8190d",
+    "title": "DAC Leadership Growth Plan",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "6821bad6-beb8-8006-8a1c-c0a73d4cbb42",
+    "title": "DAC Funding Webinars Maxwell",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "6821caf8-a330-8006-ae8e-0946eb54e734",
+    "title": "Igor Kheifets Marketing Tactics",
+    "source_file": "conversations-003.json",
+    "message_count": 16
+  },
+  {
+    "id": "68226bd4-6600-8006-b863-dfea8e6ac6d1",
+    "title": "Daily Habits of Success",
+    "source_file": "conversations-003.json",
+    "message_count": 5
+  },
+  {
+    "id": "68227aee-ff8c-8006-9118-278af157a1e4",
+    "title": "Improv Business Training Overview",
+    "source_file": "conversations-003.json",
+    "message_count": 14
+  },
+  {
+    "id": "68229a5a-ddf8-8006-b169-912c319f0e93",
+    "title": "Loan Falcon Skit DAC",
+    "source_file": "conversations-003.json",
+    "message_count": 8
+  },
+  {
+    "id": "68229c8d-f99c-8006-bb42-d287724cbeff",
+    "title": "Viral Skits for DAC",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "68229e9d-3d7c-8006-ac1b-a03232b7870f",
+    "title": "Bryan Harris Growth Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "6822baa9-2444-8006-8062-1cb69ec70f5d",
+    "title": "DAC Preferred Funding Plan",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "6822be42-ff94-8006-9697-fb239121b509",
+    "title": "AI LinkedIn Lead Generation",
+    "source_file": "conversations-003.json",
+    "message_count": 8
+  },
+  {
+    "id": "6822c567-bf24-8006-8b0e-80ed4efdf853",
+    "title": "DAC business funding intro",
+    "source_file": "conversations-003.json",
+    "message_count": 8
+  },
+  {
+    "id": "68239bd0-4854-8006-af58-b0641f460eef",
+    "title": "Becoming Dave Smith",
+    "source_file": "conversations-003.json",
+    "message_count": 29
+  },
+  {
+    "id": "6823af96-3dec-8006-a182-6c82915175cb",
+    "title": "Matt Lakajev LinkedIn Profile",
+    "source_file": "conversations-003.json",
+    "message_count": 10
+  },
+  {
+    "id": "6823b293-e5dc-8006-99a0-5a63ec63ae31",
+    "title": "DAC Funding Growth Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 16
+  },
+  {
+    "id": "6823be8f-de4c-8006-b7a0-430638fa8f54",
+    "title": "LinkedIn Creator Domination Plan",
+    "source_file": "conversations-003.json",
+    "message_count": 11
+  },
+  {
+    "id": "6823c89c-2898-8006-be68-2a29a4f365e3",
+    "title": "FreedomPath Broker Lounge Info",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "6823cea1-bae0-8006-bd35-9f97ed61100d",
+    "title": "TikTok Content Resource Gap",
+    "source_file": "conversations-003.json",
+    "message_count": 10
+  },
+  {
+    "id": "6823d1eb-62a8-8006-89d7-43b74d76bcc8",
+    "title": "Image Assistance Request",
+    "source_file": "conversations-003.json",
+    "message_count": 22
+  },
+  {
+    "id": "6823db8d-4100-8006-a564-ed27d3539020",
+    "title": "STRIP Method Masterclass Preview",
+    "source_file": "conversations-003.json",
+    "message_count": 14
+  },
+  {
+    "id": "6823df5f-7204-8006-921d-081d8ad55a80",
+    "title": "Gloria MacDonald LinkedIn Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "6823e3ff-ed54-8006-8336-a08359943ed6",
+    "title": "Hook Point Case Study",
+    "source_file": "conversations-003.json",
+    "message_count": 10
+  },
+  {
+    "id": "6823e4fd-7a90-8006-8865-9bf18a851763",
+    "title": "Hook Point Strategy Breakdown",
+    "source_file": "conversations-003.json",
+    "message_count": 15
+  },
+  {
+    "id": "6823e955-ffb4-8006-bd44-5c7a58e404c5",
+    "title": "DAC Business Growth Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "6824e1a6-5e34-8006-86c2-f36fc3c9a863",
+    "title": "9 Playbooks Freedom Framework",
+    "source_file": "conversations-003.json",
+    "message_count": 23
+  },
+  {
+    "id": "6824f55b-24c8-8006-a495-d8b197070a8f",
+    "title": "Lift Others Get Lifted",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "6824f94c-cff8-8006-8177-0d544e245e55",
+    "title": "Webinar Script for Funding",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "6825085b-3eb8-8006-b0cc-2b91f799f088",
+    "title": "Ana Stropnik for DAC",
+    "source_file": "conversations-003.json",
+    "message_count": 10
+  },
+  {
+    "id": "68253140-42c4-8006-b549-b5ccd23c60d0",
+    "title": "DAC Pre-Qualification Form",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "682575b7-1da0-8006-9968-1fdc856994cf",
+    "title": "Leveraged Sequencing for Funnels",
+    "source_file": "conversations-003.json",
+    "message_count": 12
+  },
+  {
+    "id": "68258388-81b4-8006-870c-c24a4aee5683",
+    "title": "DAC Webinar Framework",
+    "source_file": "conversations-003.json",
+    "message_count": 12
+  },
+  {
+    "id": "6825863e-379c-8006-8a36-bb449ba271d9",
+    "title": "DAC Funding Webinar Script",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "68258777-4f5c-8006-aa1d-eb592c0842c4",
+    "title": "DAC Funding Webinar Script",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "6825885b-7914-8006-8b6e-7c0379f78e86",
+    "title": "DAC Funding Webinar Script",
+    "source_file": "conversations-003.json",
+    "message_count": 12
+  },
+  {
+    "id": "68258cd2-4c34-8006-9929-e07e88905e0f",
+    "title": "DAC Funding Script Suite",
+    "source_file": "conversations-003.json",
+    "message_count": 8
+  },
+  {
+    "id": "6825954c-963c-8006-92fb-8d33a5b6538f",
+    "title": "DAC Funding Sales Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 12
+  },
+  {
+    "id": "68265147-5ecc-8006-a82f-57806fc81ed9",
+    "title": "DAC Growth Strategy Tips",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "6826617d-243c-8006-b1bb-54322458ca6a",
+    "title": "Vick Strizheus DAC Growth",
+    "source_file": "conversations-003.json",
+    "message_count": 10
+  },
+  {
+    "id": "68266460-a9b4-8006-b321-d3763f6035a2",
+    "title": "DAC Webinar Script",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "68266b75-61d0-8006-beb8-fa60bddb8609",
+    "title": "Vick Strizheus DAC Webinar",
+    "source_file": "conversations-003.json",
+    "message_count": 10
+  },
+  {
+    "id": "6826a3a0-e53c-8006-b4e0-cd8fad9b2ecb",
+    "title": "YouTube Growth Strategy DAC",
+    "source_file": "conversations-003.json",
+    "message_count": 16
+  },
+  {
+    "id": "6826a71e-2f44-8006-92dd-8f9a5ec21bde",
+    "title": "DAC Funding Growth Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "6827e191-e5fc-8006-a657-92a49fd2f956",
+    "title": "Live Workshop Promotion Summary",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "6827e430-f844-8006-a342-b5df1007a032",
+    "title": "DAC Marketing Strategies",
+    "source_file": "conversations-003.json",
+    "message_count": 24
+  },
+  {
+    "id": "6827e84a-80b4-8006-87e1-6bb10fd65be5",
+    "title": "Best Webinar Script",
+    "source_file": "conversations-003.json",
+    "message_count": 8
+  },
+  {
+    "id": "6827e9ae-c134-8006-aae0-ed289d00e54b",
+    "title": "DAC Webinar Script",
+    "source_file": "conversations-003.json",
+    "message_count": 26
+  },
+  {
+    "id": "6827f230-e484-8006-8fd1-72ae67d22192",
+    "title": "DAC Agent Fast Track",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "6827f416-282c-8006-afeb-4a4b97b7adce",
+    "title": "2RockStars Marketing Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "6827fb1c-610c-8006-be6d-e4a17978ad8b",
+    "title": "Russell Brunson DAC Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 10
+  },
+  {
+    "id": "682823b1-4df8-8006-a308-5d67a8f561ac",
+    "title": "Webinar Script for DAC",
+    "source_file": "conversations-003.json",
+    "message_count": 8
+  },
+  {
+    "id": "68282c27-2504-8006-8c09-d97e2cf1e533",
+    "title": "Kevin Hart for DAC",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "68282c6c-7f28-8006-8255-2d8f23693445",
+    "title": "DAC Kevin Hart Vibes",
+    "source_file": "conversations-003.json",
+    "message_count": 12
+  },
+  {
+    "id": "68283513-3a08-8006-9351-3d6db8e63dec",
+    "title": "DAC Funding Content Creation",
+    "source_file": "conversations-003.json",
+    "message_count": 14
+  },
+  {
+    "id": "68283fd3-4014-8006-94b8-b204ef659559",
+    "title": "DAC Welcome Flow Copy",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "6828562d-2bcc-8006-99de-eb4c5dc7abdf",
+    "title": "DAC Funding Webinar Script",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "6828edcd-55c4-8006-9fd5-4427846b4904",
+    "title": "Ted McGrath Marketing Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 10
+  },
+  {
+    "id": "6828f649-cda4-8006-a1e4-1b2d09c85d9a",
+    "title": "DAC Funding Automation Strategies",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "68291103-3e54-8006-9443-ab7f95e1b061",
+    "title": "AJ Rivera Blink Media Co",
+    "source_file": "conversations-003.json",
+    "message_count": 8
+  },
+  {
+    "id": "68291c6d-dd94-8006-bb7d-5bb10af77ab1",
+    "title": "Alicia Teltz Entrepreneurship Journey",
+    "source_file": "conversations-003.json",
+    "message_count": 17
+  },
+  {
+    "id": "68294ad1-e2d0-8006-96e3-6fb459fc799c",
+    "title": "Daniel Ceron Job Crusher",
+    "source_file": "conversations-003.json",
+    "message_count": 19
+  },
+  {
+    "id": "682950a7-2ecc-8006-842d-4bb01dc3cacb",
+    "title": "Ed Dale Funnel Guide",
+    "source_file": "conversations-003.json",
+    "message_count": 10
+  },
+  {
+    "id": "6829526c-4314-8006-a484-0fbf91bad8a1",
+    "title": "Top Webinar Creators",
+    "source_file": "conversations-003.json",
+    "message_count": 66
+  },
+  {
+    "id": "68298f00-b284-8006-a682-a2c32b7605be",
+    "title": "DAC Funding Storytime Post",
+    "source_file": "conversations-003.json",
+    "message_count": 5
+  },
+  {
+    "id": "6829a715-719c-8006-b392-fd26987240a0",
+    "title": "Stan BigDogSecrets Overview",
+    "source_file": "conversations-003.json",
+    "message_count": 10
+  },
+  {
+    "id": "6829ab6f-f3dc-8006-940b-ce48ae413204",
+    "title": "Donahoe Mode Activated",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "682a4dee-c760-8006-89bd-6a6d83d12601",
+    "title": "STRIP Method Mastery",
+    "source_file": "conversations-003.json",
+    "message_count": 12
+  },
+  {
+    "id": "682bc113-022c-8006-a47b-39a0d2b4326c",
+    "title": "DAC Funding LinkedIn Profile",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "682bcf39-87c0-8006-a4aa-d27f871749b5",
+    "title": "Offer Creation Breakdown",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "682bd012-f9ec-8006-be73-b04cbcb4a9be",
+    "title": "DAC Offer Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 8
+  },
+  {
+    "id": "682bf5d9-e650-8006-ba44-8ecb784e5663",
+    "title": "High-Ticket Funnel Shortcuts",
+    "source_file": "conversations-003.json",
+    "message_count": 8
+  },
+  {
+    "id": "682c004e-9658-8006-8486-32cf51e857a7",
+    "title": "DAC Funding Lead System",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "682c0d08-0cd4-8006-94ca-f5c5dfc710ab",
+    "title": "Ahmer Zaman PipelinePRO CTO",
+    "source_file": "conversations-003.json",
+    "message_count": 16
+  },
+  {
+    "id": "682c1548-468c-8006-a733-e00798242a42",
+    "title": "Dan Bilzerian Mode",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "682c19a6-7434-8006-8020-5876407dded4",
+    "title": "DAC VSL Script Creation",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "682c1b21-d54c-8006-b5e4-67df2060307f",
+    "title": "Dollar Shave Club Overview",
+    "source_file": "conversations-003.json",
+    "message_count": 15
+  },
+  {
+    "id": "682c1c69-6c00-8006-9e22-00bf3a78bf66",
+    "title": "Dollar Shave Club Script",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "682c2c71-1be0-8006-b20d-28655b392065",
+    "title": "Daegan Smith Funnel Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "682c2cc5-debc-8006-96ef-8e7af84c70a1",
+    "title": "Daegan Smith Webinar Script",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "682c2cf9-517c-8006-a4fc-43468489ca99",
+    "title": "Daegan Smith VSL Script",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "682c2f97-1e8c-8006-9f93-08b315ad9b23",
+    "title": "DAC Storytelling Video Script",
+    "source_file": "conversations-003.json",
+    "message_count": 7
+  },
+  {
+    "id": "682c31fa-54e0-8006-8ee4-e95051c39fc1",
+    "title": "DAC Funding LinkedIn Profile",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "682c3609-0ce0-8006-a5d1-48d7eb3cdfa7",
+    "title": "DAC Funding Offer Strategies",
+    "source_file": "conversations-003.json",
+    "message_count": 4
+  },
+  {
+    "id": "682c3744-7940-8006-98f7-cbe5f7481620",
+    "title": "DAC Funding Call Script",
+    "source_file": "conversations-003.json",
+    "message_count": 6
+  },
+  {
+    "id": "682c3940-875c-8006-ac5c-aa3effe1442d",
+    "title": "DAC Growth Traffic Strategy",
+    "source_file": "conversations-003.json",
+    "message_count": 2
+  },
+  {
+    "id": "682c39d4-9c70-8006-a793-2ce77b002ce2",
+    "title": "Marketing Mastery Fusion",
+    "source_file": "conversations-004.json",
+    "message_count": 8
+  },
+  {
+    "id": "682c486d-accc-8006-8a1d-f26e3135f42a",
+    "title": "Sales Course Copy Breakdown",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "682c4b36-7720-8006-ba46-6326e7f802c6",
+    "title": "Cold Call Mastery 101",
+    "source_file": "conversations-004.json",
+    "message_count": 16
+  },
+  {
+    "id": "682c4f02-c5a0-8006-96b8-d3c8801b70a1",
+    "title": "Prospecting Training Registration",
+    "source_file": "conversations-004.json",
+    "message_count": 12
+  },
+  {
+    "id": "682c5751-ba1c-8006-83d0-32e45e8aa9d4",
+    "title": "DAC Funding Post Draft",
+    "source_file": "conversations-004.json",
+    "message_count": 14
+  },
+  {
+    "id": "682c64d7-6484-8006-9347-c86d0ab5270b",
+    "title": "Shaqir Hussyin Style Response",
+    "source_file": "conversations-004.json",
+    "message_count": 18
+  },
+  {
+    "id": "682c6b91-2bfc-8006-b928-612e797c0a6a",
+    "title": "Frank Kern Webinar Script",
+    "source_file": "conversations-004.json",
+    "message_count": 4
+  },
+  {
+    "id": "682c6da1-b96c-8006-90a5-2f61dd28ba37",
+    "title": "Robby Blanchard Webinar Script",
+    "source_file": "conversations-004.json",
+    "message_count": 2
+  },
+  {
+    "id": "682c6e75-0af4-8006-953b-3c97936ac035",
+    "title": "List Building with Tellman",
+    "source_file": "conversations-004.json",
+    "message_count": 8
+  },
+  {
+    "id": "682c6fe7-9b00-8006-b78d-b86bf533c839",
+    "title": "Kevin Hokoana Mode Activated",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "682c7250-f6f8-8006-8cc4-e3db03cec6f5",
+    "title": "Ann Sieg Marketing Blueprint",
+    "source_file": "conversations-004.json",
+    "message_count": 18
+  },
+  {
+    "id": "682c7487-7ba0-8006-b06a-377829ba2dc1",
+    "title": "Personality Types for DAC Success",
+    "source_file": "conversations-004.json",
+    "message_count": 2
+  },
+  {
+    "id": "682c7543-7410-8006-a9e1-4104cdeafc63",
+    "title": "Lana Robinson Profiles",
+    "source_file": "conversations-004.json",
+    "message_count": 8
+  },
+  {
+    "id": "682c7993-ed78-8006-9437-5e1151970d9f",
+    "title": "Event Autoresponder Marketing Tools",
+    "source_file": "conversations-004.json",
+    "message_count": 4
+  },
+  {
+    "id": "682c7b26-c520-8006-8f58-4551c60de8fe",
+    "title": "Email Inquiry Clarification",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "682c7d9d-96fc-8006-b1fb-c10439ffb815",
+    "title": "Scaling with the Basics",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "682ced48-15a8-8006-9ed2-a653988ae658",
+    "title": "Luigi Prestinenza Puglisi Overview",
+    "source_file": "conversations-004.json",
+    "message_count": 41
+  },
+  {
+    "id": "682cfcbc-df00-8006-a6f8-3896dd5a682a",
+    "title": "NEPQ + Luigi Sales Playbook",
+    "source_file": "conversations-004.json",
+    "message_count": 16
+  },
+  {
+    "id": "682d0338-e25c-8006-93f6-7d438f31de68",
+    "title": "Dale Carnegie Influence Tips",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "682d057e-d5e8-8006-97a2-ee2b5e43bee2",
+    "title": "Sales Process Workshop Promo",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "682d0706-1ea0-8006-a4f7-58f0a3ed03c4",
+    "title": "DAC Business Funding Strategy",
+    "source_file": "conversations-004.json",
+    "message_count": 2
+  },
+  {
+    "id": "682d0aa2-a400-8006-b6cd-59e4731ee240",
+    "title": "AdvertMate Ad Tool Summary",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "682d258c-f2f0-8006-b4d7-4c99befeaad9",
+    "title": "DAC Business Funding Empire",
+    "source_file": "conversations-004.json",
+    "message_count": 2
+  },
+  {
+    "id": "682d27c1-0548-8006-b947-ffda3b885e85",
+    "title": "Freedom Funding Webinar Plan",
+    "source_file": "conversations-004.json",
+    "message_count": 26
+  },
+  {
+    "id": "682d2bbb-f270-8006-b1d3-4955634f65aa",
+    "title": "Tim Sales Strategies",
+    "source_file": "conversations-004.json",
+    "message_count": 16
+  },
+  {
+    "id": "682d2fdd-31b4-8006-87cb-8619514c21e0",
+    "title": "Tim Sales YouTube Insights",
+    "source_file": "conversations-004.json",
+    "message_count": 28
+  },
+  {
+    "id": "682d3595-6e28-8006-92e6-2744081aee54",
+    "title": "DAC Funding Marketing Strategy",
+    "source_file": "conversations-004.json",
+    "message_count": 2
+  },
+  {
+    "id": "682d3629-4560-8006-b9d2-00a04ef68b28",
+    "title": "YouTube Income Blueprint Webinar",
+    "source_file": "conversations-004.json",
+    "message_count": 14
+  },
+  {
+    "id": "682d36c5-0e34-8006-bca0-ed9d960eb3a8",
+    "title": "DAC Business Funding VSL",
+    "source_file": "conversations-004.json",
+    "message_count": 2
+  },
+  {
+    "id": "682d381f-b0c8-8006-8877-a4dcf9d1b88b",
+    "title": "Business YouTube Channels Recap",
+    "source_file": "conversations-004.json",
+    "message_count": 8
+  },
+  {
+    "id": "682d3aa3-c650-8006-86a1-be5ab5cbc731",
+    "title": "YouTube Content Repurposing Strategy",
+    "source_file": "conversations-004.json",
+    "message_count": 22
+  },
+  {
+    "id": "682d485f-aaf4-8006-b8e4-4ed0166555bf",
+    "title": "Untapped Business Funding Niche",
+    "source_file": "conversations-004.json",
+    "message_count": 8
+  },
+  {
+    "id": "682d4c32-6c5c-8006-9ec3-50d83bee28ee",
+    "title": "Tim Ferriss for DAC Growth",
+    "source_file": "conversations-004.json",
+    "message_count": 12
+  },
+  {
+    "id": "682d5258-0b84-8006-ade1-0d86161263db",
+    "title": "Sahil Bloom Overview",
+    "source_file": "conversations-004.json",
+    "message_count": 8
+  },
+  {
+    "id": "682d54e0-2aec-8006-b1a4-77b788b9f22a",
+    "title": "DAC Newsletter Example",
+    "source_file": "conversations-004.json",
+    "message_count": 9
+  },
+  {
+    "id": "682d5793-ed38-8006-b531-9790e70b748a",
+    "title": "Newsletter Rewrite Request",
+    "source_file": "conversations-004.json",
+    "message_count": 10
+  },
+  {
+    "id": "682d595d-02c0-8006-811d-5b42cc9d5c43",
+    "title": "CPN Credit Repair Warning",
+    "source_file": "conversations-004.json",
+    "message_count": 10
+  },
+  {
+    "id": "682d6095-5128-8006-a5c6-80520abd411f",
+    "title": "Mike G Web Success",
+    "source_file": "conversations-004.json",
+    "message_count": 18
+  },
+  {
+    "id": "682d66a7-aba0-8006-b924-d59b9f844469",
+    "title": "Vince Reed eboov Software",
+    "source_file": "conversations-004.json",
+    "message_count": 8
+  },
+  {
+    "id": "682d70dc-54b8-8006-859c-799e4cfe75e5",
+    "title": "DAC Funding VSL Script",
+    "source_file": "conversations-004.json",
+    "message_count": 4
+  },
+  {
+    "id": "682d72c9-29d4-8006-92cf-ccfbaee2235a",
+    "title": "Billy Gene DAC VSL",
+    "source_file": "conversations-004.json",
+    "message_count": 20
+  },
+  {
+    "id": "682d77a4-019c-8006-93f2-14f75626f586",
+    "title": "Justin Sardi TubeSift Overview",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "682d79fc-4e28-8006-8b8e-7010f91274a7",
+    "title": "Laurel Portié Overview",
+    "source_file": "conversations-004.json",
+    "message_count": 41
+  },
+  {
+    "id": "682d8324-0ef8-8006-8a28-77331aad04cc",
+    "title": "Douglas James Overview",
+    "source_file": "conversations-004.json",
+    "message_count": 10
+  },
+  {
+    "id": "682d8464-4c0c-8006-89d1-1bbda0829d65",
+    "title": "Brian Moncada Adspend Overview",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "682d8716-f98c-8006-b170-4b87508dc56f",
+    "title": "Affiliate Marketing Secret Breakdown",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "682d8a0e-83ec-8006-8e3c-c5b4963a4c3d",
+    "title": "James Renouf Overview",
+    "source_file": "conversations-004.json",
+    "message_count": 12
+  },
+  {
+    "id": "682df17d-9fd4-8006-8c50-d89f6638314c",
+    "title": "Emotional Triggers for Content",
+    "source_file": "conversations-004.json",
+    "message_count": 8
+  },
+  {
+    "id": "682df311-1bb8-8006-8fdc-70b488371d25",
+    "title": "File Upload Summary Request",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "682dfd25-ad30-8006-9a29-b41904ac4fcb",
+    "title": "Forbes Riley VSL Script",
+    "source_file": "conversations-004.json",
+    "message_count": 28
+  },
+  {
+    "id": "682e0400-399c-8006-8539-feaf26a6afbd",
+    "title": "Jonathan Budd VSL Script",
+    "source_file": "conversations-004.json",
+    "message_count": 10
+  },
+  {
+    "id": "682e137d-6364-8006-84dd-c301f73a0426",
+    "title": "Sales Call Strategies",
+    "source_file": "conversations-004.json",
+    "message_count": 4
+  },
+  {
+    "id": "682e156b-b6f0-8006-b172-b0c882c69f86",
+    "title": "DAC Sales Flow Boost",
+    "source_file": "conversations-004.json",
+    "message_count": 10
+  },
+  {
+    "id": "682e1976-2850-8006-b6dd-30fe87e6daac",
+    "title": "95% Close Rate Script",
+    "source_file": "conversations-004.json",
+    "message_count": 15
+  },
+  {
+    "id": "682e2a62-cf78-8006-94ef-fcb0a4b844ab",
+    "title": "Jeremy Miner VSL Script",
+    "source_file": "conversations-004.json",
+    "message_count": 8
+  },
+  {
+    "id": "682e3330-eb00-8006-8683-92b4cd5934b5",
+    "title": "DAC Funding Prioritization Guide",
+    "source_file": "conversations-004.json",
+    "message_count": 14
+  },
+  {
+    "id": "682e356d-5444-8006-a9a3-a0d6f419b571",
+    "title": "DAC Sales Skyscraper Strategy",
+    "source_file": "conversations-004.json",
+    "message_count": 18
+  },
+  {
+    "id": "682e3912-6d24-8006-b436-d67762c2de38",
+    "title": "Jitender Girdhar Overview",
+    "source_file": "conversations-004.json",
+    "message_count": 2
+  },
+  {
+    "id": "682e3a2f-e44c-8006-8c21-282a53dbfbd5",
+    "title": "AI Sales Copy Optimization",
+    "source_file": "conversations-004.json",
+    "message_count": 8
+  },
+  {
+    "id": "682e3e57-d204-8006-9b63-093b87a11cd8",
+    "title": "Brand Voice Challenge Offer",
+    "source_file": "conversations-004.json",
+    "message_count": 8
+  },
+  {
+    "id": "682e5054-3e78-8006-ac8d-9f9b193d23df",
+    "title": "DAC Recruiting Strategy Integration",
+    "source_file": "conversations-004.json",
+    "message_count": 25
+  },
+  {
+    "id": "682e5af4-8798-8006-8809-f7a168f13d8a",
+    "title": "DAC Funding Typeform Setup",
+    "source_file": "conversations-004.json",
+    "message_count": 4
+  },
+  {
+    "id": "682e64b2-1d80-8006-8d97-19d10bf854c6",
+    "title": "DAC Funding Marketing Strategy",
+    "source_file": "conversations-004.json",
+    "message_count": 2
+  },
+  {
+    "id": "682e64ee-5f18-8006-8d56-612fc4b8e5d8",
+    "title": "James Francis Business Strategies",
+    "source_file": "conversations-004.json",
+    "message_count": 36
+  },
+  {
+    "id": "682e98b2-4b24-8006-ab22-7fa7e7b4349a",
+    "title": "CDP Sales Strategy Breakdown",
+    "source_file": "conversations-004.json",
+    "message_count": 12
+  },
+  {
+    "id": "682f4a12-869c-8006-a446-50df1307fd53",
+    "title": "DAC Growth Strategy Guide",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "682f5bc7-61c8-8006-b627-d2f22c67e66c",
+    "title": "Ivy League Sales Script",
+    "source_file": "conversations-004.json",
+    "message_count": 13
+  },
+  {
+    "id": "682f7133-3d70-8006-aa7b-75115ade0cfc",
+    "title": "Ben Adkins Overview",
+    "source_file": "conversations-004.json",
+    "message_count": 142
+  },
+  {
+    "id": "682f732d-e78c-8006-a363-2f02ee53b9d1",
+    "title": "DAC Business Funding VSL",
+    "source_file": "conversations-004.json",
+    "message_count": 4
+  },
+  {
+    "id": "682fc198-c974-8006-b951-e1adb2bd2437",
+    "title": "Ferny Ceballos Overview",
+    "source_file": "conversations-004.json",
+    "message_count": 4
+  },
+  {
+    "id": "682fed52-bbb8-8006-b96a-bb1f2a4238a9",
+    "title": "DAC Business Growth Tips",
+    "source_file": "conversations-004.json",
+    "message_count": 28
+  },
+  {
+    "id": "682ff43e-c5f8-8006-b5a2-d07cea182ed1",
+    "title": "Top Persuasion Artists",
+    "source_file": "conversations-004.json",
+    "message_count": 86
+  },
+  {
+    "id": "683002e3-65ec-8006-93a4-ab8c3f930024",
+    "title": "Psychological Marketing Levers Explained",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "683005ac-86f0-8006-82e0-e7f94bc27d18",
+    "title": "Grow business with DAC",
+    "source_file": "conversations-004.json",
+    "message_count": 10
+  },
+  {
+    "id": "68300755-9498-8006-800f-b3fbe1962e88",
+    "title": "Social Proof for DAC",
+    "source_file": "conversations-004.json",
+    "message_count": 10
+  },
+  {
+    "id": "68300c05-017c-8006-9e07-4ecfc856e3b9",
+    "title": "Google Drive Link Help",
+    "source_file": "conversations-004.json",
+    "message_count": 12
+  },
+  {
+    "id": "68301343-f4d0-8006-9676-b51f9b1e4ae9",
+    "title": "Bank Breezy Overview",
+    "source_file": "conversations-004.json",
+    "message_count": 10
+  },
+  {
+    "id": "683015cc-3cb4-8006-a0be-660c5e59b8a2",
+    "title": "DAC Personalized Links and Resources",
+    "source_file": "conversations-004.json",
+    "message_count": 2
+  },
+  {
+    "id": "68301a07-a7b0-8006-ab51-2c0675c16ce7",
+    "title": "Lo Sliver DAC Closing",
+    "source_file": "conversations-004.json",
+    "message_count": 36
+  },
+  {
+    "id": "68302d5b-f9f8-8006-929a-4b4501803f28",
+    "title": "DAC Client Acquisition Strategy",
+    "source_file": "conversations-004.json",
+    "message_count": 40
+  },
+  {
+    "id": "683041b4-8e4c-8006-b304-c0b5bba0175b",
+    "title": "Theatrical Marketing for DAC",
+    "source_file": "conversations-004.json",
+    "message_count": 8
+  },
+  {
+    "id": "683045ad-a340-8006-bd50-4746c30546f4",
+    "title": "DAC Mascot Ideas",
+    "source_file": "conversations-004.json",
+    "message_count": 14
+  },
+  {
+    "id": "68304abc-637c-8006-a489-2ef9a3006c33",
+    "title": "Newspaper Ads for DAC",
+    "source_file": "conversations-004.json",
+    "message_count": 4
+  },
+  {
+    "id": "68304d14-87c4-8006-bd9f-147c91bdf0df",
+    "title": "Marketing DAC on Craigslist",
+    "source_file": "conversations-004.json",
+    "message_count": 20
+  },
+  {
+    "id": "6830947e-3708-8006-b70e-31de588b17c4",
+    "title": "DAC Funding Email Formulas",
+    "source_file": "conversations-004.json",
+    "message_count": 4
+  },
+  {
+    "id": "68309672-ba48-8006-9ed1-95b59791d158",
+    "title": "DAC Funding Promo Strategy",
+    "source_file": "conversations-004.json",
+    "message_count": 6
+  },
+  {
+    "id": "68309e8d-a934-8006-a0d4-0228500b7e0e",
+    "title": "Brady McCarty Marketing Strategies",
+    "source_file": "conversations-004.json",
+    "message_count": 16
+  },
+  {
+    "id": "6830a701-71d8-8006-acf7-1233f11b2261",
+    "title": "DAC Medium Marketing Strategy",
+    "source_file": "conversations-004.json",
+    "message_count": 40
+  },
+  {
+    "id": "6830b1c5-b080-8006-9bae-1112bc87b35b",
+    "title": "Best Article Writers Today",
+    "source_file": "conversations-004.json",
+    "message_count": 16
+  },
+  {
+    "id": "6830ba1c-4200-8006-9588-13e9f3e3119a",
+    "title": "Free DAC Marketing Tips",
+    "source_file": "conversations-004.json",
+    "message_count": 16
+  },
+  {
+    "id": "6830c303-f994-8006-b94d-4f0f67a85859",
+    "title": "DAC Business Funding Keywords",
+    "source_file": "conversations-004.json",
+    "message_count": 8
+  },
+  {
+    "id": "6830c5cf-65c4-8006-bde7-6fab79848b78",
+    "title": "DAC Quota Domination Blueprint",
+    "source_file": "conversations-004.json",
+    "message_count": 2
+  },
+  {
+    "id": "6830c6c1-3050-8006-a797-d73f28d13c11",
+    "title": "DAC Quora Strategy Guide",
+    "source_file": "conversations-004.json",
+    "message_count": 2
+  },
+  {
+    "id": "6830c780-c118-8006-9b5f-271255e80f6e",
+    "title": "Pinterest Strategy for DAC",
+    "source_file": "conversations-004.json",
+    "message_count": 4
+  },
+  {
+    "id": "6830c830-df08-8006-86f9-e757652e5d1a",
+    "title": "DAC Forum Domination Guide",
+    "source_file": "conversations-004.json",
+    "message_count": 9
+  },
+  {
+    "id": "6830cc83-cfa0-8006-804d-b01a5b63efe0",
+    "title": "Reddit Strategy for DAC",
+    "source_file": "conversations-004.json",
+    "message_count": 14
+  },
+  {
+    "id": "6830d3e0-e698-8006-b0d1-862f94f9f54e",
+    "title": "Facebook Funding Domination Guide",
+    "source_file": "conversations-004.json",
+    "message_count": 21
+  },
+  {
+    "id": "683115a3-a318-8006-8dfb-dd0851271930",
+    "title": "LinkedIn Leads Advantage Strategy",
+    "source_file": "conversations-004.json",
+    "message_count": 53
+  },
+  {
+    "id": "68311872-f6c0-8006-a932-d2133200d46a",
+    "title": "LinkedIn Lead Generation Strategy",
+    "source_file": "conversations-004.json",
+    "message_count": 2
+  },
+  {
+    "id": "68312d8f-2800-8006-809c-f80a0689761d",
+    "title": "Sales Call Pattern Interrupts",
+    "source_file": "conversations-004.json",
+    "message_count": 19
+  },
+  {
+    "id": "683132ef-228c-8006-89e4-1dfef66412c3",
+    "title": "DAC Sales Call Script",
+    "source_file": "conversations-005.json",
+    "message_count": 16
+  },
+  {
+    "id": "68313401-33ec-8006-8dcb-38b48a06ce5e",
+    "title": "Gary Vee Sales Call",
+    "source_file": "conversations-005.json",
+    "message_count": 8
+  },
+  {
+    "id": "68313642-846c-8006-8789-c05739d0575d",
+    "title": "DAC x Leo Funding",
+    "source_file": "conversations-005.json",
+    "message_count": 14
+  },
+  {
+    "id": "68313f3d-c294-8006-a5af-20a1985707de",
+    "title": "DAC Sales Script Build",
+    "source_file": "conversations-005.json",
+    "message_count": 8
+  },
+  {
+    "id": "68314181-3350-8006-a767-6774496930ac",
+    "title": "Sales Framework vs Script",
+    "source_file": "conversations-005.json",
+    "message_count": 15
+  },
+  {
+    "id": "68314524-1e48-8006-ad1b-829e234be761",
+    "title": "Rana Saini DAC Strategy",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "683146d3-55c8-8006-a5c1-06c2a9392fcb",
+    "title": "Influencing Big Dog DAC",
+    "source_file": "conversations-005.json",
+    "message_count": 10
+  },
+  {
+    "id": "68314aab-cff4-8006-a692-4c9c408bd2be",
+    "title": "Best Leads for DAC Funding",
+    "source_file": "conversations-005.json",
+    "message_count": 171
+  },
+  {
+    "id": "683164d4-9134-8006-a37a-20c045e27e7f",
+    "title": "DAC Opportunity Cost Analysis",
+    "source_file": "conversations-005.json",
+    "message_count": 10
+  },
+  {
+    "id": "68316886-0c64-8006-9525-7140885ba45b",
+    "title": "Networking Tips Summary",
+    "source_file": "conversations-005.json",
+    "message_count": 16
+  },
+  {
+    "id": "68317537-4ff4-8006-9da8-b0028c9e58cf",
+    "title": "LinkedIn Hacks for Success",
+    "source_file": "conversations-005.json",
+    "message_count": 6
+  },
+  {
+    "id": "68317971-e308-8006-96e8-d666e346d830",
+    "title": "LinkedIn Multiple Profiles Solutions",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "68317a81-f198-8006-9df5-bcd1ca78afda",
+    "title": "Boost FB Page Reach",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "6831fe1d-31d0-8006-a034-7f70370a4668",
+    "title": "Marina Simone Sales Secret",
+    "source_file": "conversations-005.json",
+    "message_count": 8
+  },
+  {
+    "id": "68320307-6bd0-8006-a46d-db55fb4901e4",
+    "title": "Tim Sebert Overview",
+    "source_file": "conversations-005.json",
+    "message_count": 6
+  },
+  {
+    "id": "68320537-10fc-8006-b77b-c03ebf88570c",
+    "title": "Tissa Godavitarne Overview",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "68320729-519c-8006-9197-8209b75c133f",
+    "title": "DAC Business Funding VSL",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "683208b6-5634-8006-85c3-7d513222ec9e",
+    "title": "DAC Business Funding VSL",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "68320cd3-352c-8006-93e2-e9cb28cedcd7",
+    "title": "Become David Wood Explained",
+    "source_file": "conversations-005.json",
+    "message_count": 16
+  },
+  {
+    "id": "6832111a-5e18-8006-be71-e79befadfedb",
+    "title": "DAC Funding Empire Blueprint",
+    "source_file": "conversations-005.json",
+    "message_count": 45
+  },
+  {
+    "id": "68321b2a-f884-8006-ac9c-2a36c9c6c1b6",
+    "title": "DAC Medium Blog Strategy",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "68321eb9-09b8-8006-986f-cca06e7984e0",
+    "title": "Jonny's Story and Justice",
+    "source_file": "conversations-005.json",
+    "message_count": 32
+  },
+  {
+    "id": "68322720-b01c-8006-b3c2-6495a0891db0",
+    "title": "SEO Link Building Risks",
+    "source_file": "conversations-005.json",
+    "message_count": 34
+  },
+  {
+    "id": "68323710-fdcc-8006-876e-17409135de4a",
+    "title": "DAC SEO Domination Plan",
+    "source_file": "conversations-005.json",
+    "message_count": 34
+  },
+  {
+    "id": "68323cc6-ffdc-8006-a913-8aedca7616a0",
+    "title": "DAC Spokesperson Script",
+    "source_file": "conversations-005.json",
+    "message_count": 45
+  },
+  {
+    "id": "68324754-8dd4-8006-b196-cc72544cd95b",
+    "title": "Building DAC Leadership Team",
+    "source_file": "conversations-005.json",
+    "message_count": 50
+  },
+  {
+    "id": "68325231-23bc-8006-888d-73c69e0999fa",
+    "title": "Invisible Affiliate Strategy",
+    "source_file": "conversations-005.json",
+    "message_count": 10
+  },
+  {
+    "id": "683253ee-e52c-8006-ab55-f308078c4fdf",
+    "title": "Facebook Group Growth Blueprint",
+    "source_file": "conversations-005.json",
+    "message_count": 10
+  },
+  {
+    "id": "68325e02-876c-8006-bcf3-ba44eb2e7a56",
+    "title": "XRP Overview and Update",
+    "source_file": "conversations-005.json",
+    "message_count": 27
+  },
+  {
+    "id": "68326864-d084-8006-bf19-fb8192c961ad",
+    "title": "Flowla for DAC Funding",
+    "source_file": "conversations-005.json",
+    "message_count": 174
+  },
+  {
+    "id": "68326ab5-a76c-8006-aba7-43c0d4925079",
+    "title": "DAC Testimonials via Fiverr",
+    "source_file": "conversations-005.json",
+    "message_count": 14
+  },
+  {
+    "id": "6833011f-5d28-8006-9c21-943dea61b2bc",
+    "title": "Shanda Sumpter Biography",
+    "source_file": "conversations-005.json",
+    "message_count": 18
+  },
+  {
+    "id": "683306a2-f400-8006-8efc-8880752b2561",
+    "title": "Dana Derricks Overview",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "6833091f-d5ac-8006-92a8-ff6c01d246da",
+    "title": "SSI SSDI Back Pay",
+    "source_file": "conversations-005.json",
+    "message_count": 8
+  },
+  {
+    "id": "68330b8a-c094-8006-b71f-6e75a6a902fb",
+    "title": "Previous chat access",
+    "source_file": "conversations-005.json",
+    "message_count": 147
+  },
+  {
+    "id": "68332e08-ce08-8006-981b-45583b5f362d",
+    "title": "Staking 1B in Crypto",
+    "source_file": "conversations-005.json",
+    "message_count": 8
+  },
+  {
+    "id": "68338be9-0ce4-8006-8512-a3b0c21fe747",
+    "title": "DAC LinkedIn Publication Ideas",
+    "source_file": "conversations-005.json",
+    "message_count": 10
+  },
+  {
+    "id": "68339412-4dd8-8006-8e12-9e03bf466c73",
+    "title": "Who is Haris Halkic",
+    "source_file": "conversations-005.json",
+    "message_count": 16
+  },
+  {
+    "id": "68339b5c-50d8-8006-a6d5-ad9a1cb312f0",
+    "title": "DAC VSL Script Breakdown",
+    "source_file": "conversations-005.json",
+    "message_count": 10
+  },
+  {
+    "id": "6833a17a-7a7c-8006-a4d8-2c23717ef405",
+    "title": "Empire Blueprint Enhancement",
+    "source_file": "conversations-005.json",
+    "message_count": 370
+  },
+  {
+    "id": "6833cbf4-5d2c-8006-bcff-627b4e6b0fa2",
+    "title": "Growthlink LinkedIn Strategy",
+    "source_file": "conversations-005.json",
+    "message_count": 28
+  },
+  {
+    "id": "6833f31f-8ec4-8006-880a-644ed2447d17",
+    "title": "No Jumper Success Formula",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "68340b44-74c0-8006-ae05-bee12440f7ac",
+    "title": "DAC Funding NLP Script",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "68340b76-2e30-8006-a8d0-28856c58fe9a",
+    "title": "Joe Syverson Overview",
+    "source_file": "conversations-005.json",
+    "message_count": 8
+  },
+  {
+    "id": "68341b06-d70c-8006-961e-923dc8ce57ea",
+    "title": "Channeling Pat Flynn",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "68341fca-d3c0-8006-95df-cebe8d85e15d",
+    "title": "Video Template Offer",
+    "source_file": "conversations-005.json",
+    "message_count": 20
+  },
+  {
+    "id": "68342df5-a29c-8006-b3c1-cc948f0dc3a8",
+    "title": "DAC Sales Strategy Guide",
+    "source_file": "conversations-005.json",
+    "message_count": 14
+  },
+  {
+    "id": "683477bf-85b0-8006-b19b-149360bf3739",
+    "title": "Missing Chat Recovery Tips",
+    "source_file": "conversations-005.json",
+    "message_count": 288
+  },
+  {
+    "id": "6834e23a-1a20-8006-9864-ce742c1b0a43",
+    "title": "LinkedIn Signal Effect Explained",
+    "source_file": "conversations-005.json",
+    "message_count": 14
+  },
+  {
+    "id": "6834e305-89b8-8006-a075-6a56192ed826",
+    "title": "Building Relationships with Influencers",
+    "source_file": "conversations-005.json",
+    "message_count": 30
+  },
+  {
+    "id": "68356af1-457c-8006-b558-343112e8fb79",
+    "title": "BlockSeed Bank Partnership Deck",
+    "source_file": "conversations-005.json",
+    "message_count": 491
+  },
+  {
+    "id": "68363511-3bf0-8006-8e41-162e3d843cde",
+    "title": "Dionne Von Zyl Biography",
+    "source_file": "conversations-005.json",
+    "message_count": 10
+  },
+  {
+    "id": "6836a830-90a0-8006-839d-b6d71393b0a7",
+    "title": "What is GitHub",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "6837c66c-ae18-8006-8212-e7f0aee3e568",
+    "title": "Retail and Service Funding",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "6837cda4-4704-8006-830e-28ed0c7a8adc",
+    "title": "Blockverse Funding Strategy",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "6837d3d8-8610-8006-b611-68eefd4a89ad",
+    "title": "Metaverse Game Show Plan",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "6837d901-7abc-8006-9e4c-7c36b9189b54",
+    "title": "Immersive VR Theme Park",
+    "source_file": "conversations-005.json",
+    "message_count": 6
+  },
+  {
+    "id": "6837e74c-773c-8006-8727-924fb1b7a5b3",
+    "title": "Omnipresent Prospect Strategy",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "6837e7e7-0174-8006-9fb0-28daef6a23d7",
+    "title": "DAC Business Funding Talk",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "6837e8d0-c800-8006-8b00-6396a8d3da50",
+    "title": "LinkedIn TED Talk Post",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "683817ae-1ee4-8006-81b0-5088195bb2a1",
+    "title": "DAC Video Tool Review",
+    "source_file": "conversations-005.json",
+    "message_count": 12
+  },
+  {
+    "id": "68381d06-75bc-8006-b733-8a26f0127435",
+    "title": "DAC Funnel Optimization Tips",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "68381fc2-4750-8006-95be-d10eb9eca329",
+    "title": "DAC Direct Marketing Strategy",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "683820dd-66e8-8006-8b86-7a1cb6e67b41",
+    "title": "DAC Funding Video Script",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "68382119-1654-8006-a7bd-ae66dabd76f4",
+    "title": "John Forde TED Talk",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "683884f7-1450-8006-a6b1-7e655ca9e8f5",
+    "title": "Business Funding Niche Strategy",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "68388596-c63c-8006-8dd1-493d3d2b9d27",
+    "title": "HeartCore List-Building Course",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "6838860e-0784-8006-8558-96bebe2bbb63",
+    "title": "DAC Funding Interview Series",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "68388650-5dc8-8006-a174-7badde1cd2bc",
+    "title": "DAC Retreat Plan",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "683886ce-1d34-8006-bf45-8cc2c7c6ef95",
+    "title": "Shanda Sumpter's Client Acquisition",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "683889bf-29d0-8006-8de3-085fd5e21873",
+    "title": "Shanda Sumpter Strategy Breakdown",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "68388ca2-5364-8006-923c-50f902b3110f",
+    "title": "Shanda Sumpter Business Template",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "68388e2e-88b0-8006-b750-faece2138cad",
+    "title": "Shanda Sumpter Funnel Strategy",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "6838914e-948c-8006-a86c-89116f7e132a",
+    "title": "DAC Funding Mentorship",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "6838a2a8-bce8-8006-acd6-60069d53696f",
+    "title": "SEO for Business Funding",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "6838a34c-2b98-8006-af96-f0a77454c8e0",
+    "title": "DAC Business Funding SEO",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "6838a3e2-8bf8-8006-9d22-4e2a6d31ee81",
+    "title": "DAC SEO Strategy",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "6838ae6c-8d38-8006-945d-37bc1a0af4dc",
+    "title": "Top Cities for DAC SEO",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "6838af70-77a4-8006-9be2-78ef94196730",
+    "title": "Medium for Local Domination",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "6838b7f1-de5c-8006-b7fb-3a4ddb0eb635",
+    "title": "Niche Expansion for DAC",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "6838b89b-7060-8006-9a0a-c974b9cf3021",
+    "title": "SEO Audit Small Business Funding",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "6838c506-6300-8006-b73b-6067e184b888",
+    "title": "Business Funding Solutions",
+    "source_file": "conversations-005.json",
+    "message_count": 42
+  },
+  {
+    "id": "6838e12e-0558-8006-b254-8c5dcac764e8",
+    "title": "Lead Falcon Overview",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "6838e282-94f0-8006-ab91-ec8905c4689a",
+    "title": "Self-Awareness in AI",
+    "source_file": "conversations-005.json",
+    "message_count": 528
+  },
+  {
+    "id": "6838e476-9e0c-8006-92e7-29490fdef6d1",
+    "title": "DAC Marketing Strategy 2.0",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "6838e619-c040-8006-a20f-80c0d0752625",
+    "title": "Business Funding Expert List",
+    "source_file": "conversations-005.json",
+    "message_count": 6
+  },
+  {
+    "id": "68396adf-8acc-8006-8243-e90d05ffd87a",
+    "title": "VA LinkedIn Coordination Plan",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "68397263-2afc-8006-9f61-9ccbcbc8f589",
+    "title": "DAC Lead Targeting Strategy",
+    "source_file": "conversations-005.json",
+    "message_count": 8
+  },
+  {
+    "id": "68399c53-4688-8006-8326-b8756002bb38",
+    "title": "Hozier AI Funding Idea",
+    "source_file": "conversations-005.json",
+    "message_count": 40
+  },
+  {
+    "id": "6839d118-d400-8006-bd37-bb4b2797be13",
+    "title": "LinkedIn Icebreaker Creation",
+    "source_file": "conversations-005.json",
+    "message_count": 8
+  },
+  {
+    "id": "6839d9a0-5be0-8006-9a86-1b800027223f",
+    "title": "Customer Wisdom Nuggets",
+    "source_file": "conversations-005.json",
+    "message_count": 30
+  },
+  {
+    "id": "6839dc61-fc3c-8006-acee-48649b17a98f",
+    "title": "Workplace Escape Mindset",
+    "source_file": "conversations-005.json",
+    "message_count": 10
+  },
+  {
+    "id": "683a4b1c-7d68-8006-adea-b8ffc4f4ad24",
+    "title": "Live VR Bank Concept",
+    "source_file": "conversations-005.json",
+    "message_count": 28
+  },
+  {
+    "id": "683a5334-fcac-8006-957e-ff222e997d9f",
+    "title": "Jesse Itzler Overview",
+    "source_file": "conversations-005.json",
+    "message_count": 8
+  },
+  {
+    "id": "683a5581-0a4c-8006-ac52-a2f3674d29a5",
+    "title": "Business Funding Makeover Series",
+    "source_file": "conversations-005.json",
+    "message_count": 12
+  },
+  {
+    "id": "683a589a-eba8-8006-ac0d-7397be329512",
+    "title": "Pimp My Biz Idea",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "683a6ee5-9790-8006-92ee-8eaa2faa33d2",
+    "title": "Captivating DAC Funding Leads",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "683a6fe9-4808-8006-aed3-75700c31b712",
+    "title": "AI Marketing Power Mode",
+    "source_file": "conversations-005.json",
+    "message_count": 68
+  },
+  {
+    "id": "683a756e-9ce4-8006-a314-18b44c5434f1",
+    "title": "DAC DM Flow Guide",
+    "source_file": "conversations-005.json",
+    "message_count": 2
+  },
+  {
+    "id": "683a79a6-7ae4-8006-b330-34f29bc3c401",
+    "title": "DAC Med Spa Financing Campaign",
+    "source_file": "conversations-005.json",
+    "message_count": 4
+  },
+  {
+    "id": "683a7c50-3d68-8006-8618-b86438d03096",
+    "title": "Mastering Social Selling",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683ab3b5-ad28-8006-923f-f19d7be3bd3c",
+    "title": "AI Performance Comparison",
+    "source_file": "conversations-006.json",
+    "message_count": 24
+  },
+  {
+    "id": "683ac1c7-cadc-8006-9d05-9172456c960d",
+    "title": "DAC Sales Strategy Guide",
+    "source_file": "conversations-006.json",
+    "message_count": 4
+  },
+  {
+    "id": "683ac513-76e4-8006-8b51-9956bb4203dd",
+    "title": "Magnetic Intro for Funding",
+    "source_file": "conversations-006.json",
+    "message_count": 4
+  },
+  {
+    "id": "683ac61c-671c-8006-9b3c-5661e78672df",
+    "title": "Business Funding Strategy",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683ac694-03c0-8006-a9c3-815172730002",
+    "title": "Substack Phishing Warning",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683ac857-1b98-8006-9301-a6b6c2267f0c",
+    "title": "FBI Negotiator VSL Script",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683ac976-90c4-8006-98d2-d640d5d6a223",
+    "title": "Neuroscience Funding Persuasion",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683acaf8-4584-8006-a659-dd98c1b00ee8",
+    "title": "Neuroscience FBI Marketing Strategy",
+    "source_file": "conversations-006.json",
+    "message_count": 4
+  },
+  {
+    "id": "683b4fb4-b1b4-8006-8035-97e187ebf451",
+    "title": "Connection and Collaboration Insights",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683b5614-918c-8006-9b61-618c12f11671",
+    "title": "AI Writing Strategy Breakdown",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683b5836-4524-8006-94e2-d9b59c7d086e",
+    "title": "Authentic LinkedIn Prompts",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683b5978-fdf8-8006-b1d3-75f0cf699833",
+    "title": "AI LinkedIn Post Automation",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683b5a3f-ddb4-8006-9daf-adc79618dd2d",
+    "title": "IFTTT DAC Funding Automation",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683b5be3-fb20-8006-a5cb-9b5718894afd",
+    "title": "AI Writing Course Overview",
+    "source_file": "conversations-006.json",
+    "message_count": 6
+  },
+  {
+    "id": "683b5da3-fe2c-8006-b063-2e24d10fd98c",
+    "title": "DAC Content Strategy",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683b5e21-0d4c-8006-ab67-96428f34256c",
+    "title": "AI Content Creation Hacks",
+    "source_file": "conversations-006.json",
+    "message_count": 4
+  },
+  {
+    "id": "683b5f57-bb48-8006-b918-31b0640a91aa",
+    "title": "DAC Client Acquisition System",
+    "source_file": "conversations-006.json",
+    "message_count": 6
+  },
+  {
+    "id": "683b62bc-23d8-8006-a8da-1b559c0a5b06",
+    "title": "Business Credit Growth Tips",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683b6548-e4a8-8006-bead-e987280e9eda",
+    "title": "Business Coaching Bio Creation",
+    "source_file": "conversations-006.json",
+    "message_count": 4
+  },
+  {
+    "id": "683b67b5-50b8-8006-a0b2-2845e3f7aea3",
+    "title": "Fake Guru Satire",
+    "source_file": "conversations-006.json",
+    "message_count": 20
+  },
+  {
+    "id": "683b6baa-cb10-8006-b223-2ba0fcbf4b3d",
+    "title": "High-Share Hook Formula",
+    "source_file": "conversations-006.json",
+    "message_count": 6
+  },
+  {
+    "id": "683b71eb-c094-8006-ab43-5dc9a1bdfaba",
+    "title": "Bonnie Blue References Summary",
+    "source_file": "conversations-006.json",
+    "message_count": 8
+  },
+  {
+    "id": "683b767b-6c44-8006-b45c-eee50d55b86e",
+    "title": "DAC LinkedIn Call System",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683b795e-9dd0-8006-8a7c-6a1822644e37",
+    "title": "Small Business Funding Trends",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683b7c5e-0e38-8006-ade4-c34fed9f55c7",
+    "title": "Real Talk Funding Strategy",
+    "source_file": "conversations-006.json",
+    "message_count": 10
+  },
+  {
+    "id": "683b8ba5-7238-8006-a1f0-f59ae75f8104",
+    "title": "Small Business Loan Success",
+    "source_file": "conversations-006.json",
+    "message_count": 4
+  },
+  {
+    "id": "683b8c3e-c000-8006-8d8b-46045109d8ba",
+    "title": "LinkedIn Post Response Ideas",
+    "source_file": "conversations-006.json",
+    "message_count": 8
+  },
+  {
+    "id": "683b9010-c510-8006-9d10-6608d9d8c5a2",
+    "title": "LinkedIn Content Strategy",
+    "source_file": "conversations-006.json",
+    "message_count": 2
+  },
+  {
+    "id": "683b911a-9c38-8006-9114-ab620fdb7adb",
+    "title": "Content Strategy Prompts",
+    "source_file": "conversations-006.json",
+    "message_count": 4
+  },
+  {
+    "id": "683b9550-3858-8006-8e04-ee8a5d150417",
+    "title": "LinkedIn Authenticity Tips",
+    "source_file": "conversations-006.json",
+    "message_count": 4
+  },
+  {
+    "id": "683b9626-df4c-8006-9562-8ab005e84f46",
+    "title": "Why You Show Up",
+    "source_file": "conversations-006.json",
+    "message_count": 4
+  }
+]

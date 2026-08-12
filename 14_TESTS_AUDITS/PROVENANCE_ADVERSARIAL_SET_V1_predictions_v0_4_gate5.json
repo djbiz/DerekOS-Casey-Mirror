@@ -1,0 +1,3612 @@
+{
+ "resolver": "PROVENANCE_RESOLVER_V0.4",
+ "count": 230,
+ "predictions": {
+  "adv_000136": {
+   "adversarial_id": "adv_000136",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_000318": {
+   "adversarial_id": "adv_000318",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_000346": {
+   "adversarial_id": "adv_000346",
+   "message_id": null,
+   "evidence_class": "MIXED",
+   "adoption_status": "AD0",
+   "authored_by": "mixed",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "MIXED: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "span_segmentation",
+     "source_reference": null,
+     "description": "Derek lead + imported body detected by span analysis."
+    }
+   ]
+  },
+  "adv_000443": {
+   "adversarial_id": "adv_000443",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "ffde76d6-1c69-4f4a-9bd0-e54a2488e5d7",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_000735": {
+   "adversarial_id": "adv_000735",
+   "message_id": null,
+   "evidence_class": "MIXED",
+   "adoption_status": "AD0",
+   "authored_by": "mixed",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "MIXED: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "span_segmentation",
+     "source_reference": null,
+     "description": "Derek lead + imported body detected by span analysis."
+    }
+   ]
+  },
+  "adv_000941": {
+   "adversarial_id": "adv_000941",
+   "message_id": null,
+   "evidence_class": "MIXED",
+   "adoption_status": "AD0",
+   "authored_by": "mixed",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "MIXED: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "span_segmentation",
+     "source_reference": null,
+     "description": "Derek lead + imported body detected by span analysis."
+    }
+   ]
+  },
+  "adv_001011": {
+   "adversarial_id": "adv_001011",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "f415636d-5e4d-4423-9639-0cc70114ff71",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_001102": {
+   "adversarial_id": "adv_001102",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_001306": {
+   "adversarial_id": "adv_001306",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_001324": {
+   "adversarial_id": "adv_001324",
+   "message_id": null,
+   "evidence_class": "MIXED",
+   "adoption_status": "AD4",
+   "authored_by": "mixed",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "MIXED: transformation directive: Derek modifies/re-owns the material",
+   "requires_review": true,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "span_segmentation",
+     "source_reference": null,
+     "description": "Derek lead + imported body detected by span analysis."
+    }
+   ]
+  },
+  "adv_001326": {
+   "adversarial_id": "adv_001326",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_001381": {
+   "adversarial_id": "adv_001381",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_001443": {
+   "adversarial_id": "adv_001443",
+   "message_id": null,
+   "evidence_class": "MIXED",
+   "adoption_status": "AD4",
+   "authored_by": "mixed",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "MIXED: transformation directive: Derek modifies/re-owns the material",
+   "requires_review": true,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "span_segmentation",
+     "source_reference": null,
+     "description": "Derek lead + imported body detected by span analysis."
+    }
+   ]
+  },
+  "adv_001444": {
+   "adversarial_id": "adv_001444",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD4",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: transformation directive: Derek modifies/re-owns the material",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "44b9cef3-2d2f-4be6-abd0-22dc4d2b4963",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_001794": {
+   "adversarial_id": "adv_001794",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "1fea17d6-2362-4493-8b20-0388c1163087",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_001825": {
+   "adversarial_id": "adv_001825",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_001964": {
+   "adversarial_id": "adv_001964",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_002015": {
+   "adversarial_id": "adv_002015",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_002059": {
+   "adversarial_id": "adv_002059",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD3",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: explicit adoption with identifiable proposition scope",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_002297": {
+   "adversarial_id": "adv_002297",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_002297",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_002323": {
+   "adversarial_id": "adv_002323",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_002323",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_002846": {
+   "adversarial_id": "adv_002846",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_002846",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_003147": {
+   "adversarial_id": "adv_003147",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_003147",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_003182": {
+   "adversarial_id": "adv_003182",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_003529": {
+   "adversarial_id": "adv_003529",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_003529",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_003589": {
+   "adversarial_id": "adv_003589",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_003589",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_003597": {
+   "adversarial_id": "adv_003597",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_003710": {
+   "adversarial_id": "adv_003710",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_004101": {
+   "adversarial_id": "adv_004101",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_004806": {
+   "adversarial_id": "adv_004806",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_004806",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_005835": {
+   "adversarial_id": "adv_005835",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_005852": {
+   "adversarial_id": "adv_005852",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_005890": {
+   "adversarial_id": "adv_005890",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "6ad65682-8583-4cfe-984d-4e9dc274816e",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_006124": {
+   "adversarial_id": "adv_006124",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_006285": {
+   "adversarial_id": "adv_006285",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "7c1129c4-3406-4121-bc6c-8446b2d0b221",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_006770": {
+   "adversarial_id": "adv_006770",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_006804": {
+   "adversarial_id": "adv_006804",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_006905": {
+   "adversarial_id": "adv_006905",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "534ca689-0cdd-4ace-8198-8692a485a77d",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_007135": {
+   "adversarial_id": "adv_007135",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_007257": {
+   "adversarial_id": "adv_007257",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_007453": {
+   "adversarial_id": "adv_007453",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_007563": {
+   "adversarial_id": "adv_007563",
+   "message_id": null,
+   "evidence_class": "MIXED",
+   "adoption_status": "AD4",
+   "authored_by": "mixed",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "MIXED: transformation directive: Derek modifies/re-owns the material",
+   "requires_review": true,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "span_segmentation",
+     "source_reference": null,
+     "description": "Derek lead + imported body detected by span analysis."
+    }
+   ]
+  },
+  "adv_007820": {
+   "adversarial_id": "adv_007820",
+   "message_id": null,
+   "evidence_class": "MIXED",
+   "adoption_status": "AD4",
+   "authored_by": "mixed",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "MIXED: transformation directive: Derek modifies/re-owns the material",
+   "requires_review": true,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "span_segmentation",
+     "source_reference": null,
+     "description": "Derek lead + imported body detected by span analysis."
+    }
+   ]
+  },
+  "adv_008147": {
+   "adversarial_id": "adv_008147",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_009046": {
+   "adversarial_id": "adv_009046",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_009731": {
+   "adversarial_id": "adv_009731",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_009731",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_009750": {
+   "adversarial_id": "adv_009750",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "4876793c-edc4-4b56-a051-db9c7ab2b667",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_010654": {
+   "adversarial_id": "adv_010654",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_010840": {
+   "adversarial_id": "adv_010840",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_010955": {
+   "adversarial_id": "adv_010955",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "961081e1-2719-461e-89b3-52ae743e9ea1",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_011018": {
+   "adversarial_id": "adv_011018",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_011310": {
+   "adversarial_id": "adv_011310",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "29f4df88-bc97-4d0d-a23f-b1bfb7493bff",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_011482": {
+   "adversarial_id": "adv_011482",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_011599": {
+   "adversarial_id": "adv_011599",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_011640": {
+   "adversarial_id": "adv_011640",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_011641": {
+   "adversarial_id": "adv_011641",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "2",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_011746": {
+   "adversarial_id": "adv_011746",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_011993": {
+   "adversarial_id": "adv_011993",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_012035": {
+   "adversarial_id": "adv_012035",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_012068": {
+   "adversarial_id": "adv_012068",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_012199": {
+   "adversarial_id": "adv_012199",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_012210": {
+   "adversarial_id": "adv_012210",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_012236": {
+   "adversarial_id": "adv_012236",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_012410": {
+   "adversarial_id": "adv_012410",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_012412": {
+   "adversarial_id": "adv_012412",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_012420": {
+   "adversarial_id": "adv_012420",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_012485": {
+   "adversarial_id": "adv_012485",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD3",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: explicit adoption with identifiable proposition scope",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "7829914f-e438-4ead-9184-c18ae418a7d6",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_012699": {
+   "adversarial_id": "adv_012699",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_012699",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_012771": {
+   "adversarial_id": "adv_012771",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_013001": {
+   "adversarial_id": "adv_013001",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_013200": {
+   "adversarial_id": "adv_013200",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_013280": {
+   "adversarial_id": "adv_013280",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_013330": {
+   "adversarial_id": "adv_013330",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_013330",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_013750": {
+   "adversarial_id": "adv_013750",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "3c15f5fe-5a3d-4d02-8523-2e4a2b86d0eb",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_014438": {
+   "adversarial_id": "adv_014438",
+   "message_id": null,
+   "evidence_class": "MIXED",
+   "adoption_status": "AD0",
+   "authored_by": "mixed",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "MIXED: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "span_segmentation",
+     "source_reference": null,
+     "description": "Derek lead + imported body detected by span analysis."
+    }
+   ]
+  },
+  "adv_014464": {
+   "adversarial_id": "adv_014464",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_014544": {
+   "adversarial_id": "adv_014544",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_014859": {
+   "adversarial_id": "adv_014859",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_014859",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_015875": {
+   "adversarial_id": "adv_015875",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_015875",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_016153": {
+   "adversarial_id": "adv_016153",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_016153",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_016489": {
+   "adversarial_id": "adv_016489",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_016489",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_016498": {
+   "adversarial_id": "adv_016498",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_016513": {
+   "adversarial_id": "adv_016513",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_016513",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_016630": {
+   "adversarial_id": "adv_016630",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_016630",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_016642": {
+   "adversarial_id": "adv_016642",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_016684": {
+   "adversarial_id": "adv_016684",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_016684",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_016717": {
+   "adversarial_id": "adv_016717",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_016717",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_016829": {
+   "adversarial_id": "adv_016829",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_016944": {
+   "adversarial_id": "adv_016944",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_016944",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_017675": {
+   "adversarial_id": "adv_017675",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_017675",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_017867": {
+   "adversarial_id": "adv_017867",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_017930": {
+   "adversarial_id": "adv_017930",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_017930",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_017999": {
+   "adversarial_id": "adv_017999",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "167dabe2-341a-4eed-95cc-01e6ef18fb84",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_018019": {
+   "adversarial_id": "adv_018019",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_018019",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_018155": {
+   "adversarial_id": "adv_018155",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "d62281ee-006d-4021-a45e-987bebaa44f3",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_018391": {
+   "adversarial_id": "adv_018391",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_018415": {
+   "adversarial_id": "adv_018415",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_018415",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_018484": {
+   "adversarial_id": "adv_018484",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_018484",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_018536": {
+   "adversarial_id": "adv_018536",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_018613": {
+   "adversarial_id": "adv_018613",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_018887": {
+   "adversarial_id": "adv_018887",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_018887",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_019103": {
+   "adversarial_id": "adv_019103",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_019128": {
+   "adversarial_id": "adv_019128",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_019150": {
+   "adversarial_id": "adv_019150",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD1",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: continuation/engagement is not adoption",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_019178": {
+   "adversarial_id": "adv_019178",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_019222": {
+   "adversarial_id": "adv_019222",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_019222",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_019337": {
+   "adversarial_id": "adv_019337",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD3",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: explicit adoption with identifiable proposition scope",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "c6254527-6751-4ae1-81d2-b7a6f588bbe0",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_019425": {
+   "adversarial_id": "adv_019425",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_019452": {
+   "adversarial_id": "adv_019452",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_019452",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_019529": {
+   "adversarial_id": "adv_019529",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_019529",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_020243": {
+   "adversarial_id": "adv_020243",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_020243",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_020428": {
+   "adversarial_id": "adv_020428",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_020428",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_020646": {
+   "adversarial_id": "adv_020646",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_020646",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_021093": {
+   "adversarial_id": "adv_021093",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_021289": {
+   "adversarial_id": "adv_021289",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_021528": {
+   "adversarial_id": "adv_021528",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_021773": {
+   "adversarial_id": "adv_021773",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_021920": {
+   "adversarial_id": "adv_021920",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_021920",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_021989": {
+   "adversarial_id": "adv_021989",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "18dd033a-8754-46f8-a962-47c58dbdfbaf",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_021994": {
+   "adversarial_id": "adv_021994",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_021994",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_022114": {
+   "adversarial_id": "adv_022114",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD3",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: explicit adoption with identifiable proposition scope",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_022216": {
+   "adversarial_id": "adv_022216",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "copilot_msg_9b4006e7c3ac69d5abfa2abfd2809f5c",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_022859": {
+   "adversarial_id": "adv_022859",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_023273": {
+   "adversarial_id": "adv_023273",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_023641": {
+   "adversarial_id": "adv_023641",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_023641",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_023806": {
+   "adversarial_id": "adv_023806",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_023994": {
+   "adversarial_id": "adv_023994",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_024223": {
+   "adversarial_id": "adv_024223",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "d1865a4f-20b4-446e-b5a8-ff474c07f387",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_024593": {
+   "adversarial_id": "adv_024593",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_024682": {
+   "adversarial_id": "adv_024682",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: rejection/correction overrides inferred adoption",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "4fb6e365-8c58-48fb-9532-9e29d93797a8",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_024794": {
+   "adversarial_id": "adv_024794",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_024794",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_024918": {
+   "adversarial_id": "adv_024918",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD4",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_024918",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_024945": {
+   "adversarial_id": "adv_024945",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_025184": {
+   "adversarial_id": "adv_025184",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD1",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: continuation/engagement is not adoption",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_025602": {
+   "adversarial_id": "adv_025602",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_025657": {
+   "adversarial_id": "adv_025657",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "70c2d7f0-c504-415b-94e4-d8fc0108bdd9",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_025673": {
+   "adversarial_id": "adv_025673",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_025720": {
+   "adversarial_id": "adv_025720",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_026055": {
+   "adversarial_id": "adv_026055",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_026247": {
+   "adversarial_id": "adv_026247",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_026247",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_026252": {
+   "adversarial_id": "adv_026252",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_026480": {
+   "adversarial_id": "adv_026480",
+   "message_id": null,
+   "evidence_class": "D0",
+   "adoption_status": "AD3",
+   "authored_by": "derek",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "Derek authorship is supported by positive, traceable evidence.",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "direct_control_act",
+     "source_reference": "adv_026480",
+     "description": "Brief direct response to an immediately preceding assistant turn."
+    }
+   ]
+  },
+  "adv_026699": {
+   "adversarial_id": "adv_026699",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "a23d37b2-bf5b-42d0-b52c-83a80866ae69",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_026722": {
+   "adversarial_id": "adv_026722",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027022": {
+   "adversarial_id": "adv_027022",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027069": {
+   "adversarial_id": "adv_027069",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027082": {
+   "adversarial_id": "adv_027082",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027153": {
+   "adversarial_id": "adv_027153",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027470": {
+   "adversarial_id": "adv_027470",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027517": {
+   "adversarial_id": "adv_027517",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027554": {
+   "adversarial_id": "adv_027554",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "6e6c585a-dc3d-4f15-8718-9fa345a0f5c5",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_027661": {
+   "adversarial_id": "adv_027661",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027678": {
+   "adversarial_id": "adv_027678",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "64bc8f5f-af8f-44ae-8e56-2e1bf7da2a83",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_027736": {
+   "adversarial_id": "adv_027736",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027756": {
+   "adversarial_id": "adv_027756",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027762": {
+   "adversarial_id": "adv_027762",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027814": {
+   "adversarial_id": "adv_027814",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027815": {
+   "adversarial_id": "adv_027815",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027927": {
+   "adversarial_id": "adv_027927",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027972": {
+   "adversarial_id": "adv_027972",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027980": {
+   "adversarial_id": "adv_027980",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_027990": {
+   "adversarial_id": "adv_027990",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028025": {
+   "adversarial_id": "adv_028025",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028040": {
+   "adversarial_id": "adv_028040",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028118": {
+   "adversarial_id": "adv_028118",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028170": {
+   "adversarial_id": "adv_028170",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028257": {
+   "adversarial_id": "adv_028257",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028263": {
+   "adversarial_id": "adv_028263",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028277": {
+   "adversarial_id": "adv_028277",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028378": {
+   "adversarial_id": "adv_028378",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028382": {
+   "adversarial_id": "adv_028382",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028394": {
+   "adversarial_id": "adv_028394",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028399": {
+   "adversarial_id": "adv_028399",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028404": {
+   "adversarial_id": "adv_028404",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028407": {
+   "adversarial_id": "adv_028407",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "8",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_028411": {
+   "adversarial_id": "adv_028411",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028444": {
+   "adversarial_id": "adv_028444",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028546": {
+   "adversarial_id": "adv_028546",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028560": {
+   "adversarial_id": "adv_028560",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028654": {
+   "adversarial_id": "adv_028654",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "4",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_028920": {
+   "adversarial_id": "adv_028920",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028925": {
+   "adversarial_id": "adv_028925",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_028973": {
+   "adversarial_id": "adv_028973",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_029000": {
+   "adversarial_id": "adv_029000",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_029035": {
+   "adversarial_id": "adv_029035",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_029198": {
+   "adversarial_id": "adv_029198",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_029212": {
+   "adversarial_id": "adv_029212",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_029474": {
+   "adversarial_id": "adv_029474",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_030062": {
+   "adversarial_id": "adv_030062",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_030092": {
+   "adversarial_id": "adv_030092",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_030104": {
+   "adversarial_id": "adv_030104",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "6079e7ca-2238-4619-91b3-a824ac291d73",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_030107": {
+   "adversarial_id": "adv_030107",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_030132": {
+   "adversarial_id": "adv_030132",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_030261": {
+   "adversarial_id": "adv_030261",
+   "message_id": null,
+   "evidence_class": "MIXED",
+   "adoption_status": "AD0",
+   "authored_by": "mixed",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "MIXED: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "span_segmentation",
+     "source_reference": null,
+     "description": "Derek lead + imported body detected by span analysis."
+    }
+   ]
+  },
+  "adv_030342": {
+   "adversarial_id": "adv_030342",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "5269b501-d6ad-4d28-a2ea-ce1fd6d912bd",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_030604": {
+   "adversarial_id": "adv_030604",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "704e9795-db34-4497-a112-4487dc8ef9b9",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_030670": {
+   "adversarial_id": "adv_030670",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_030780": {
+   "adversarial_id": "adv_030780",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_030804": {
+   "adversarial_id": "adv_030804",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_030864": {
+   "adversarial_id": "adv_030864",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_030897": {
+   "adversarial_id": "adv_030897",
+   "message_id": null,
+   "evidence_class": "MIXED",
+   "adoption_status": "AD0",
+   "authored_by": "mixed",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "MIXED: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "span_segmentation",
+     "source_reference": null,
+     "description": "Derek lead + imported body detected by span analysis."
+    }
+   ]
+  },
+  "adv_030954": {
+   "adversarial_id": "adv_030954",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_031072": {
+   "adversarial_id": "adv_031072",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "dbb4ccee-6a21-478f-b440-d3c72f24a834",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_031092": {
+   "adversarial_id": "adv_031092",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_031229": {
+   "adversarial_id": "adv_031229",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_031360": {
+   "adversarial_id": "adv_031360",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_031597": {
+   "adversarial_id": "adv_031597",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_031661": {
+   "adversarial_id": "adv_031661",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_031889": {
+   "adversarial_id": "adv_031889",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "54883f8d-96af-4ef2-b5d6-e66a5ce9a8fe",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_032016": {
+   "adversarial_id": "adv_032016",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_032023": {
+   "adversarial_id": "adv_032023",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_032030": {
+   "adversarial_id": "adv_032030",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "39722ae2-4e51-4699-aa8f-c9ef000984f5",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_032700": {
+   "adversarial_id": "adv_032700",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_032963": {
+   "adversarial_id": "adv_032963",
+   "message_id": null,
+   "evidence_class": "MIXED",
+   "adoption_status": "AD0",
+   "authored_by": "mixed",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-3",
+   "reason": "MIXED: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": [
+    {
+     "code": "DAE-3",
+     "kind": "span_segmentation",
+     "source_reference": null,
+     "description": "Derek lead + imported body detected by span analysis."
+    }
+   ]
+  },
+  "adv_033022": {
+   "adversarial_id": "adv_033022",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD3",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: explicit adoption with identifiable proposition scope",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "f7ac7969-d7d0-4753-b156-281d279133d3",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_033054": {
+   "adversarial_id": "adv_033054",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_033108": {
+   "adversarial_id": "adv_033108",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "39722ae2-4e51-4699-aa8f-c9ef000984f5",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_033117": {
+   "adversarial_id": "adv_033117",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_033504": {
+   "adversarial_id": "adv_033504",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: rejection/correction overrides inferred adoption",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_033685": {
+   "adversarial_id": "adv_033685",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_033720": {
+   "adversarial_id": "adv_033720",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "363eb4e5-e84a-4a3c-9512-7870c7498417",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_033805": {
+   "adversarial_id": "adv_033805",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "38",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_033881": {
+   "adversarial_id": "adv_033881",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_033891": {
+   "adversarial_id": "adv_033891",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "16",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_034117": {
+   "adversarial_id": "adv_034117",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD3",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: explicit adoption with identifiable proposition scope",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_034205": {
+   "adversarial_id": "adv_034205",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_034335": {
+   "adversarial_id": "adv_034335",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  },
+  "adv_034448": {
+   "adversarial_id": "adv_034448",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD3",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": "derek",
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: explicit adoption with identifiable proposition scope",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "32503b44-6190-44cf-947c-4b4ac161c981",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_034886": {
+   "adversarial_id": "adv_034886",
+   "message_id": null,
+   "evidence_class": "P0",
+   "adoption_status": "AD0",
+   "authored_by": "assistant",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-4",
+   "reason": "Submission is not authorship; assistant provenance controls. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": false,
+   "segments": [
+    {
+     "code": "DAE-4",
+     "kind": "assistant_origin",
+     "source_reference": "32",
+     "description": "Assistant origin or substantial assistant reuse is positively established."
+    }
+   ]
+  },
+  "adv_034912": {
+   "adversarial_id": "adv_034912",
+   "message_id": null,
+   "evidence_class": "UNRESOLVED",
+   "adoption_status": "AD0",
+   "authored_by": "unknown",
+   "submitted_by": "derek",
+   "adopted_by": null,
+   "derek_attribution_evidence": "DAE-0",
+   "reason": "No positive authorship evidence; absence of a located origin is not authorship evidence. | adoption: no adoption evidence (discussion != adoption)",
+   "requires_review": true,
+   "segments": []
+  }
+ }
+}

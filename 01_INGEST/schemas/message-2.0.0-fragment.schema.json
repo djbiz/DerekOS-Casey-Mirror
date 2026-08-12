@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://derekos.local/schemas/ingested-message/fragments/2.0.0",
+  "title": "DerekOS Master Brain Other-AI Fragment Message",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source_record_id", "message_id", "node_id", "conversation_id",
+    "conversation_title", "source_file", "source_format", "model",
+    "fragment_index", "fragment_type", "role", "author_name", "timestamp",
+    "text", "content_type", "branch", "sequence_index", "parent_message_id",
+    "child_message_ids", "source_sha256", "ingest_version"
+  ],
+  "properties": {
+    "source_record_id": {"type": "string", "pattern": "^srcmsg_[a-f0-9]{32}$"},
+    "message_id": {"type": "string", "minLength": 1},
+    "node_id": {"type": "string", "minLength": 1},
+    "conversation_id": {"type": "string", "minLength": 1},
+    "conversation_title": {"type": ["string", "null"]},
+    "source_file": {"const": "conversations.json"},
+    "source_format": {"const": "other-ai-export-fragments"},
+    "model": {"type": ["string", "null"]},
+    "fragment_index": {"type": "integer", "minimum": 0},
+    "fragment_type": {"type": "string", "minLength": 1},
+    "role": {"type": ["string", "null"]},
+    "author_name": {"type": ["string", "null"]},
+    "timestamp": {"type": ["string", "null"]},
+    "text": {"type": "string"},
+    "content_type": {"type": "string", "minLength": 1},
+    "branch": {"enum": ["main", "alternate"]},
+    "sequence_index": {"type": ["integer", "null"], "minimum": 0},
+    "parent_message_id": {"type": ["string", "null"]},
+    "child_message_ids": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "source_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "ingest_version": {"const": "2.0.0"}
+  }
+}

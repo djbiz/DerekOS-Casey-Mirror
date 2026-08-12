@@ -1,0 +1,2336 @@
+[
+  {
+    "id": "692ce560-d2ec-8328-a36e-9c48092a5e11",
+    "title": "MLI concept explanation",
+    "source_file": "conversations-016.json",
+    "message_count": 10
+  },
+  {
+    "id": "692d3c01-dec0-832a-96df-335bc9aa4567",
+    "title": "Apology request and clarification",
+    "source_file": "conversations-017.json",
+    "message_count": 501
+  },
+  {
+    "id": "692d57e6-c368-8325-82f6-76d57cbc1c41",
+    "title": "Offer printing engine",
+    "source_file": "conversations-017.json",
+    "message_count": 27
+  },
+  {
+    "id": "692d6663-2f48-8333-bf96-1570f162faa0",
+    "title": "Webinar script generator",
+    "source_file": "conversations-017.json",
+    "message_count": 162
+  },
+  {
+    "id": "692ddf57-7e08-8328-86b7-5845d98f13d0",
+    "title": "Empire starter repo breakdown",
+    "source_file": "conversations-017.json",
+    "message_count": 64
+  },
+  {
+    "id": "692e2abc-bcd0-8330-9f88-ca26e8c19c80",
+    "title": "Fix diversification strategy",
+    "source_file": "conversations-017.json",
+    "message_count": 4
+  },
+  {
+    "id": "692e3207-7d00-8333-a254-8f73f15a2d20",
+    "title": "Epoxy beach flooring design",
+    "source_file": "conversations-017.json",
+    "message_count": 92
+  },
+  {
+    "id": "692e5759-6d18-8333-965a-cc38e551e34a",
+    "title": "Cost to build mansion warehouse",
+    "source_file": "conversations-017.json",
+    "message_count": 31
+  },
+  {
+    "id": "692f0b5c-8774-8328-a62d-834fe270c514",
+    "title": "Ethical pain2book script",
+    "source_file": "conversations-017.json",
+    "message_count": 86
+  },
+  {
+    "id": "692f5027-b92c-8325-a21b-75eb587f74fd",
+    "title": "Empire generator overview",
+    "source_file": "conversations-017.json",
+    "message_count": 76
+  },
+  {
+    "id": "692f7ab3-a47c-8332-b3cf-3903287f85be",
+    "title": "Content automation strategy",
+    "source_file": "conversations-017.json",
+    "message_count": 2
+  },
+  {
+    "id": "692f86c9-a6d4-832e-a44d-80d945eedb66",
+    "title": "Python sales autoresponder",
+    "source_file": "conversations-017.json",
+    "message_count": 77
+  },
+  {
+    "id": "692fb265-f0e0-832d-8045-2a08ef7a39fb",
+    "title": "OnlyFans product strategy",
+    "source_file": "conversations-017.json",
+    "message_count": 10
+  },
+  {
+    "id": "692fc901-cb98-8333-9c2b-3a1e9368c843",
+    "title": "Python automation improvements",
+    "source_file": "conversations-017.json",
+    "message_count": 16
+  },
+  {
+    "id": "692fdfb6-81a8-8329-9868-d2e09ef5d772",
+    "title": "Making money with niche sites",
+    "source_file": "conversations-017.json",
+    "message_count": 34
+  },
+  {
+    "id": "692ff232-b528-832d-9946-d8297e0fe41c",
+    "title": "Python business website generator",
+    "source_file": "conversations-017.json",
+    "message_count": 6
+  },
+  {
+    "id": "692ffd90-79fc-8331-a48b-948bed6f8021",
+    "title": "Enterprise architecture analysis",
+    "source_file": "conversations-017.json",
+    "message_count": 40
+  },
+  {
+    "id": "6930deda-9168-832b-862f-c3c5cf37b1d3",
+    "title": "Infomercial framework fusion",
+    "source_file": "conversations-017.json",
+    "message_count": 6
+  },
+  {
+    "id": "6931cfb6-9aac-8329-8992-e9f4cfbfe717",
+    "title": "TRAINOPS an App integration instructions platform",
+    "source_file": "conversations-017.json",
+    "message_count": 24
+  },
+  {
+    "id": "6931f52b-60e0-8326-8674-ef34dac8b887",
+    "title": "Tok-Launch™ Automation Engine – Python Blueprint",
+    "source_file": "conversations-017.json",
+    "message_count": 6
+  },
+  {
+    "id": "69320511-0a08-8328-8da0-a9f9e23dd56d",
+    "title": "RevForge AI Launch deployment package",
+    "source_file": "conversations-017.json",
+    "message_count": 12
+  },
+  {
+    "id": "69325c17-5ccc-8328-9a84-fd050da0e0e5",
+    "title": "Box truck profitability analysis",
+    "source_file": "conversations-017.json",
+    "message_count": 4
+  },
+  {
+    "id": "69325feb-c774-832c-95ea-272a1019a3fa",
+    "title": "Cell tower leasing profits",
+    "source_file": "conversations-017.json",
+    "message_count": 18
+  },
+  {
+    "id": "6932fbd1-d750-832e-810f-894b568463a4",
+    "title": "Business coaching python code",
+    "source_file": "conversations-017.json",
+    "message_count": 12
+  },
+  {
+    "id": "69332894-c13c-8331-8351-95279f4d3acb",
+    "title": "Dual funnel integration",
+    "source_file": "conversations-017.json",
+    "message_count": 4
+  },
+  {
+    "id": "6933e443-d7bc-832e-b3fc-221efc03f644",
+    "title": "Launching a hedge fund",
+    "source_file": "conversations-017.json",
+    "message_count": 32
+  },
+  {
+    "id": "6933ea68-fc60-8330-9c82-d520e4c71aed",
+    "title": "Fundraising guide for startups",
+    "source_file": "conversations-017.json",
+    "message_count": 12
+  },
+  {
+    "id": "69342c5f-dc8c-832b-9341-e8adcdb97585",
+    "title": "YC mock interview answers",
+    "source_file": "conversations-017.json",
+    "message_count": 2
+  },
+  {
+    "id": "69345dc7-1eb4-832d-81b5-65f72ba66bea",
+    "title": "Launch instructions and strategy",
+    "source_file": "conversations-017.json",
+    "message_count": 86
+  },
+  {
+    "id": "69347fc7-464c-8333-834b-a97f87a60a05",
+    "title": "Top business marketers",
+    "source_file": "conversations-017.json",
+    "message_count": 6
+  },
+  {
+    "id": "6934cd0f-d22c-8326-8a94-fb7b3aca3473",
+    "title": "Business tools for Python",
+    "source_file": "conversations-017.json",
+    "message_count": 22
+  },
+  {
+    "id": "6934d54e-7198-8329-8067-01b44b1a8b2d",
+    "title": "FSM Python Code Request",
+    "source_file": "conversations-017.json",
+    "message_count": 152
+  },
+  {
+    "id": "6934ff82-a084-832c-93e1-5e92da97806d",
+    "title": "Real estate overview",
+    "source_file": "conversations-017.json",
+    "message_count": 66
+  },
+  {
+    "id": "69357737-5b50-8325-9843-9485e87cae7c",
+    "title": "WhatsApp opt-in form",
+    "source_file": "conversations-017.json",
+    "message_count": 3
+  },
+  {
+    "id": "69357782-5cac-8333-8d55-bb4d7d39452d",
+    "title": "Create Twitter opt-in form",
+    "source_file": "conversations-017.json",
+    "message_count": 4
+  },
+  {
+    "id": "693577d0-8d74-832f-a8dc-acc3ffc55797",
+    "title": "Facebook opt-in form creation",
+    "source_file": "conversations-017.json",
+    "message_count": 16
+  },
+  {
+    "id": "6935b866-eb88-832b-a9ad-3accacb225ba",
+    "title": "Twitter empire failure 2025",
+    "source_file": "conversations-017.json",
+    "message_count": 2
+  },
+  {
+    "id": "6936fa3b-8758-8328-8754-07df54035980",
+    "title": "Running a legal brothel",
+    "source_file": "conversations-017.json",
+    "message_count": 12
+  },
+  {
+    "id": "693716f6-66cc-8326-97a1-b06b7457f389",
+    "title": "Wealth moves strategy",
+    "source_file": "conversations-017.json",
+    "message_count": 10
+  },
+  {
+    "id": "69375fc2-48f8-8330-a000-f7772627916a",
+    "title": "Mutual fund expectations breakdown",
+    "source_file": "conversations-017.json",
+    "message_count": 12
+  },
+  {
+    "id": "6937fe2f-6a40-8330-b0f6-b0bcbeac9ca4",
+    "title": "Movie formula breakdown",
+    "source_file": "conversations-017.json",
+    "message_count": 12
+  },
+  {
+    "id": "693869a9-0694-8328-abcf-6db43927a67c",
+    "title": "3 Company Asset Model",
+    "source_file": "conversations-017.json",
+    "message_count": 10
+  },
+  {
+    "id": "69388dd5-4434-8331-b517-0d285e9373df",
+    "title": "Property value increase strategy",
+    "source_file": "conversations-017.json",
+    "message_count": 2
+  },
+  {
+    "id": "693890ba-a99c-8325-91f9-6b90bbbb50e7",
+    "title": "Signal vs noise Jobs Musk",
+    "source_file": "conversations-017.json",
+    "message_count": 36
+  },
+  {
+    "id": "693997f2-b9ac-8329-b9a2-9a31d47cf047",
+    "title": "SBA Business Launch Guide",
+    "source_file": "conversations-017.json",
+    "message_count": 2
+  },
+  {
+    "id": "6939a0cb-0c5c-832f-bf81-b9f09c97ce36",
+    "title": "Install DAAS Model",
+    "source_file": "conversations-017.json",
+    "message_count": 18
+  },
+  {
+    "id": "6939a74a-353c-832e-9ce4-780a8b91f538",
+    "title": "Flu-like symptoms causes",
+    "source_file": "conversations-017.json",
+    "message_count": 2
+  },
+  {
+    "id": "6939a8a9-67f8-8332-b399-11bb4541420d",
+    "title": "Core Platform Explanation",
+    "source_file": "conversations-017.json",
+    "message_count": 26
+  },
+  {
+    "id": "693a0a42-342c-832f-b69b-8f024920a7a4",
+    "title": "Luqra Meta-ISO Camp Use",
+    "source_file": "conversations-017.json",
+    "message_count": 2
+  },
+  {
+    "id": "693a0ec5-03f0-8328-962b-b3ce0a05146d",
+    "title": "50k a month playbook",
+    "source_file": "conversations-017.json",
+    "message_count": 34
+  },
+  {
+    "id": "693a410e-4e10-832c-808d-f88032870fe5",
+    "title": "Merchant services agents explained",
+    "source_file": "conversations-017.json",
+    "message_count": 38
+  },
+  {
+    "id": "693a58fe-63b8-8326-b086-3eb064c28576",
+    "title": "Top agency playbooks",
+    "source_file": "conversations-017.json",
+    "message_count": 93
+  },
+  {
+    "id": "693a9334-b620-832f-b0ba-d06a1248b114",
+    "title": "Licensing CRM Software",
+    "source_file": "conversations-017.json",
+    "message_count": 2
+  },
+  {
+    "id": "693b0da2-c3bc-832e-82c4-a5abef821711",
+    "title": "Cash value life insurance",
+    "source_file": "conversations-017.json",
+    "message_count": 2
+  },
+  {
+    "id": "693b9561-71a4-832b-822b-66385ad9939b",
+    "title": "AI system breakdown",
+    "source_file": "conversations-017.json",
+    "message_count": 6
+  },
+  {
+    "id": "693c63b0-d9a8-8330-b504-d60b2cbbb0c9",
+    "title": "Make millions designing Fortnite",
+    "source_file": "conversations-017.json",
+    "message_count": 14
+  },
+  {
+    "id": "693c6fad-fbb8-832f-8060-0cd284857bfa",
+    "title": "Empire board team",
+    "source_file": "conversations-017.json",
+    "message_count": 32
+  },
+  {
+    "id": "693cbac3-745c-8328-91f8-807b95c1133e",
+    "title": "Medical courier business model",
+    "source_file": "conversations-017.json",
+    "message_count": 70
+  },
+  {
+    "id": "693cdb59-535c-8331-a59d-c6cd67d1b5b7",
+    "title": "Geofencing marketing explained",
+    "source_file": "conversations-017.json",
+    "message_count": 8
+  },
+  {
+    "id": "693cf367-33d4-8325-9fd9-5ec5aeebb8c7",
+    "title": "Agency Growth Blueprint",
+    "source_file": "conversations-017.json",
+    "message_count": 16
+  },
+  {
+    "id": "693deaa4-bd74-832a-ba07-ad9134e4d9dd",
+    "title": "Script bug fix",
+    "source_file": "conversations-017.json",
+    "message_count": 16
+  },
+  {
+    "id": "693ea43c-4d18-832a-966a-d8becd0d0bea",
+    "title": "Done-for-you blog systems",
+    "source_file": "conversations-017.json",
+    "message_count": 76
+  },
+  {
+    "id": "693f3cb7-ca7c-8332-a569-efadebaf665b",
+    "title": "Python marketing automation",
+    "source_file": "conversations-017.json",
+    "message_count": 82
+  },
+  {
+    "id": "693f6a50-5360-832d-adba-2d5ff3e641b4",
+    "title": "Enterprise AI Deployment",
+    "source_file": "conversations-017.json",
+    "message_count": 64
+  },
+  {
+    "id": "693f883b-2710-8330-8378-430c26febe98",
+    "title": "Copy Buddy AI system",
+    "source_file": "conversations-017.json",
+    "message_count": 36
+  },
+  {
+    "id": "694011b4-a1a4-8331-bf3f-d5f326eab895",
+    "title": "AWeber public RSS feed",
+    "source_file": "conversations-017.json",
+    "message_count": 30
+  },
+  {
+    "id": "69408046-62f4-8328-96d3-a0b4f0dd25bb",
+    "title": "What Scribe can do",
+    "source_file": "conversations-017.json",
+    "message_count": 47
+  },
+  {
+    "id": "6940a03c-395c-832c-a95d-d12f5d7cc03a",
+    "title": "Agency Empire OS 5.1",
+    "source_file": "conversations-017.json",
+    "message_count": 14
+  },
+  {
+    "id": "6940a85c-cafc-8331-a608-c798d2f5b00a",
+    "title": "AI fulfillment services list",
+    "source_file": "conversations-017.json",
+    "message_count": 84
+  },
+  {
+    "id": "6940c079-aec0-8333-a95b-833885cfd0e2",
+    "title": "Dev team AI code",
+    "source_file": "conversations-017.json",
+    "message_count": 22
+  },
+  {
+    "id": "6940de1e-613c-832a-acae-6bc2a94cb500",
+    "title": "Marketing OS strategy review",
+    "source_file": "conversations-017.json",
+    "message_count": 26
+  },
+  {
+    "id": "694169f8-7020-832e-ac4d-8158f296f31f",
+    "title": "AI-native PSA",
+    "source_file": "conversations-017.json",
+    "message_count": 28
+  },
+  {
+    "id": "69418aa6-1920-832e-9c9d-127aec913258",
+    "title": "TikTok affiliate engine code",
+    "source_file": "conversations-017.json",
+    "message_count": 34
+  },
+  {
+    "id": "6941a414-2e90-8332-a983-2c3437d5fe26",
+    "title": "Paid blog with giveaways",
+    "source_file": "conversations-017.json",
+    "message_count": 10
+  },
+  {
+    "id": "6941a997-67ec-8326-8503-1f238154d77c",
+    "title": "Boardroom overview",
+    "source_file": "conversations-017.json",
+    "message_count": 44
+  },
+  {
+    "id": "6941b43a-6b78-8328-8252-d5183d2e3e3a",
+    "title": "Board decision hand-off process",
+    "source_file": "conversations-017.json",
+    "message_count": 36
+  },
+  {
+    "id": "6941c032-8b84-8327-a593-336e73cc8ad0",
+    "title": "Sales call center roles",
+    "source_file": "conversations-017.json",
+    "message_count": 54
+  },
+  {
+    "id": "6942315d-a9ac-8328-a030-c612ea957374",
+    "title": "Business challenges overview",
+    "source_file": "conversations-017.json",
+    "message_count": 66
+  },
+  {
+    "id": "69425731-9230-8331-8139-efabc3c46f50",
+    "title": "Casino ownership steps",
+    "source_file": "conversations-017.json",
+    "message_count": 24
+  },
+  {
+    "id": "6942661a-67b4-8330-a165-86edd9120ba8",
+    "title": "AI Hiring System Creation",
+    "source_file": "conversations-017.json",
+    "message_count": 30
+  },
+  {
+    "id": "69427f56-8444-8332-88c6-1c2510aada7e",
+    "title": "WordPress vs Shopify apps",
+    "source_file": "conversations-017.json",
+    "message_count": 6
+  },
+  {
+    "id": "69438ccf-79c4-832a-8465-22d7067dbb47",
+    "title": "Python code extraction",
+    "source_file": "conversations-017.json",
+    "message_count": 24
+  },
+  {
+    "id": "6943dd00-6cbc-8329-b8fa-17be2a789886",
+    "title": "Decision intelligence engine",
+    "source_file": "conversations-017.json",
+    "message_count": 28
+  },
+  {
+    "id": "6943fccc-53d8-8327-9514-c1d7a332d5ea",
+    "title": "Hybrid persona system",
+    "source_file": "conversations-017.json",
+    "message_count": 26
+  },
+  {
+    "id": "6944126b-d188-832c-9656-a050e56afa47",
+    "title": "AI product creation engine",
+    "source_file": "conversations-017.json",
+    "message_count": 18
+  },
+  {
+    "id": "69448e61-2dec-8332-a0ce-71b55ac80c88",
+    "title": "ScoreApp White-label software strategy",
+    "source_file": "conversations-017.json",
+    "message_count": 10
+  },
+  {
+    "id": "694496c1-e0d0-8331-b75a-f1090760aa0c",
+    "title": "Python system creation",
+    "source_file": "conversations-017.json",
+    "message_count": 8
+  },
+  {
+    "id": "6944989e-a434-8326-90ed-650b4d8b2b48",
+    "title": "Python code foundation",
+    "source_file": "conversations-017.json",
+    "message_count": 2
+  },
+  {
+    "id": "6944c457-02f4-8329-be49-d0131133b237",
+    "title": "Python multi-cloud sales platform",
+    "source_file": "conversations-017.json",
+    "message_count": 56
+  },
+  {
+    "id": "6944d654-6208-8329-8095-13815acbd70c",
+    "title": "CFO automation in Python",
+    "source_file": "conversations-017.json",
+    "message_count": 18
+  },
+  {
+    "id": "6944e1ee-4a24-832b-a4ee-5dcd0220287d",
+    "title": "Tri-mode workspace setup",
+    "source_file": "conversations-017.json",
+    "message_count": 4
+  },
+  {
+    "id": "6944ee99-4020-8331-aeb5-e82ad6afb718",
+    "title": "Modular AI system",
+    "source_file": "conversations-017.json",
+    "message_count": 26
+  },
+  {
+    "id": "6944fc42-1938-832a-ac9a-2c62cf97e664",
+    "title": "Logistics HQ framework design",
+    "source_file": "conversations-017.json",
+    "message_count": 20
+  },
+  {
+    "id": "694509df-88e0-8329-abce-245b34d4d2da",
+    "title": "Autonomous enterprise system",
+    "source_file": "conversations-017.json",
+    "message_count": 8
+  },
+  {
+    "id": "6945c0b1-1b64-8326-a7dd-a30c0ab64cf9",
+    "title": "AI leadership bench system",
+    "source_file": "conversations-017.json",
+    "message_count": 32
+  },
+  {
+    "id": "6945c229-2b80-8325-ba83-080068865577",
+    "title": "Explore AI templates",
+    "source_file": "conversations-017.json",
+    "message_count": 48
+  },
+  {
+    "id": "6945e0a1-3988-8325-9930-8b836ef88e62",
+    "title": "AI marketing orchestration integration",
+    "source_file": "conversations-017.json",
+    "message_count": 20
+  },
+  {
+    "id": "6945e94d-eb04-8325-acbd-102d985dfc74",
+    "title": "Drip-feed content scheduler",
+    "source_file": "conversations-017.json",
+    "message_count": 26
+  },
+  {
+    "id": "6945f3b0-5758-8329-96c8-d9e500dc5501",
+    "title": "Python screen-reader script",
+    "source_file": "conversations-017.json",
+    "message_count": 64
+  },
+  {
+    "id": "69461e18-be90-8333-889a-1ed028d41611",
+    "title": "Systems visionary explained",
+    "source_file": "conversations-017.json",
+    "message_count": 24
+  },
+  {
+    "id": "69463583-e280-8333-b2f5-6bf4be9fb14a",
+    "title": "Python LLM evaluation system",
+    "source_file": "conversations-017.json",
+    "message_count": 16
+  },
+  {
+    "id": "6946501d-1780-8329-bef2-f5c06c1cd93c",
+    "title": "Voltron 3.0 analysis",
+    "source_file": "conversations-018.json",
+    "message_count": 30
+  },
+  {
+    "id": "6946899e-581c-8329-b1de-76953109a9d8",
+    "title": "Marketing expertise search results",
+    "source_file": "conversations-018.json",
+    "message_count": 80
+  },
+  {
+    "id": "6946a17a-4764-8332-ae14-85f81eb4224c",
+    "title": "Success and time gap",
+    "source_file": "conversations-018.json",
+    "message_count": 24
+  },
+  {
+    "id": "6946a901-9a58-8331-8457-f120affa3677",
+    "title": "Growth-Productivity Brain AI",
+    "source_file": "conversations-018.json",
+    "message_count": 12
+  },
+  {
+    "id": "6946b0e8-9fb8-8330-b80a-9ed8cc7d0b54",
+    "title": "Support team clarification",
+    "source_file": "conversations-018.json",
+    "message_count": 54
+  },
+  {
+    "id": "69472f07-95d0-832d-ad68-088eb5414ec8",
+    "title": "Craigslist job automation system",
+    "source_file": "conversations-018.json",
+    "message_count": 26
+  },
+  {
+    "id": "69473c8d-f1ac-832b-9a45-e981513ebfb7",
+    "title": "Businesses using Arbitrage Machine",
+    "source_file": "conversations-018.json",
+    "message_count": 64
+  },
+  {
+    "id": "69474841-3d78-8325-bd90-ee603d2558fb",
+    "title": "AI-powered hybrid business",
+    "source_file": "conversations-018.json",
+    "message_count": 56
+  },
+  {
+    "id": "69478f57-fe50-832c-b71a-283800eeb8a8",
+    "title": "Python funding rate arbitrage",
+    "source_file": "conversations-018.json",
+    "message_count": 44
+  },
+  {
+    "id": "6947b25d-e744-832d-8c7d-61c09895375f",
+    "title": "AI agency business model",
+    "source_file": "conversations-018.json",
+    "message_count": 18
+  },
+  {
+    "id": "6947c771-4590-8327-b1c2-cd1326336a1f",
+    "title": "Fusion vs fission portability",
+    "source_file": "conversations-018.json",
+    "message_count": 66
+  },
+  {
+    "id": "6947f2cf-a70c-832f-9389-f3742d8f6692",
+    "title": "Tsunami shield concept",
+    "source_file": "conversations-018.json",
+    "message_count": 18
+  },
+  {
+    "id": "6948016b-d240-8333-b1cf-50110f6ff4e8",
+    "title": "AI business consultant code",
+    "source_file": "conversations-018.json",
+    "message_count": 16
+  },
+  {
+    "id": "694807b0-cbb0-8329-9751-c23c0002889f",
+    "title": "Python agent orchestration",
+    "source_file": "conversations-018.json",
+    "message_count": 10
+  },
+  {
+    "id": "6948096e-ec9c-8332-b00d-26acde64c92b",
+    "title": "AI business consulting hub",
+    "source_file": "conversations-018.json",
+    "message_count": 4
+  },
+  {
+    "id": "69489466-5c44-8326-9b68-c7383f765e21",
+    "title": "Laundromat blueprint 6 streams",
+    "source_file": "conversations-018.json",
+    "message_count": 26
+  },
+  {
+    "id": "6948b0d0-0288-832d-ace7-f85866721ae2",
+    "title": "COPD self-assessment guide",
+    "source_file": "conversations-018.json",
+    "message_count": 18
+  },
+  {
+    "id": "6948c3ed-d6c8-832c-a3dd-277840a5ad32",
+    "title": "Duct cleaning business pros and cons",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694922b9-1550-8329-a19f-49a41ae10b82",
+    "title": "Arizona Texas distance comparison",
+    "source_file": "conversations-018.json",
+    "message_count": 4
+  },
+  {
+    "id": "6949a0bc-4690-832c-8d33-665dab8df2a5",
+    "title": "Uses of Raspberry Pi 5",
+    "source_file": "conversations-018.json",
+    "message_count": 76
+  },
+  {
+    "id": "6949fb00-4c84-832b-8623-dccdde2fc110",
+    "title": "Python Cash Intelligence Engine",
+    "source_file": "conversations-018.json",
+    "message_count": 20
+  },
+  {
+    "id": "694a0e40-e394-832b-af39-e7240a313193",
+    "title": "AI in Human Roles",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694a4942-f148-832c-8b55-88878048383d",
+    "title": "Hypori System Uses",
+    "source_file": "conversations-018.json",
+    "message_count": 8
+  },
+  {
+    "id": "694a4eaa-085c-832b-bfc1-aa9cf60f1fd7",
+    "title": "Global Agent Factory Explanation",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694a55de-abf0-8326-b03f-1f8211c4e3b0",
+    "title": "System plan concept discussion",
+    "source_file": "conversations-018.json",
+    "message_count": 8
+  },
+  {
+    "id": "694a5e6c-7af0-832f-8c50-a028acbb09ea",
+    "title": "AIPhone Concept Inquiry",
+    "source_file": "conversations-018.json",
+    "message_count": 46
+  },
+  {
+    "id": "694b1009-0a74-8329-95eb-a451101c8315",
+    "title": "Automation in Python",
+    "source_file": "conversations-018.json",
+    "message_count": 39
+  },
+  {
+    "id": "694b1c91-2b6c-832b-b5a0-012871ad53a3",
+    "title": "AI Valet System Blueprint",
+    "source_file": "conversations-018.json",
+    "message_count": 70
+  },
+  {
+    "id": "694b2d1d-6120-8329-a46c-4d5d4046e30f",
+    "title": "AI-driven Life Hack App",
+    "source_file": "conversations-018.json",
+    "message_count": 38
+  },
+  {
+    "id": "694b36b1-0c74-832d-a80b-36950ca28b5c",
+    "title": "Connecting 5 Raspberry Pis",
+    "source_file": "conversations-018.json",
+    "message_count": 12
+  },
+  {
+    "id": "694b4338-a928-8328-bb74-0a83eccc4257",
+    "title": "Agricultural Market Python Tool",
+    "source_file": "conversations-018.json",
+    "message_count": 4
+  },
+  {
+    "id": "694b62d1-2854-8332-a00f-b7de1f2ea50f",
+    "title": "Population Growth Post-COVID",
+    "source_file": "conversations-018.json",
+    "message_count": 80
+  },
+  {
+    "id": "694b8166-f8c4-832e-a28b-5c0548c064ba",
+    "title": "Transcribing as Business Model",
+    "source_file": "conversations-018.json",
+    "message_count": 54
+  },
+  {
+    "id": "694b9729-9b30-8329-b9e7-1b4d24e8acd4",
+    "title": "Neuron-EMP v5.2 Launch",
+    "source_file": "conversations-018.json",
+    "message_count": 8
+  },
+  {
+    "id": "694b9abd-4dc0-8332-a7ba-bddc47ef6159",
+    "title": "AI Social Media Specialist",
+    "source_file": "conversations-018.json",
+    "message_count": 58
+  },
+  {
+    "id": "694bbbf4-d1cc-832a-803a-597fe5db7f53",
+    "title": "Python Multi-Agent Framework",
+    "source_file": "conversations-018.json",
+    "message_count": 14
+  },
+  {
+    "id": "694bc348-d6c0-8333-93fa-83324976b55a",
+    "title": "Dev Specs for OrgOS",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694c156b-399c-8328-a39f-8295c8d75479",
+    "title": "Truth Engine Conversion",
+    "source_file": "conversations-018.json",
+    "message_count": 97
+  },
+  {
+    "id": "694c22c5-c344-8332-b896-20923fe60ea5",
+    "title": "Course Factory OS",
+    "source_file": "conversations-018.json",
+    "message_count": 48
+  },
+  {
+    "id": "694c4762-1ad8-832d-b686-13d1c5f466af",
+    "title": "Salesforce GTM Autopilot",
+    "source_file": "conversations-018.json",
+    "message_count": 80
+  },
+  {
+    "id": "694c5624-5ca8-8326-a4ad-91d47195c746",
+    "title": "RevOps Team Structure",
+    "source_file": "conversations-018.json",
+    "message_count": 22
+  },
+  {
+    "id": "694c7541-1540-8325-868e-e184b69c0699",
+    "title": "AI Hub in Python",
+    "source_file": "conversations-018.json",
+    "message_count": 18
+  },
+  {
+    "id": "694c901e-d938-8325-ad31-10964f1d19e7",
+    "title": "Trump Law Business Benefits",
+    "source_file": "conversations-018.json",
+    "message_count": 14
+  },
+  {
+    "id": "694c9d02-9e18-8325-b10d-ccd86241584b",
+    "title": "Trump's New Laws Plan",
+    "source_file": "conversations-018.json",
+    "message_count": 4
+  },
+  {
+    "id": "694c9dd4-5c08-8331-a243-76759e9d3ddc",
+    "title": "Retire by 2026 Plan",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694c9fe6-6c3c-832d-99cf-a9533d7e514e",
+    "title": "Plan to Retire by 2026",
+    "source_file": "conversations-018.json",
+    "message_count": 12
+  },
+  {
+    "id": "694ca076-ed8c-832e-9d87-e7a6f4ee6148",
+    "title": "Credit Score Improvement Plan",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694ca1f8-4680-8333-b4f3-dddfe3a22186",
+    "title": "Franchise and Real Estate Plan",
+    "source_file": "conversations-018.json",
+    "message_count": 4
+  },
+  {
+    "id": "694ca521-b87c-8333-ad11-8e981825871f",
+    "title": "Credit Repair Business Plan",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694ca8b2-6ee0-8325-875a-f4a8085fd165",
+    "title": "Credit Repair Laws Clarified",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694cac99-e6e4-832b-b2f2-956d25d8e236",
+    "title": "Business Credit Plan",
+    "source_file": "conversations-018.json",
+    "message_count": 6
+  },
+  {
+    "id": "694cad49-fcec-832d-9887-9f2f1374a7e9",
+    "title": "Chapter 7 Bankruptcy Info",
+    "source_file": "conversations-018.json",
+    "message_count": 132
+  },
+  {
+    "id": "694cd5a2-6364-8330-b3e0-0039a55397d5",
+    "title": "Business Credit Utilization Setup",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694cd67b-8864-832b-abe9-3c7b3b314201",
+    "title": "AI Financial Operations Manager",
+    "source_file": "conversations-018.json",
+    "message_count": 22
+  },
+  {
+    "id": "694ce912-0d74-832e-9b7a-fb9ad03fe95b",
+    "title": "Top Medical Courier Jobs",
+    "source_file": "conversations-018.json",
+    "message_count": 4
+  },
+  {
+    "id": "694d0186-2764-8326-bd4a-8d787b613943",
+    "title": "Tax Optimization Plan",
+    "source_file": "conversations-018.json",
+    "message_count": 10
+  },
+  {
+    "id": "694d07d7-6a68-832f-98b3-9dc7922d578b",
+    "title": "Cell Towers and Solar",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694d08f8-b914-8333-9195-7b9ff67fed2f",
+    "title": "Real Estate Flywheel Explained",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694d0b90-01c8-832e-85cb-585266996f0e",
+    "title": "Building an Institutional Platform",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694d0c03-12e8-8331-bf63-9f70b3712c79",
+    "title": "Company Structure Blueprint",
+    "source_file": "conversations-018.json",
+    "message_count": 6
+  },
+  {
+    "id": "694d0ed7-1460-8327-afb6-1136d0180f47",
+    "title": "AI Governance System",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694d38f9-ae18-8333-b644-643827804889",
+    "title": "Brand Identity vs Individual",
+    "source_file": "conversations-018.json",
+    "message_count": 8
+  },
+  {
+    "id": "694d39af-b72c-8332-93ca-bb60899bab68",
+    "title": "Mission Statement Creation",
+    "source_file": "conversations-018.json",
+    "message_count": 14
+  },
+  {
+    "id": "694d3e6e-7f00-8330-ba94-bf788b2584f5",
+    "title": "Brand Identity Python Generator",
+    "source_file": "conversations-018.json",
+    "message_count": 22
+  },
+  {
+    "id": "694d5025-a154-832f-ae7b-1f8d70fc627e",
+    "title": "5 Cs System",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694d50d6-0b64-832a-a70e-7bb99e222622",
+    "title": "5 Cs M5 Fusion",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694d52cf-5348-832a-ae82-7aab757673a4",
+    "title": "5 Cs M5 24 Triggers",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694d539b-fd68-832f-982d-c9f7f01e4969",
+    "title": "Quad-Stack System Integration",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694d5508-5860-832f-b638-e2374d3b9e79",
+    "title": "Branding with NEPQ",
+    "source_file": "conversations-018.json",
+    "message_count": 6
+  },
+  {
+    "id": "694d5870-1ca4-8328-9fb8-e8591cc78227",
+    "title": "Persona Marketing + Branding",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694d5939-bfa8-832b-9eea-a0b84917fbf3",
+    "title": "Persona Marketing × Quad-Stack",
+    "source_file": "conversations-018.json",
+    "message_count": 4
+  },
+  {
+    "id": "694d5a53-db2c-8330-9c70-f5fdb0a3e7c4",
+    "title": "Persona Alignment Scoring",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694d86e3-463c-832b-be34-284e70b2db36",
+    "title": "Matt Bacak Strategy Breakdown",
+    "source_file": "conversations-018.json",
+    "message_count": 119
+  },
+  {
+    "id": "694d8b3b-8ff0-832f-a469-3f6154399099",
+    "title": "Mind Control Marketing Explained",
+    "source_file": "conversations-018.json",
+    "message_count": 14
+  },
+  {
+    "id": "694d966b-d408-832c-84e8-f57577dba029",
+    "title": "e-Farming $100/Day Guide",
+    "source_file": "conversations-018.json",
+    "message_count": 8
+  },
+  {
+    "id": "694db5ba-7f90-8329-a48c-a82f2b3b1f99",
+    "title": "Good Traffic Evaluation",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694e29d9-0874-832f-9d0f-3ae439a56a72",
+    "title": "Patch Review and Suggestions",
+    "source_file": "conversations-018.json",
+    "message_count": 12
+  },
+  {
+    "id": "694e3bed-ce8c-832e-9ab7-6217978c9338",
+    "title": "AI Email Scouter System",
+    "source_file": "conversations-018.json",
+    "message_count": 34
+  },
+  {
+    "id": "694e4380-1c78-8331-b2cb-88c095b45f68",
+    "title": "Hybrid Kheifets Bacak Framework",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694e4509-174c-8328-b28c-699b49fab719",
+    "title": "Air and Water Purification Enzymes",
+    "source_file": "conversations-018.json",
+    "message_count": 39
+  },
+  {
+    "id": "694e5ab1-bb20-8329-9166-273f3c4f0969",
+    "title": "Motivated Line in Business",
+    "source_file": "conversations-018.json",
+    "message_count": 20
+  },
+  {
+    "id": "694e7431-64bc-8330-b3c0-deaf2e4da33a",
+    "title": "Automation Blueprint Guide",
+    "source_file": "conversations-018.json",
+    "message_count": 8
+  },
+  {
+    "id": "694e77ec-114c-832e-bfe2-e95a6b1d97dc",
+    "title": "Platform Portability Mapping",
+    "source_file": "conversations-018.json",
+    "message_count": 14
+  },
+  {
+    "id": "694e8313-29e4-832e-9161-55efd70cb4bd",
+    "title": "Automated Offer Generator",
+    "source_file": "conversations-018.json",
+    "message_count": 40
+  },
+  {
+    "id": "694e90e6-1c3c-832b-ba31-2a787bbb4b38",
+    "title": "Python Code Generation Prompt",
+    "source_file": "conversations-018.json",
+    "message_count": 16
+  },
+  {
+    "id": "694e92d5-630c-832a-bd91-4c06e2543f11",
+    "title": "Specific Business Objectives",
+    "source_file": "conversations-018.json",
+    "message_count": 36
+  },
+  {
+    "id": "694e9ac4-466c-8330-a0df-89184970fad1",
+    "title": "Brand Presence Audit",
+    "source_file": "conversations-018.json",
+    "message_count": 2
+  },
+  {
+    "id": "694e9af5-6d14-832d-9933-52c1949cc576",
+    "title": "Business Audit Guide",
+    "source_file": "conversations-018.json",
+    "message_count": 4
+  },
+  {
+    "id": "694e9b23-6738-8327-8c27-3a43086235d5",
+    "title": "Audit Client Process",
+    "source_file": "conversations-018.json",
+    "message_count": 4
+  },
+  {
+    "id": "694e9cd2-4e08-8333-b87f-463bbe855585",
+    "title": "Legacy Forge Growth Roadmap",
+    "source_file": "conversations-018.json",
+    "message_count": 3
+  },
+  {
+    "id": "694f1f76-6af8-8331-9b45-0c47df5a0bc4",
+    "title": "Data Performance Strategy",
+    "source_file": "conversations-018.json",
+    "message_count": 32
+  },
+  {
+    "id": "694f3a97-7fd8-832b-851e-87ea8dc93556",
+    "title": "Human Evolution Timeframe",
+    "source_file": "conversations-018.json",
+    "message_count": 6
+  },
+  {
+    "id": "694f3cf5-18d0-8329-8dd7-9255b40744ff",
+    "title": "Music and Personality Traits",
+    "source_file": "conversations-018.json",
+    "message_count": 8
+  },
+  {
+    "id": "694f3df8-8b78-832d-b11c-f185df82e566",
+    "title": "Hybrid Persona-Trait Formula",
+    "source_file": "conversations-018.json",
+    "message_count": 4
+  },
+  {
+    "id": "694f3ef8-2f14-832b-8c78-a54782911063",
+    "title": "Persuasion Targeting Hybrid System",
+    "source_file": "conversations-018.json",
+    "message_count": 10
+  },
+  {
+    "id": "694f5377-b6d4-8331-ae48-bce56afb6e9d",
+    "title": "Getting Loan with Bad Credit",
+    "source_file": "conversations-018.json",
+    "message_count": 8
+  },
+  {
+    "id": "694f53f7-3c58-832d-af4f-61f93d290538",
+    "title": "Chapter 7 Loan Options",
+    "source_file": "conversations-018.json",
+    "message_count": 4
+  },
+  {
+    "id": "694f57df-3fe0-832b-80a8-3715d66aead8",
+    "title": "Execution vs Planning",
+    "source_file": "conversations-018.json",
+    "message_count": 6
+  },
+  {
+    "id": "694f5933-5b88-832b-aca5-c9c4f7ca71aa",
+    "title": "$25K Launchpad Playbook",
+    "source_file": "conversations-018.json",
+    "message_count": 8
+  },
+  {
+    "id": "694f5d2a-8c2c-8330-9cae-0dedd006a9e2",
+    "title": "Saving for 25k",
+    "source_file": "conversations-018.json",
+    "message_count": 4
+  },
+  {
+    "id": "694f699e-e87c-832b-a9bb-9134c21770e9",
+    "title": "Business vs Street Hustle",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "694f6b33-2424-8333-80cb-53ff82ccfb75",
+    "title": "Hustle to Asset System",
+    "source_file": "conversations-019.json",
+    "message_count": 12
+  },
+  {
+    "id": "694f6d46-bdb4-8325-9480-eb24042ff925",
+    "title": "Legacy Charity Flywheel",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "694f7534-8cb8-8333-8b28-0ffc16effe6a",
+    "title": "Neanderthals and Human Evolution",
+    "source_file": "conversations-019.json",
+    "message_count": 62
+  },
+  {
+    "id": "694f82e1-c4b4-8331-ad86-9ade0f1b510b",
+    "title": "Evolutionary Enterprise Blueprint",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "694f83d4-00f4-8332-8c72-faa7362733d6",
+    "title": "Niche and Avatar Strategy",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "694f860a-0df8-8330-b914-627d08c3f423",
+    "title": "Python Lead Generation Tool",
+    "source_file": "conversations-019.json",
+    "message_count": 10
+  },
+  {
+    "id": "694f8883-2f10-832f-8063-12a512f4bcc5",
+    "title": "Automating Magnet System",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "694f8ef5-3bc8-832d-a706-d0328ddced28",
+    "title": "Startup Ops Machine Blueprint",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "694f91b8-0ea8-8327-a66d-cbf2c3f5e3ce",
+    "title": "Notion Template Python Code",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "694f9356-d114-8329-8026-81a43309ac74",
+    "title": "Notion Template Factory",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "694f96ca-9530-832d-ab8c-b55eafd98474",
+    "title": "Notion Adjacent App Ideas",
+    "source_file": "conversations-019.json",
+    "message_count": 24
+  },
+  {
+    "id": "694faedc-f560-8333-bde8-2d358fd06520",
+    "title": "Legal AI Product Creation",
+    "source_file": "conversations-019.json",
+    "message_count": 8
+  },
+  {
+    "id": "694fb745-f1b8-8328-b422-c08e2487aa12",
+    "title": "Prompt Optimization Best Practices",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "694fba45-606c-8329-ad5e-0e1fb60b33ac",
+    "title": "SEO GEO Hybrid Strategy",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "694fbbfe-6f1c-832b-b919-16ba48db3b63",
+    "title": "Hybrid SEO GEO Engine",
+    "source_file": "conversations-019.json",
+    "message_count": 12
+  },
+  {
+    "id": "694fc5e6-9744-832a-9c2f-b00c92b73858",
+    "title": "AI Content Generator Prompt",
+    "source_file": "conversations-019.json",
+    "message_count": 28
+  },
+  {
+    "id": "694fd18b-9790-8325-a0ec-394167daaf19",
+    "title": "Removing AI Footprints",
+    "source_file": "conversations-019.json",
+    "message_count": 12
+  },
+  {
+    "id": "694fda28-0a04-8325-b61b-73972892fb03",
+    "title": "AI Conversations Strategy",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "694fe0cf-d4bc-832d-9db1-cbb2cb92432b",
+    "title": "KFC Framework Playbook",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "694ffdc9-3990-832b-b5b6-3bd5ea28fa2b",
+    "title": "Marketing to a Broad Market",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "694fff18-550c-832b-8e78-21b6a972e376",
+    "title": "TikTok Shop Product Strategy",
+    "source_file": "conversations-019.json",
+    "message_count": 8
+  },
+  {
+    "id": "695004b7-8080-8327-b7e9-938b82d5b471",
+    "title": "Market Tensions for Business",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "695007b6-16f8-8329-84cb-74cfc423b1fe",
+    "title": "System Replacement Strategy",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "69500b11-e20c-832d-a03f-3ecf989bcc88",
+    "title": "Founder Extraction System",
+    "source_file": "conversations-019.json",
+    "message_count": 14
+  },
+  {
+    "id": "69501419-5040-8328-b7b8-f83777a6de1f",
+    "title": "Video Funnel Strategy",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "69501856-9fc4-8329-84b5-e4b52614f150",
+    "title": "AI Ad Automation Systems",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "695038f8-b59c-8325-a827-4f249d23c326",
+    "title": "Replit Python Launch Guide",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "695039d0-d9a4-832b-816f-48c0f3f6dc94",
+    "title": "Static Website Explanation",
+    "source_file": "conversations-019.json",
+    "message_count": 22
+  },
+  {
+    "id": "695043b7-d3f0-8331-bba7-9a43cbd7bd8b",
+    "title": "Notion HTML Workarounds",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "695045cf-956c-832f-b247-8b528b8a4353",
+    "title": "Automating Code in Replit",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "695068c4-6a80-832f-a120-089476af4b72",
+    "title": "$5K Small Business Grants",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "695076b3-7228-832a-b3cd-1445cb593177",
+    "title": "Business Setup Dubai Account",
+    "source_file": "conversations-019.json",
+    "message_count": 34
+  },
+  {
+    "id": "69508ef0-5b40-8325-b78e-935d02793d7c",
+    "title": "Trust-Owned Life Insurance",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "69509412-abd8-8333-9200-072608d6e9cd",
+    "title": "Tax Strategies for W-2",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "69509629-5d60-8329-a7d3-52dcf3d6f2f3",
+    "title": "19-Year-Old Saving Plan",
+    "source_file": "conversations-019.json",
+    "message_count": 48
+  },
+  {
+    "id": "6950a293-8c88-8329-95b9-dec4e02d500d",
+    "title": "Setting up S-Corp for Minor",
+    "source_file": "conversations-019.json",
+    "message_count": 40
+  },
+  {
+    "id": "6950a2fc-fa40-832a-b2e0-9f1378142123",
+    "title": "Child Support Payment Calculation",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "6950abd6-83e0-8330-92a1-848965f47d57",
+    "title": "Airbnb Profitability in SK",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "6950ac0e-7414-832d-9640-3f85eb84ab29",
+    "title": "Top Airbnb Investment Cities",
+    "source_file": "conversations-019.json",
+    "message_count": 8
+  },
+  {
+    "id": "6950b143-e250-8328-a79b-c617a1a66881",
+    "title": "Shotstack Video Editing API",
+    "source_file": "conversations-019.json",
+    "message_count": 8
+  },
+  {
+    "id": "6950b51b-fa8c-832d-89cd-4a72c448f4f9",
+    "title": "Early Retirement Plan",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "6950b5d7-7878-8332-a54c-b230b7a7869f",
+    "title": "Inflation structure clarification",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "6950b8d3-e5ec-8330-87e8-e69159c1a3f9",
+    "title": "Two-Time Close Loan",
+    "source_file": "conversations-019.json",
+    "message_count": 8
+  },
+  {
+    "id": "6950c1f9-3c38-8329-b216-746cfebdd2a8",
+    "title": "Grant Cardone Depreciation Strategy",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "6950c56d-7400-8325-a23b-8bce573d6fff",
+    "title": "Fighting Child Support Case",
+    "source_file": "conversations-019.json",
+    "message_count": 10
+  },
+  {
+    "id": "6950dc66-c3b0-832f-b4c5-89e381c5e8cc",
+    "title": "AI Growth Infrastructure",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "6950dcb4-c4dc-8333-b9da-d266c7c455b5",
+    "title": "PrimeLive.ai System Overview",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "6950dfb2-a6ec-8325-8b80-1aacfe4c00d0",
+    "title": "AI Growth Infrastructure",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "6950e5a7-1028-8325-bfc6-02c9c8c54ba2",
+    "title": "AI Growth System List",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "6950ed61-730c-8330-b458-a0d7fe7aa27d",
+    "title": "System Implementation Breakdown",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "6950f2f1-bb94-832e-a67d-a3862c821007",
+    "title": "Tech Stack Deployment Plan",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "6950f715-b850-832c-b407-8c7986e8da95",
+    "title": "Custom AI System Build",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "6950fea0-d2bc-832c-98bd-93b63f1940ff",
+    "title": "Objection Prioritization System",
+    "source_file": "conversations-019.json",
+    "message_count": 14
+  },
+  {
+    "id": "6950fee3-8bfc-832a-9dee-a509e31b2aa7",
+    "title": "Notion Template Design Guide",
+    "source_file": "conversations-019.json",
+    "message_count": 8
+  },
+  {
+    "id": "69510323-3cf0-832f-8fbf-3a58517b507d",
+    "title": "Revenue Alert System Advice",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "6951070a-e834-8331-98c2-7d8fb60ee451",
+    "title": "Compliance Lead Intake Flow",
+    "source_file": "conversations-019.json",
+    "message_count": 10
+  },
+  {
+    "id": "69510f98-4184-8325-b7ea-fd47013e3180",
+    "title": "Blackstone or person?",
+    "source_file": "conversations-019.json",
+    "message_count": 10
+  },
+  {
+    "id": "695112bc-9090-832e-9004-eb70aefef8c7",
+    "title": "Real Estate Strategy Plan",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "695112fb-93b0-8326-a271-3c3abd46eba9",
+    "title": "Real Estate Strategy Plan",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "695116b8-efc4-832e-8912-f206a3684e10",
+    "title": "Wholesale Notion Ecosystem",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "695116d4-f78c-832d-8f4b-8b1839ab9ab8",
+    "title": "Real estate investment strategies",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "69512622-1fb8-8329-8d34-7d253ab0904a",
+    "title": "Tech Horror Skit Idea",
+    "source_file": "conversations-019.json",
+    "message_count": 8
+  },
+  {
+    "id": "69512ef1-a704-8327-b882-343b138e5595",
+    "title": "Real Estate Tool Upgrade",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "69513436-88cc-8329-b426-4cf3250f0867",
+    "title": "Real-Estate Platform Feedback",
+    "source_file": "conversations-019.json",
+    "message_count": 114
+  },
+  {
+    "id": "6951fcf9-e344-8330-a142-908af7cd2739",
+    "title": "1099-A vs 1099-C",
+    "source_file": "conversations-019.json",
+    "message_count": 8
+  },
+  {
+    "id": "6952114b-1668-832d-bc82-5486970b04a1",
+    "title": "Business Legends Blueprint",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "69521292-58c0-832f-b765-99a975b581c2",
+    "title": "Building Factories Mindset",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "69521799-6b44-8327-bc0e-5c4c16549031",
+    "title": "Best Office Locations",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "69522006-86d4-832d-bd19-efe3b45a546c",
+    "title": "Why Billions Take Time",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "69522bd3-40b8-832e-b0bc-a92e3613befd",
+    "title": "Marketing Intelligence Framework",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "69522e94-2424-8328-8e8b-634fd87ea08d",
+    "title": "AI Interactive Video Dashboard",
+    "source_file": "conversations-019.json",
+    "message_count": 12
+  },
+  {
+    "id": "69522fa0-44cc-8327-ad9e-b919cebc4d9d",
+    "title": "Funnel.io Technology Overview",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "6952432d-5388-8332-b3ca-9d89a29f24a0",
+    "title": "AI Specialist for Automation",
+    "source_file": "conversations-019.json",
+    "message_count": 8
+  },
+  {
+    "id": "69525563-c6fc-832d-9ae6-ef5040d4affe",
+    "title": "False Closure Theater",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "695258b8-4180-8333-bb81-bef884eff2ce",
+    "title": "Killer Misdirect Gag",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "69525c0c-156c-832f-a26b-ccd7a5da1acb",
+    "title": "AI Specialist Personas",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "69525ebb-dc90-832a-9f17-01e52ad0d800",
+    "title": "AI Ops Python Spec",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "69526221-40f0-8326-aaf4-d88bf5ae940b",
+    "title": "AI for Real Estate Deals",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "6952637d-23c0-8329-bbdf-e6eb072baa4b",
+    "title": "AI Operations Assistant",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "6952647c-7034-8333-bc14-664b6d606b1b",
+    "title": "Notion Call Transcripts",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "695267d3-a018-832c-8051-cd4590688d0b",
+    "title": "Apollo Clay Aircall Integration",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "69526aff-c818-8327-b75a-aa7e847a01f8",
+    "title": "Notion Offline Workspace Ideas",
+    "source_file": "conversations-019.json",
+    "message_count": 60
+  },
+  {
+    "id": "69528b2e-78a4-8332-acaf-efcf42951fae",
+    "title": "AI for Simple Python Projects",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "69528c93-9e48-8330-9277-66608035e614",
+    "title": "Starting Business with Pi 5",
+    "source_file": "conversations-019.json",
+    "message_count": 36
+  },
+  {
+    "id": "69529297-4194-8325-b7c6-6d5745822bd0",
+    "title": "Hybrid Motivational Quotes",
+    "source_file": "conversations-019.json",
+    "message_count": 18
+  },
+  {
+    "id": "69529c99-a4b4-8328-a4a8-06f146376c06",
+    "title": "Vision Execution Team",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "69532557-ba9c-8329-808d-e0c1ef2201f9",
+    "title": "Rental Strategies and Business Ideas",
+    "source_file": "conversations-019.json",
+    "message_count": 12
+  },
+  {
+    "id": "695333b4-8a84-8330-a845-cee2a42502c6",
+    "title": "Notion Real Estate System",
+    "source_file": "conversations-019.json",
+    "message_count": 50
+  },
+  {
+    "id": "695338c0-9ed8-832d-a035-64235580535a",
+    "title": "Sell Anything System Notion",
+    "source_file": "conversations-019.json",
+    "message_count": 6
+  },
+  {
+    "id": "695345b7-e534-832c-818c-f2ce97830c00",
+    "title": "Gym Teacher Playbook Guide",
+    "source_file": "conversations-019.json",
+    "message_count": 14
+  },
+  {
+    "id": "69534845-e130-832d-a06a-49a816241461",
+    "title": "Business Playbook System",
+    "source_file": "conversations-019.json",
+    "message_count": 71
+  },
+  {
+    "id": "69534f72-f5cc-8327-91e3-4592393a83a3",
+    "title": "AI Business Coach",
+    "source_file": "conversations-019.json",
+    "message_count": 28
+  },
+  {
+    "id": "69535634-1f4c-8333-a8d2-1e36e6b89450",
+    "title": "System Integration Plan",
+    "source_file": "conversations-019.json",
+    "message_count": 14
+  },
+  {
+    "id": "6953581e-39cc-832d-9231-ccc48741f276",
+    "title": "Notion Dashboard for Training",
+    "source_file": "conversations-019.json",
+    "message_count": 8
+  },
+  {
+    "id": "69535947-bcf4-8326-9b9b-8bbd5aaf3814",
+    "title": "Executive Training Dashboard",
+    "source_file": "conversations-019.json",
+    "message_count": 16
+  },
+  {
+    "id": "69535a6d-337c-832f-af90-308dcb370c1d",
+    "title": "Python AI Notion Governance",
+    "source_file": "conversations-019.json",
+    "message_count": 4
+  },
+  {
+    "id": "69535b6b-da0c-8325-bf9b-276b5c6ecbfd",
+    "title": "Hiring for Executive Training",
+    "source_file": "conversations-019.json",
+    "message_count": 16
+  },
+  {
+    "id": "695361b4-96b8-8325-a176-ff5e77e792ea",
+    "title": "Sending Satellites in Orbit",
+    "source_file": "conversations-019.json",
+    "message_count": 2
+  },
+  {
+    "id": "695361ee-7c0c-832e-892d-d2dfd12be287",
+    "title": "Hiring Plan for $50k",
+    "source_file": "conversations-019.json",
+    "message_count": 22
+  },
+  {
+    "id": "6953710a-d514-8328-a9ac-7712adc54920",
+    "title": "AI Asset Operator System",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "69537145-7600-8332-9e2b-3db0d5c1d175",
+    "title": "AI Asset Operator System",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "695372c2-ea04-832d-b450-5fa762854a61",
+    "title": "Asset Operator Training Materials",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "695374a0-9018-8325-9549-70dbbf723b17",
+    "title": "AI Asset Governance Upgrade",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "69537a8c-9f5c-832c-9e3d-9fa2ad8f39f6",
+    "title": "Scaling 200 Businesses Fast",
+    "source_file": "conversations-020.json",
+    "message_count": 52
+  },
+  {
+    "id": "69538f61-8d5c-8325-becf-fbf44632ca38",
+    "title": "AI Governance in Notion",
+    "source_file": "conversations-020.json",
+    "message_count": 12
+  },
+  {
+    "id": "69539195-5c0c-8326-aa2a-bc78fded63a3",
+    "title": "Python Ad Content Selector",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "69539307-37b4-8332-a974-095615101a11",
+    "title": "Business Models for Beginners",
+    "source_file": "conversations-020.json",
+    "message_count": 2
+  },
+  {
+    "id": "6953936a-b0f0-832b-9ec9-1c4e4d8f5233",
+    "title": "Amazon FBA Profitability",
+    "source_file": "conversations-020.json",
+    "message_count": 16
+  },
+  {
+    "id": "695394b5-7c74-8333-9d31-cdf428110448",
+    "title": "Dropshipping Profitability Analysis",
+    "source_file": "conversations-020.json",
+    "message_count": 40
+  },
+  {
+    "id": "69539ff1-5d08-832e-928e-4dea54ddf22c",
+    "title": "Automating Digital Leasing",
+    "source_file": "conversations-020.json",
+    "message_count": 32
+  },
+  {
+    "id": "6953a4b2-213c-8333-9e73-f23afdbd69b6",
+    "title": "AI Governance Notion Dashboard",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "6953a83b-1bc0-8328-ba29-197bdf95b5b1",
+    "title": "Credit Efficiency Clarification",
+    "source_file": "conversations-020.json",
+    "message_count": 22
+  },
+  {
+    "id": "6953ae59-8ca4-832a-813f-54dea941b97e",
+    "title": "ICP Analysis Strategy",
+    "source_file": "conversations-020.json",
+    "message_count": 10
+  },
+  {
+    "id": "6953aeeb-79cc-832c-a0b3-6dec4b7c9e08",
+    "title": "AltaHQ Overview",
+    "source_file": "conversations-020.json",
+    "message_count": 22
+  },
+  {
+    "id": "6953b0d7-d708-8333-8229-6fafe1bdb300",
+    "title": "AI BDR Explained",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6953ba5a-02f4-8331-87a4-65602ed57c13",
+    "title": "ICP Ad Generator Python",
+    "source_file": "conversations-020.json",
+    "message_count": 10
+  },
+  {
+    "id": "6953bf97-c660-8333-a022-3d5ea3e66794",
+    "title": "Financial Health Diagnosis",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "6953c03a-8924-8331-9761-9fecea6b41ef",
+    "title": "Notion AI Dashboard",
+    "source_file": "conversations-020.json",
+    "message_count": 18
+  },
+  {
+    "id": "6953c3db-b568-8327-8861-d2cf8dccb337",
+    "title": "Using JSON in Airtable",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6953d00b-5f14-8331-9fdb-45f1bf9db1cd",
+    "title": "2026 $10K Investment Plan",
+    "source_file": "conversations-020.json",
+    "message_count": 2
+  },
+  {
+    "id": "6953d39d-1fb4-8331-8136-b2a10a7e9994",
+    "title": "$1M Retirement Plan",
+    "source_file": "conversations-020.json",
+    "message_count": 13
+  },
+  {
+    "id": "6953d87b-c64c-832c-9b57-50508dedcc14",
+    "title": "Python Chat History Integration",
+    "source_file": "conversations-020.json",
+    "message_count": 30
+  },
+  {
+    "id": "6953dfe7-fbf4-8333-b9f0-3e00a60e7ebc",
+    "title": "DAC Discussion",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "6953e0c4-4bd0-8330-a922-6dea236dff94",
+    "title": "Notion DAC AI Specialist",
+    "source_file": "conversations-020.json",
+    "message_count": 12
+  },
+  {
+    "id": "6953e173-c2e0-832f-891a-cbef4343da2e",
+    "title": "Finding Businesses Needing Funding",
+    "source_file": "conversations-020.json",
+    "message_count": 8
+  },
+  {
+    "id": "6953ebe4-3460-8327-b83f-b8e8204d5e96",
+    "title": "Companies Like DAC",
+    "source_file": "conversations-020.json",
+    "message_count": 20
+  },
+  {
+    "id": "6953ecc1-ff94-832a-8e9f-2fb5b5eccb25",
+    "title": "Funding Niche Breakdown",
+    "source_file": "conversations-020.json",
+    "message_count": 2
+  },
+  {
+    "id": "6953f167-4f38-832b-ab02-2ea033e8020b",
+    "title": "AI Business Validation Guide",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6953faa4-aa10-8325-9b31-efc36ee268c1",
+    "title": "FreedomPath Business Opportunity",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "695402ae-7aa8-8330-94d9-56829a94dac8",
+    "title": "Clients Paying for Lead Gen",
+    "source_file": "conversations-020.json",
+    "message_count": 24
+  },
+  {
+    "id": "69540df2-0cbc-8327-a155-358a3e20bca0",
+    "title": "Notion AI Dashboard",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6954128f-bd30-8327-a095-49df9494e290",
+    "title": "Notion Dashboard Blueprint",
+    "source_file": "conversations-020.json",
+    "message_count": 12
+  },
+  {
+    "id": "69541769-b240-8327-b985-2f582d43e98a",
+    "title": "Lead Buyer Map Blueprint",
+    "source_file": "conversations-020.json",
+    "message_count": 25
+  },
+  {
+    "id": "69541fad-27c8-832f-89d1-b8c250e88c81",
+    "title": "Lead System Dashboard",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "69542569-8538-832c-aefb-fa5d2a8edf3a",
+    "title": "Product Vision Strategies",
+    "source_file": "conversations-020.json",
+    "message_count": 2
+  },
+  {
+    "id": "695428eb-4ec4-8332-92cc-1c82e5099561",
+    "title": "Gray Area Monetization Tips",
+    "source_file": "conversations-020.json",
+    "message_count": 26
+  },
+  {
+    "id": "69542fcf-e3f8-8330-9825-44c1d8d842ff",
+    "title": "Real YouTube Content Preferences",
+    "source_file": "conversations-020.json",
+    "message_count": 2
+  },
+  {
+    "id": "6954302a-e3b8-832b-8f84-ce5bad03b1e7",
+    "title": "Faceless YouTube Channel Setup",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "6954317c-7934-8329-8c23-7866adeed8de",
+    "title": "TikTok YouTube Funnel Automation",
+    "source_file": "conversations-020.json",
+    "message_count": 2
+  },
+  {
+    "id": "695433f3-aee8-8327-8ff5-0e63d26401c0",
+    "title": "Reverse Flipping Explained",
+    "source_file": "conversations-020.json",
+    "message_count": 22
+  },
+  {
+    "id": "695437b4-b2f0-832d-a891-993e101873de",
+    "title": "Reverse Flipping Strategy",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "69543d8f-1308-8326-8357-a9b6f3c0ecc4",
+    "title": "Reverse Flipping Workflow",
+    "source_file": "conversations-020.json",
+    "message_count": 8
+  },
+  {
+    "id": "69543e0c-5778-8326-9aa3-07ab2a4bbd9e",
+    "title": "Python Workflow Integration",
+    "source_file": "conversations-020.json",
+    "message_count": 14
+  },
+  {
+    "id": "6954905a-4134-8328-b6eb-55d94e83d192",
+    "title": "LLC Business Credit Guide",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "69549322-fb4c-8333-86f5-ffd126fad62f",
+    "title": "Assets LLC Can Hold",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "695497d0-c4c8-832c-b820-719edeecc1a8",
+    "title": "LLC Vehicle Deduction Guide",
+    "source_file": "conversations-020.json",
+    "message_count": 14
+  },
+  {
+    "id": "6954a0c4-a840-832e-91d2-75e3e89983fc",
+    "title": "Cigarette Box Liner Fire Resistance",
+    "source_file": "conversations-020.json",
+    "message_count": 8
+  },
+  {
+    "id": "6954a4fe-cd08-8332-a9c0-03ba105d3fea",
+    "title": "Fire Containment Layers",
+    "source_file": "conversations-020.json",
+    "message_count": 22
+  },
+  {
+    "id": "6954b11b-7534-8330-a4e7-b07b5695901f",
+    "title": "Billion Dollar Companies",
+    "source_file": "conversations-020.json",
+    "message_count": 54
+  },
+  {
+    "id": "6954c49c-e124-8325-970c-694fa07ac0ce",
+    "title": "Notion Sales Training Dashboard",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6954c630-0bc0-8333-8ae5-f440ed0527e5",
+    "title": "NEPQ Sales Resistance Explained",
+    "source_file": "conversations-020.json",
+    "message_count": 22
+  },
+  {
+    "id": "6954cc31-7220-8326-a4eb-03be3e2ddb82",
+    "title": "Time and Mental Blocks",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "6954cd94-f58c-832d-9dcd-bd3775ca9fc6",
+    "title": "Chaos and Structure System",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6954cebd-5dac-8332-aae2-fcfd0878297d",
+    "title": "Business Flexi-Structure Calendar",
+    "source_file": "conversations-020.json",
+    "message_count": 2
+  },
+  {
+    "id": "6954cf35-5b04-832e-b336-051a1980ebbd",
+    "title": "Business-Focused Calendar",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6954d088-ba44-8325-af5e-b4377f5223c4",
+    "title": "Momentum Over Minutes",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6954d10d-9300-832a-b25a-35b6395c9505",
+    "title": "Flip the Calendar Mentality",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "6954d1b0-86c0-832c-883c-c0c01bc54338",
+    "title": "Energy-Based Work Strategy",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6954d2c2-70ac-8329-abac-29e0e883f11a",
+    "title": "Time as Resource Execution",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6954d37d-5534-8333-9248-37896d09dd38",
+    "title": "Immediate Action Loop",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6954d4f3-50ac-832d-b3eb-e2b8d757de61",
+    "title": "Business Time Philosophy",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6954d69f-0a70-832f-ae5d-6cd8343c4856",
+    "title": "Mental Freedom Framework",
+    "source_file": "conversations-020.json",
+    "message_count": 2
+  },
+  {
+    "id": "6954d6ef-e29c-832b-9f28-0372e56e4153",
+    "title": "Mental Freedom Calendar™ Design",
+    "source_file": "conversations-020.json",
+    "message_count": 2
+  },
+  {
+    "id": "6954d80f-ca70-8329-82af-0fc1d956cdd7",
+    "title": "Daily Reset Ritual",
+    "source_file": "conversations-020.json",
+    "message_count": 2
+  },
+  {
+    "id": "6954d924-7c54-8327-9d61-15078da98172",
+    "title": "Daily Reset Execution",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6954e42c-4c94-8325-90c0-61e8f09a7b1b",
+    "title": "Dream Killers Division",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "6954e887-a2a4-832b-948c-7a0cfccc2d48",
+    "title": "Incremental System Implementation",
+    "source_file": "conversations-020.json",
+    "message_count": 10
+  },
+  {
+    "id": "6954eb1b-dc00-832c-8dab-89129c2c2f1a",
+    "title": "Notion Hiring Dashboard",
+    "source_file": "conversations-020.json",
+    "message_count": 18
+  },
+  {
+    "id": "6954ec29-40f0-8330-ab8c-f077282a223d",
+    "title": "Confidence and Execution",
+    "source_file": "conversations-020.json",
+    "message_count": 2
+  },
+  {
+    "id": "6954f104-0140-832e-a6e7-cb278d6cb485",
+    "title": "Wolf of Wall Street Blueprint",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6954f27b-0c8c-8328-b2c7-ff9a6dd21ad3",
+    "title": "Wolf of Wall Street",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "6954f455-d334-832a-81b8-7acba1539feb",
+    "title": "Influence and Persuasion Mechanics",
+    "source_file": "conversations-020.json",
+    "message_count": 29
+  },
+  {
+    "id": "6954fb26-5330-8325-8c78-e46059af1225",
+    "title": "Signal-based Marketing Strategy",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "6954fcd8-882c-832e-9c70-1a1a3e766afa",
+    "title": "YouTube Affiliate Income Plan",
+    "source_file": "conversations-020.json",
+    "message_count": 2
+  },
+  {
+    "id": "6954fdcb-4068-8331-9294-776208ebb8c3",
+    "title": "Local Video SEO Viability",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "6954ffc1-f538-8327-bcc9-51b441dd2ebc",
+    "title": "Urgency Timer Strategy",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "6955007a-c7b0-8331-8b3a-61b8cb28ca3a",
+    "title": "PLR Content Transformation",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "69550684-64b0-8327-b167-472cec576d55",
+    "title": "Modular Affiliate System Update",
+    "source_file": "conversations-020.json",
+    "message_count": 8
+  },
+  {
+    "id": "69550f98-e20c-832c-8787-a150160bab2a",
+    "title": "Plastic Arrow Launcher Feasibility",
+    "source_file": "conversations-020.json",
+    "message_count": 6
+  },
+  {
+    "id": "6955119d-67ec-832d-a243-3dfe7726d543",
+    "title": "Gas Station Business Viability",
+    "source_file": "conversations-020.json",
+    "message_count": 10
+  },
+  {
+    "id": "69551627-9a70-832f-80b3-fcd6deeef039",
+    "title": "Movement Beyond Spaceships",
+    "source_file": "conversations-020.json",
+    "message_count": 4
+  },
+  {
+    "id": "695517dc-c6fc-832c-a79e-47b9feb55e13",
+    "title": "Speed of Light Challenges",
+    "source_file": "conversations-020.json",
+    "message_count": 54
+  },
+  {
+    "id": "695525fd-e2b8-832a-9132-7aca43ace401",
+    "title": "Accelerating AI Productivity",
+    "source_file": "conversations-020.json",
+    "message_count": 73
+  },
+  {
+    "id": "6955352e-27cc-8332-a814-7459120ed3d3",
+    "title": "Space Robotics and Infrastructure",
+    "source_file": "conversations-020.json",
+    "message_count": 12
+  },
+  {
+    "id": "6955389e-25e8-8327-b14f-9ce10179f962",
+    "title": "Elon Musk Robot Schematics",
+    "source_file": "conversations-020.json",
+    "message_count": 222
+  },
+  {
+    "id": "6955657a-d5c4-832f-9964-65724df8a26a",
+    "title": "Structuring a Close",
+    "source_file": "conversations-020.json",
+    "message_count": 2
+  },
+  {
+    "id": "6955692e-7718-832a-8060-fef22cdb0e49",
+    "title": "IUL Cash Value Structure",
+    "source_file": "conversations-020.json",
+    "message_count": 30
+  }
+]

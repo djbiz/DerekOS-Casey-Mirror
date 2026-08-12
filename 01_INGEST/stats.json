@@ -1,0 +1,79 @@
+{
+  "total_conversations": 3476,
+  "total_messages": 67878,
+  "total_user_messages": 33144,
+  "total_assistant_messages": 34734,
+  "total_characters": 135667243,
+  "date_range": {
+    "earliest": "2023-11-10T01:23:32.813211+00:00",
+    "latest": "2026-08-10T02:57:12.694168+00:00",
+    "span_days": 1004
+  },
+  "model_usage": {
+    "auto": 3211,
+    "gpt-4-gizmo": 128,
+    "text-davinci-002-render-sha": 29,
+    "gpt-4o": 97,
+    "gpt-4": 3,
+    "gpt-4o-mini": 2,
+    "gpt-5-6": 3,
+    "gpt-5-5": 3
+  },
+  "conversations_by_length": {
+    "long_20plus_messages": 754,
+    "short_1to2_messages": 683
+  },
+  "sample_long_conversations": [
+    {
+      "id": "6a6bfa06-2918-83ea-9b50-40eaca7d98ac",
+      "title": "CLI Shell Test",
+      "message_count": 949
+    },
+    {
+      "id": "683d7801-09d0-8006-a033-590a050dd018",
+      "title": "Comment suggestion for post",
+      "message_count": 931
+    },
+    {
+      "id": "c890b17b-5659-43d8-b4d9-1c5082f0b304",
+      "title": "AI Assistance, User Inquiry",
+      "message_count": 924
+    },
+    {
+      "id": "e676308f-a9d4-4874-894c-b7a0cafa4db6",
+      "title": "Beast Motivation Summary",
+      "message_count": 802
+    },
+    {
+      "id": "692b9b45-33b8-832d-af24-757301122c5d",
+      "title": "Integrate agents with Temporal",
+      "message_count": 752
+    },
+    {
+      "id": "973e8e4a-9d2f-44a7-922a-c3dd59153df6",
+      "title": "Buyer Persona Details",
+      "message_count": 706
+    },
+    {
+      "id": "c687754d-4a6e-4c07-83de-4ed361097b25",
+      "title": "AI Marketing Tool Inquiry",
+      "message_count": 621
+    },
+    {
+      "id": "6838e282-94f0-8006-ab91-ec8905c4689a",
+      "title": "Self-Awareness in AI",
+      "message_count": 528
+    },
+    {
+      "id": "692d3c01-dec0-832a-96df-335bc9aa4567",
+      "title": "Apology request and clarification",
+      "message_count": 501
+    },
+    {
+      "id": "68356af1-457c-8006-b558-343112e8fb79",
+      "title": "BlockSeed Bank Partnership Deck",
+      "message_count": 491
+    }
+  ],
+  "generated_at": "2026-08-12T11:11:47.253959+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://derekos.local/schemas/ingested-message/1.1.0",
+  "title": "DerekOS Master Brain Ingested Message",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source_record_id", "message_id", "node_id", "conversation_id",
+    "conversation_title", "source_file", "role", "author_name", "timestamp",
+    "text", "content_type", "branch", "sequence_index", "parent_message_id",
+    "child_message_ids", "source_sha256", "ingest_version"
+  ],
+  "properties": {
+    "source_record_id": {"type": "string", "pattern": "^srcmsg_[a-f0-9]{32}$"},
+    "message_id": {"type": "string", "minLength": 1},
+    "node_id": {"type": "string", "minLength": 1},
+    "conversation_id": {"type": "string", "minLength": 1},
+    "conversation_title": {"type": ["string", "null"]},
+    "source_file": {"type": "string", "pattern": "^conversations-[0-9]{3}\\.json$"},
+    "role": {"type": ["string", "null"]},
+    "author_name": {"type": ["string", "null"]},
+    "timestamp": {"type": ["string", "null"]},
+    "text": {"type": "string"},
+    "content_type": {"type": ["string", "null"]},
+    "branch": {"enum": ["main", "alternate"]},
+    "sequence_index": {"type": ["integer", "null"], "minimum": 0},
+    "parent_message_id": {"type": ["string", "null"]},
+    "child_message_ids": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "source_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "ingest_version": {"const": "1.1.0"}
+  }
+}

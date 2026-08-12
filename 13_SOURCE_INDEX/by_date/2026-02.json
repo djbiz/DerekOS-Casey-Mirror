@@ -1,0 +1,1658 @@
+[
+  {
+    "id": "697ea65a-d484-832d-884c-53fb201ebf1d",
+    "title": "Forever Terminal Setup",
+    "source_file": "conversations-026.json",
+    "message_count": 4
+  },
+  {
+    "id": "697eaf26-8ae4-8325-ac2d-73a4e8b3bc8f",
+    "title": "Trump China Relations",
+    "source_file": "conversations-026.json",
+    "message_count": 30
+  },
+  {
+    "id": "697ebca3-9158-8328-bd93-90612b1df5db",
+    "title": "7-11-4 Marketing Rule",
+    "source_file": "conversations-026.json",
+    "message_count": 12
+  },
+  {
+    "id": "697ec879-225c-8332-b69a-5d8ece555276",
+    "title": "AI-First Leverage Model",
+    "source_file": "conversations-026.json",
+    "message_count": 2
+  },
+  {
+    "id": "697ecd05-1d60-8333-8936-8e8a3f97ee99",
+    "title": "What to do with Apify",
+    "source_file": "conversations-026.json",
+    "message_count": 12
+  },
+  {
+    "id": "697ed19a-956c-8326-9ebc-37bb2321157e",
+    "title": "Client-serving AI Stack",
+    "source_file": "conversations-026.json",
+    "message_count": 4
+  },
+  {
+    "id": "697ed251-0ca4-8329-87f8-540004cae210",
+    "title": "VA SOPs and Training",
+    "source_file": "conversations-026.json",
+    "message_count": 4
+  },
+  {
+    "id": "697ede4b-5828-832a-afe2-d665023b3783",
+    "title": "Relevance AI for VA Tasks",
+    "source_file": "conversations-026.json",
+    "message_count": 6
+  },
+  {
+    "id": "697f8921-8838-832c-a61f-b070bcc5ab30",
+    "title": "Texas Homes for Sale 350K",
+    "source_file": "conversations-026.json",
+    "message_count": 4
+  },
+  {
+    "id": "697f8d41-ad74-8330-92bf-42fedf3ec226",
+    "title": "Agent Opus Features",
+    "source_file": "conversations-026.json",
+    "message_count": 2
+  },
+  {
+    "id": "697f91d0-2348-832a-b8cf-21b13baf258a",
+    "title": "MakeUGC.ai Overview",
+    "source_file": "conversations-026.json",
+    "message_count": 10
+  },
+  {
+    "id": "697f9cc5-743c-832d-85d7-b1d641d733e2",
+    "title": "Clawdbot and DMR Creation",
+    "source_file": "conversations-026.json",
+    "message_count": 12
+  },
+  {
+    "id": "697fb51d-e1d0-8329-9c13-d88c5f2cda2d",
+    "title": "Altari and Ahmed Alassafi",
+    "source_file": "conversations-026.json",
+    "message_count": 14
+  },
+  {
+    "id": "697fc88a-56a8-832d-b8cd-64762c057eda",
+    "title": "What is OpenClaw",
+    "source_file": "conversations-026.json",
+    "message_count": 10
+  },
+  {
+    "id": "69801e5d-1a64-8332-a95e-838518fa3dd4",
+    "title": "Submagic API Video Editing",
+    "source_file": "conversations-026.json",
+    "message_count": 2
+  },
+  {
+    "id": "698021e3-c3f0-832e-871e-ef18935ad9d8",
+    "title": "TikTok Shop Analytics Tools",
+    "source_file": "conversations-026.json",
+    "message_count": 6
+  },
+  {
+    "id": "69803cd8-df00-8327-a7dd-477b187cc972",
+    "title": "Apify Scrape FastMoss Kalodata",
+    "source_file": "conversations-026.json",
+    "message_count": 12
+  },
+  {
+    "id": "69804613-bb38-832f-86fe-b47f4d37fd3a",
+    "title": "What is Agent0",
+    "source_file": "conversations-026.json",
+    "message_count": 36
+  },
+  {
+    "id": "69805240-c628-8325-8274-b188c1f290d6",
+    "title": "TikTok Shop Revenue Estimate",
+    "source_file": "conversations-026.json",
+    "message_count": 10
+  },
+  {
+    "id": "6980f3f5-9de4-8326-ae2c-ae6d0082a802",
+    "title": "Laptop vs Desktop AI Workstation",
+    "source_file": "conversations-026.json",
+    "message_count": 6
+  },
+  {
+    "id": "69810f62-7790-8332-9c1d-d6f962a5d80f",
+    "title": "Billboard Ad Slogans",
+    "source_file": "conversations-026.json",
+    "message_count": 2
+  },
+  {
+    "id": "6981257c-fe8c-8329-b2ba-0b918dae28c9",
+    "title": "YouTube API Capabilities",
+    "source_file": "conversations-026.json",
+    "message_count": 18
+  },
+  {
+    "id": "69812ec8-6870-8327-8ccb-c95bd5b8a317",
+    "title": "n8n Workflow Automation",
+    "source_file": "conversations-026.json",
+    "message_count": 4
+  },
+  {
+    "id": "698132f3-f3f0-832f-b3fe-f31f5fedc7d2",
+    "title": "Goose Qwen3 Coder vs Claude",
+    "source_file": "conversations-026.json",
+    "message_count": 32
+  },
+  {
+    "id": "698163c5-e42c-8333-9523-1402ac62dc42",
+    "title": "Shotcut Free Features",
+    "source_file": "conversations-026.json",
+    "message_count": 16
+  },
+  {
+    "id": "69816c6b-2e2c-8329-b88e-c0a3512abece",
+    "title": "Shotcut miniPaint Integration",
+    "source_file": "conversations-026.json",
+    "message_count": 12
+  },
+  {
+    "id": "69819fec-d530-8332-a927-87f6087f2e02",
+    "title": "90 Day Ad Spend",
+    "source_file": "conversations-026.json",
+    "message_count": 4
+  },
+  {
+    "id": "6981a195-158c-8325-bead-773e2f8bc922",
+    "title": "Order Bump Ideas",
+    "source_file": "conversations-026.json",
+    "message_count": 8
+  },
+  {
+    "id": "6981a373-e16c-832c-ae0d-4fb0e3095d57",
+    "title": "API Keys for Customer Insights",
+    "source_file": "conversations-026.json",
+    "message_count": 4
+  },
+  {
+    "id": "6981a5bd-0b14-832c-8f00-f005c55d8cdc",
+    "title": "Client Trust and Grand Slam",
+    "source_file": "conversations-026.json",
+    "message_count": 8
+  },
+  {
+    "id": "6981a72f-3320-8326-b22f-1dd097342f8b",
+    "title": "AI Brand Persona Creation",
+    "source_file": "conversations-026.json",
+    "message_count": 6
+  },
+  {
+    "id": "69823742-12cc-8330-b198-8c2c68a3566d",
+    "title": "Vidyard Integration Strategy",
+    "source_file": "conversations-026.json",
+    "message_count": 6
+  },
+  {
+    "id": "69824047-47d4-8327-93e0-9fbead98bca9",
+    "title": "7-Figure AI Stack",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698249f1-a344-8330-a81d-331571d75fbe",
+    "title": "AI Stack & Process Audit",
+    "source_file": "conversations-027.json",
+    "message_count": 8
+  },
+  {
+    "id": "69825662-2778-8333-ad3b-d21a0a4793d7",
+    "title": "Notion Dashboard HTML",
+    "source_file": "conversations-027.json",
+    "message_count": 22
+  },
+  {
+    "id": "6982d590-fc28-8329-b470-a457c876feac",
+    "title": "GHL API Overview",
+    "source_file": "conversations-027.json",
+    "message_count": 10
+  },
+  {
+    "id": "6982d9ce-718c-8328-840d-3d8b4134db18",
+    "title": "Multi-Tenant System Review",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "6982fc8f-1218-832e-820a-0fb00668e9d4",
+    "title": "Python on External SSD",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "69830150-f400-8325-bcb5-248f8ea81266",
+    "title": "SSD Business Model Ideas",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "698309b9-bfd4-832b-8e60-dbe5bbafc0e2",
+    "title": "USB Storage and Operation",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "69831e55-7834-832a-9887-a7966ef13419",
+    "title": "550 Videos Claim Breakdown",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "69837c60-76ac-832e-bf94-67a36b7ed386",
+    "title": "Blotato Pricing Overview",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "69838f04-a248-8330-b102-126ecf2b066b",
+    "title": "AI Supercomputer Setup",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "69839c9a-83f8-8333-808a-0887b9034451",
+    "title": "Event Signups with GHL",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "6983b73a-2c18-8328-902d-4205084b02ef",
+    "title": "Tracking Software List",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "6983bc5a-0dd8-8330-a67f-3b0c916cf706",
+    "title": "Open-Source Productivity Hybrid",
+    "source_file": "conversations-027.json",
+    "message_count": 8
+  },
+  {
+    "id": "6983c068-b390-832d-a17f-a0602cae1be2",
+    "title": "Agency Automation Blueprint",
+    "source_file": "conversations-027.json",
+    "message_count": 23
+  },
+  {
+    "id": "6983d8b8-6734-8326-afe4-c58f1c491146",
+    "title": "MailerLite Features Overview",
+    "source_file": "conversations-027.json",
+    "message_count": 10
+  },
+  {
+    "id": "6983e980-fdf0-8328-be9b-61c26b9d674a",
+    "title": "Quarterly event strategy",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "69840b86-bdd4-8327-a7db-4e574c7193df",
+    "title": "Viral growth strategy",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "69840cb3-e6d8-832b-b46a-ddc88fe0b94a",
+    "title": "Viral B2B Agency Strategy",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "69840d44-180c-832c-bfa6-d7b3211ccaf3",
+    "title": "AI content strategy",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "698410f4-e2bc-8333-92b3-caaa06533d44",
+    "title": "AI avatar content strategy",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "698455b7-75ec-832d-8792-717711f529ea",
+    "title": "AI Consultant Model",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "6984835e-3860-8329-85fb-ccbc35bbf847",
+    "title": "WAN 2.2 animation overview",
+    "source_file": "conversations-027.json",
+    "message_count": 8
+  },
+  {
+    "id": "69848c0a-8bb0-8326-9ddf-2bfe0f8644ae",
+    "title": "Video model deployment guide",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "69848c20-7550-8331-8df3-1009fa8e0df8",
+    "title": "24/7 AI Sales Hosts",
+    "source_file": "conversations-027.json",
+    "message_count": 14
+  },
+  {
+    "id": "698515ad-a608-8332-9b0d-cba4070d3fc0",
+    "title": "Adult Chat API Options",
+    "source_file": "conversations-027.json",
+    "message_count": 14
+  },
+  {
+    "id": "69851e64-f73c-8329-9f96-389de9f1a4df",
+    "title": "System Integration Guide",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "698535c9-3388-8333-9549-5e49d1a6f550",
+    "title": "AI Adult Content Creation",
+    "source_file": "conversations-027.json",
+    "message_count": 16
+  },
+  {
+    "id": "69856d36-57b0-832a-9c62-771ae0fef627",
+    "title": "Qwen3-Coder-Next Overview",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "69857312-aa68-8331-a427-246dac71c537",
+    "title": "Figma and Claude Collaboration",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "6985b11b-96c4-832d-a382-5e1974fbbd9e",
+    "title": "Service-based Agency Strategy",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "6985c008-b2fc-8325-8c35-91e9d359b9c2",
+    "title": "Dan Martell Marketing OS",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "6985c6cb-f4f4-8329-87a9-90ade5915595",
+    "title": "Agency Strategy & Positioning",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "6985ca8e-7a00-8329-b43c-f6217462cd06",
+    "title": "Agency Use of Stealth System",
+    "source_file": "conversations-027.json",
+    "message_count": 24
+  },
+  {
+    "id": "6985f63c-832c-832a-acc8-4a52f2a57f1d",
+    "title": "Chatbots for Messaging Platforms",
+    "source_file": "conversations-027.json",
+    "message_count": 16
+  },
+  {
+    "id": "69861676-7154-8327-a41d-702045138366",
+    "title": "Legal Explanation Summary",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698622c0-a368-832e-b04a-c586394a28a8",
+    "title": "Deep Psychological Analysis",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "69863ee5-4bfc-832e-b149-f738b1333f47",
+    "title": "Wholesaling Coaching Intro",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "69864948-f0a0-8328-948d-293863a13cb5",
+    "title": "Dolt Database Overview",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "69865a40-86f8-8326-98ab-706f3d4dd190",
+    "title": "Email Copy Extraction",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "69865aa0-9b90-8328-a9a6-454c951c5799",
+    "title": "AI Receptionist Email Rewrite",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "69865dc4-75cc-8328-bd23-b73830c5fbfd",
+    "title": "Website and AI Prompt",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "69866ad4-58c8-8325-b556-3094533686be",
+    "title": "Cold Email Sequence Design",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "6986c292-9230-8332-98a0-9798aa39ce44",
+    "title": "3 Synthetic Video Tools",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "6986de3b-d44c-8328-bafc-fe16fc9458d7",
+    "title": "DaVinci Resolve Studio 6",
+    "source_file": "conversations-027.json",
+    "message_count": 20
+  },
+  {
+    "id": "69871570-7548-832e-8831-6404816a185c",
+    "title": "Video Quality Tips",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "698796d6-daf4-8329-8b6a-cc88a9ed03ea",
+    "title": "AI Workflow Automation",
+    "source_file": "conversations-027.json",
+    "message_count": 16
+  },
+  {
+    "id": "6987b23e-9188-832d-b296-1c8ae04aed95",
+    "title": "Automated Agent Creation",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "6987b4b0-3230-8331-bef6-ea29ab601c46",
+    "title": "Attraction Marketing AI Agent",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "6987b6c0-739c-8329-81b7-86eaf41e7de4",
+    "title": "AI Network Marketing Dream Team",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "6987badf-41b8-8327-b54c-283307adf2f0",
+    "title": "Power Shift and AI",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "6987beb0-a4b0-832b-b59f-7fc275b244c9",
+    "title": "Lindy System Architecture",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "6987befa-164c-8325-8a0d-346b63d052b6",
+    "title": "Autonomous AI Operations",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "6987fcad-22f0-832d-a9df-29a3ada176c5",
+    "title": "Python Integration with Make",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "69881c7d-3df4-832a-938c-fe468a51b968",
+    "title": "Marketing Master IO Features",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "6988231a-adfc-8328-957c-bbd4ae4c122c",
+    "title": "n8n Automation Workflow",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "69882fae-c03c-8326-b310-0bec124c0834",
+    "title": "AI-Enhanced Productivity Tools",
+    "source_file": "conversations-027.json",
+    "message_count": 23
+  },
+  {
+    "id": "69885572-4be4-8328-b947-84d80687b3e5",
+    "title": "GHOST Method Overview",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "6988580c-de48-832a-89ff-c2f5d2a8fd63",
+    "title": "Code Audit and Fixes",
+    "source_file": "conversations-027.json",
+    "message_count": 26
+  },
+  {
+    "id": "698995d5-8cf0-832a-8b82-22ec5bda28df",
+    "title": "AI-Controlled TravisCI Workflow",
+    "source_file": "conversations-027.json",
+    "message_count": 30
+  },
+  {
+    "id": "6989aa51-4f1c-832e-b1aa-efe0c08c7cf6",
+    "title": "Running n8n on VPN",
+    "source_file": "conversations-027.json",
+    "message_count": 16
+  },
+  {
+    "id": "698a2d89-9250-8331-b4f0-2650fce66c02",
+    "title": "Lovable and Python Integration",
+    "source_file": "conversations-027.json",
+    "message_count": 22
+  },
+  {
+    "id": "698a394c-10ec-8326-84e5-edfd0d5750c9",
+    "title": "Ultimate Stack Breakdown",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "698a54ae-fa40-832b-bab6-9f3e6fe181ed",
+    "title": "VPS Linux n8n Setup",
+    "source_file": "conversations-027.json",
+    "message_count": 16
+  },
+  {
+    "id": "698a687c-f5c4-8333-a576-92b11e908fc3",
+    "title": "OpenTendo-AGB Raspberry Pi 5 Integration",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "698a7150-50e8-8331-b7e2-b04210acfcc2",
+    "title": "Antigravity n8n MCP Integration",
+    "source_file": "conversations-027.json",
+    "message_count": 23
+  },
+  {
+    "id": "698a7cb1-0850-832f-8cdb-a0fbfe0c0a90",
+    "title": "Dolt Installation and Use",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698a851f-8eec-832e-9bab-ef39e29e6932",
+    "title": "InstaDoodle Video Creation Guide",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698a8e4b-89c8-8326-b6e3-6ecb19847ff6",
+    "title": "AI Services and Scaling",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698a91f4-1c78-832a-a388-0ee71b2a7090",
+    "title": "AI-Driven Course Automation",
+    "source_file": "conversations-027.json",
+    "message_count": 14
+  },
+  {
+    "id": "698ab03a-4580-832d-9f69-5d69c94cd595",
+    "title": "Free Hosting Options",
+    "source_file": "conversations-027.json",
+    "message_count": 12
+  },
+  {
+    "id": "698ad181-947c-832a-9d94-24475eff20fd",
+    "title": "Using Perplexity Effectively",
+    "source_file": "conversations-027.json",
+    "message_count": 10
+  },
+  {
+    "id": "698aff54-226c-832d-80a1-2b1aba3027e9",
+    "title": "VPS Python Sandbox Setup",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "698b0206-7a7c-8327-bb75-b528c2fd7f04",
+    "title": "Day One Energy",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698b11fd-f804-8325-be84-d04f832f0693",
+    "title": "Self-host Activepieces VPS",
+    "source_file": "conversations-027.json",
+    "message_count": 20
+  },
+  {
+    "id": "698bb05a-c868-8328-b1d9-58f9901f20b2",
+    "title": "Pickaxe Automation Platform",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698bb558-a964-8333-8c8b-519f5e6eb501",
+    "title": "Automating YouTube Channels",
+    "source_file": "conversations-027.json",
+    "message_count": 20
+  },
+  {
+    "id": "698bd9fd-31b8-832a-bb23-9500897339f5",
+    "title": "Omni-channel AI Automation",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "698be135-6978-8326-b10d-bd89bb55c10a",
+    "title": "AI Video Promotion Strategy",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698be375-8354-832c-b507-d4afd625bbed",
+    "title": "DeepFaceLive for Calls",
+    "source_file": "conversations-027.json",
+    "message_count": 10
+  },
+  {
+    "id": "698be7e1-c554-8331-90b8-ba08874b1853",
+    "title": "50 AI Lead Machines",
+    "source_file": "conversations-027.json",
+    "message_count": 8
+  },
+  {
+    "id": "698bed20-75e4-832f-b36d-c1c13e899dba",
+    "title": "AI Spokesman Lead Workflow",
+    "source_file": "conversations-027.json",
+    "message_count": 28
+  },
+  {
+    "id": "698c5148-2b58-832a-a6e7-38b4412f9cdb",
+    "title": "Apify for Facebook Marketing",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698c52c9-2eb0-832a-a9d3-0b63c7780b36",
+    "title": "Growth Scorecards in Supabase",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "698c5dd1-f2d0-832e-aa24-62353bb6f62b",
+    "title": "Clarity Structure Growth Flywheel",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698c6279-aa30-8327-b36e-fa94553e021d",
+    "title": "Perplexity AI for Research",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "698c6516-ff28-8333-bfa1-c17e4ac9ca3e",
+    "title": "Hormozi vs Deiss Offers",
+    "source_file": "conversations-027.json",
+    "message_count": 10
+  },
+  {
+    "id": "698c8b54-8d18-832f-9980-7b788e45f191",
+    "title": "Jim Edwards Frameworks",
+    "source_file": "conversations-027.json",
+    "message_count": 6
+  },
+  {
+    "id": "698c9540-37a8-8327-b9ff-24f50bef7be2",
+    "title": "Sales Page Framework",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698c9adf-13b4-832e-ae1d-e8869625f0ec",
+    "title": "Stage 5 Marketing",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "698c9e86-f374-8331-90c2-0de24aebea63",
+    "title": "Content Framework Usage",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698c9f4a-b3ec-832c-bacf-44149dcc5d1d",
+    "title": "Sales Page Framework",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698c9fc3-99c4-8325-b6b8-59e44086cbcb",
+    "title": "Content Marketing Frameworks",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698c9ffc-99a8-8327-a6f4-1199a2ba7c7a",
+    "title": "Attraction Marketing Frameworks",
+    "source_file": "conversations-027.json",
+    "message_count": 4
+  },
+  {
+    "id": "698ca28e-74ec-8330-ab15-97f6c8104f78",
+    "title": "Attraction Marketing Redefined",
+    "source_file": "conversations-027.json",
+    "message_count": 10
+  },
+  {
+    "id": "698ca9bb-8084-832d-929a-edbb3741aac7",
+    "title": "Identity Upgrade Niches",
+    "source_file": "conversations-027.json",
+    "message_count": 8
+  },
+  {
+    "id": "698d1497-dd7c-832e-9cb1-d9758f784f48",
+    "title": "Automation with Fathom Asana",
+    "source_file": "conversations-027.json",
+    "message_count": 14
+  },
+  {
+    "id": "698d3760-5e50-832a-9f3e-6c34c1acf549",
+    "title": "Genspark AI Overview",
+    "source_file": "conversations-027.json",
+    "message_count": 18
+  },
+  {
+    "id": "698d78fc-117c-832e-b761-130f29205793",
+    "title": "Peter Sage Protocol",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698d928c-25d4-832c-a3e2-92e30d7f1001",
+    "title": "AI Video Revolution",
+    "source_file": "conversations-027.json",
+    "message_count": 2
+  },
+  {
+    "id": "698da5e3-ff70-832a-9678-4949cb8d2e9a",
+    "title": "AI Coding Tools Explained",
+    "source_file": "conversations-028.json",
+    "message_count": 46
+  },
+  {
+    "id": "698dc910-d838-832b-8915-563a9d83b6a6",
+    "title": "Doodle to Animated Video",
+    "source_file": "conversations-028.json",
+    "message_count": 18
+  },
+  {
+    "id": "698dd712-b31c-8325-9cfb-e959dce5a2ae",
+    "title": "Nextcloud Talk Features",
+    "source_file": "conversations-028.json",
+    "message_count": 36
+  },
+  {
+    "id": "698e0b44-2fb8-832f-a79c-c30a4f2df77d",
+    "title": "Temporal open source details",
+    "source_file": "conversations-028.json",
+    "message_count": 14
+  },
+  {
+    "id": "698e6c5d-112c-8329-a662-6df57618bd03",
+    "title": "MCP Server Overview",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "698e712d-b134-8332-bf8a-3f281440e26a",
+    "title": "Pi 5 Private Cloud",
+    "source_file": "conversations-028.json",
+    "message_count": 16
+  },
+  {
+    "id": "698e7a0b-fdf8-8332-8cce-916fc95a5520",
+    "title": "POP.STORE Automation Options",
+    "source_file": "conversations-028.json",
+    "message_count": 30
+  },
+  {
+    "id": "698e9917-3a60-8328-8413-07fcd5fe50f8",
+    "title": "Nexus daily updates",
+    "source_file": "conversations-028.json",
+    "message_count": 12
+  },
+  {
+    "id": "698e9c5c-dab4-8333-bc6a-914d72a89a6c",
+    "title": "Orchestrating with Claude",
+    "source_file": "conversations-028.json",
+    "message_count": 21
+  },
+  {
+    "id": "698ea20c-01fc-8331-86a2-dc5866cedc53",
+    "title": "Automating Dev Ecosystem",
+    "source_file": "conversations-028.json",
+    "message_count": 6
+  },
+  {
+    "id": "698eaa30-21b4-832b-88d9-c7f072d5ad18",
+    "title": "AI, Data, and Ads",
+    "source_file": "conversations-028.json",
+    "message_count": 10
+  },
+  {
+    "id": "698ecbd4-5b98-8328-897b-c88a9649dd1b",
+    "title": "Market Research Tools",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "698eced6-c670-832a-aebc-56fa4ff5adb9",
+    "title": "Supabase and Similarweb Integration",
+    "source_file": "conversations-028.json",
+    "message_count": 4
+  },
+  {
+    "id": "698ed02c-e3d0-8330-b0fe-c7da02b3f3c3",
+    "title": "Hootsuite for Insights",
+    "source_file": "conversations-028.json",
+    "message_count": 10
+  },
+  {
+    "id": "698ed4cd-8614-8327-a1fa-627271cbc9f9",
+    "title": "Full-stack Autonomous Intelligence",
+    "source_file": "conversations-028.json",
+    "message_count": 11
+  },
+  {
+    "id": "698edec3-ca38-8332-921c-f3b3ccc4be22",
+    "title": "Video Visuals Tracking Guide",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "698ee3f4-cc94-8325-9282-85d24f283c4a",
+    "title": "Supabase Video Analysis Integration",
+    "source_file": "conversations-028.json",
+    "message_count": 13
+  },
+  {
+    "id": "698ef886-f8cc-8329-ae35-441579bf9056",
+    "title": "Automated Growth Stack",
+    "source_file": "conversations-028.json",
+    "message_count": 6
+  },
+  {
+    "id": "698f71ea-61f4-8326-8196-1040bdc3cab2",
+    "title": "Automated Loom Video Outreach",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "698f728a-11b8-8326-a1eb-729c50c1725f",
+    "title": "Automation Intelligence Loop",
+    "source_file": "conversations-028.json",
+    "message_count": 4
+  },
+  {
+    "id": "698f8505-53d8-8325-a92e-9b03d70d28ce",
+    "title": "Engineered Virality Strategy",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "698fa648-c78c-8325-b4f3-ae8cfbae8ac4",
+    "title": "Free usage on AnswerThePublic",
+    "source_file": "conversations-028.json",
+    "message_count": 6
+  },
+  {
+    "id": "698fbe25-5030-8331-84cd-7ee3513f5680",
+    "title": "AIResources.com Domain Review",
+    "source_file": "conversations-028.json",
+    "message_count": 4
+  },
+  {
+    "id": "698fc24e-53f4-8326-b0f2-feb672b183fb",
+    "title": "Canva API Possibilities",
+    "source_file": "conversations-028.json",
+    "message_count": 4
+  },
+  {
+    "id": "698fc67b-96a8-8332-8af6-064a1f017e88",
+    "title": "Popular Colors for Clicks",
+    "source_file": "conversations-028.json",
+    "message_count": 16
+  },
+  {
+    "id": "698fced8-da54-832f-92d1-15be5b8c7bc5",
+    "title": "Finding Profitable Niches",
+    "source_file": "conversations-028.json",
+    "message_count": 6
+  },
+  {
+    "id": "698fd5b3-2514-832d-bd7a-7b27fc99fa72",
+    "title": "Growth Engine Journey Mapping",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "698fda5b-3f60-8331-8270-995f00341599",
+    "title": "Add CSV to Supabase",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "698fe456-63c0-8330-b654-7280b4420be1",
+    "title": "Loom SDK Integration",
+    "source_file": "conversations-028.json",
+    "message_count": 18
+  },
+  {
+    "id": "69900a7a-77dc-832f-a300-caeb6691da47",
+    "title": "3 Components of Marketing",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "69901abf-b664-8325-a4ff-543ea78b6afb",
+    "title": "Market Validation Strategy",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "69902205-9798-8327-b69b-825c3e4481e5",
+    "title": "Community Driven Sales",
+    "source_file": "conversations-028.json",
+    "message_count": 20
+  },
+  {
+    "id": "69902c33-0000-8330-a9b3-3b7a2ad9dede",
+    "title": "Lovable Funnel Experience",
+    "source_file": "conversations-028.json",
+    "message_count": 28
+  },
+  {
+    "id": "6990e429-e328-832d-bca6-936199859d07",
+    "title": "Automating Google Alerts",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "6990e5bb-c828-8327-8669-1a06921a1fc1",
+    "title": "Market Detection Automation",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "6991158e-7e14-832d-87eb-6499189b3484",
+    "title": "Embedding Assets Across Tools",
+    "source_file": "conversations-028.json",
+    "message_count": 4
+  },
+  {
+    "id": "69911fce-bb80-8332-bfef-b0690932b4ad",
+    "title": "VPS AI Automation Setup",
+    "source_file": "conversations-028.json",
+    "message_count": 16
+  },
+  {
+    "id": "69912824-8440-832b-9da4-3620217a1640",
+    "title": "AI Station Server Suitability",
+    "source_file": "conversations-028.json",
+    "message_count": 42
+  },
+  {
+    "id": "699146de-afb8-832c-91b4-2837aab6d961",
+    "title": "GoMicroContent Pro n8n",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "69914cca-14ac-8332-9853-691ac092fe64",
+    "title": "Server Offer Analysis",
+    "source_file": "conversations-028.json",
+    "message_count": 24
+  },
+  {
+    "id": "69915856-b690-8327-97c0-8ac2412694c8",
+    "title": "Agent Templates Overview",
+    "source_file": "conversations-028.json",
+    "message_count": 32
+  },
+  {
+    "id": "69916d34-e150-832a-889e-dc430ea78f53",
+    "title": "Quality No Longer Enough",
+    "source_file": "conversations-028.json",
+    "message_count": 12
+  },
+  {
+    "id": "69918a7b-3380-832b-87e2-f8197c350c80",
+    "title": "Unlimited Content Creation",
+    "source_file": "conversations-028.json",
+    "message_count": 12
+  },
+  {
+    "id": "69919133-9eb4-8326-8f6e-2217388eb36d",
+    "title": "AI Memory Blueprint",
+    "source_file": "conversations-028.json",
+    "message_count": 16
+  },
+  {
+    "id": "699257ae-5a50-832a-afee-2fd67a8adf70",
+    "title": "AI Audit Intake Optimization",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "6992599f-1cb0-8325-887f-f636bb3a71b7",
+    "title": "Review Marketing Flywheel™",
+    "source_file": "conversations-028.json",
+    "message_count": 4
+  },
+  {
+    "id": "699262ff-2b78-8330-be05-c8937e10fbea",
+    "title": "Creative Pipeline Meta Ads",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "69927c8f-318c-8329-ba2e-87bb02dd2021",
+    "title": "Gloria MacDonald Marketing Frameworks",
+    "source_file": "conversations-028.json",
+    "message_count": 4
+  },
+  {
+    "id": "69927fb9-f790-8327-bd34-fd7440e13ac4",
+    "title": "Robby Blanchard Marketing System",
+    "source_file": "conversations-028.json",
+    "message_count": 16
+  },
+  {
+    "id": "699288cc-27c0-832c-b3ac-947eb81fc1ba",
+    "title": "Robby Blanchard 2026 Blueprint",
+    "source_file": "conversations-028.json",
+    "message_count": 6
+  },
+  {
+    "id": "6992f63b-a11c-8326-8a01-a62c318fe557",
+    "title": "AI Jarvis Inquiry",
+    "source_file": "conversations-028.json",
+    "message_count": 6
+  },
+  {
+    "id": "69939753-a648-8330-a7b7-002166bbf1d7",
+    "title": "What is Sami.bot",
+    "source_file": "conversations-028.json",
+    "message_count": 16
+  },
+  {
+    "id": "6993e7c1-b2d0-8331-831e-bca3adbda00e",
+    "title": "OrangeSlice.ai Overview",
+    "source_file": "conversations-028.json",
+    "message_count": 5
+  },
+  {
+    "id": "6993f042-19f8-8330-8cb0-50ff0f352b69",
+    "title": "ViralNinja.io Legitimacy Concerns",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "6993f1ef-d400-832f-82be-70615e3607ed",
+    "title": "Market Intelligence Tool",
+    "source_file": "conversations-028.json",
+    "message_count": 14
+  },
+  {
+    "id": "69942be9-ca38-8326-85b2-118332eb3d9a",
+    "title": "Connect kimiclaw to server",
+    "source_file": "conversations-028.json",
+    "message_count": 6
+  },
+  {
+    "id": "69949f85-75d8-8326-b9f4-72f6ee14ea56",
+    "title": "ACEMAGIC K1 PC Review",
+    "source_file": "conversations-028.json",
+    "message_count": 8
+  },
+  {
+    "id": "6994a7c7-cc64-8326-ad65-550a31d5d252",
+    "title": "ThreadLab Studio Overview",
+    "source_file": "conversations-028.json",
+    "message_count": 12
+  },
+  {
+    "id": "6994e577-7c64-8333-a684-5389f17e1dd5",
+    "title": "Ad Trackz Gold Review",
+    "source_file": "conversations-028.json",
+    "message_count": 28
+  },
+  {
+    "id": "69951a37-5c14-832b-a2fa-a13b8da023d4",
+    "title": "AI Automation in Graphite",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "69951c2d-9bac-832b-9067-df08af7804df",
+    "title": "Phone Farm Setup Guide",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "6995450a-7050-8329-8b62-08088da9c060",
+    "title": "Pletor Comparison",
+    "source_file": "conversations-028.json",
+    "message_count": 28
+  },
+  {
+    "id": "6996b6b2-42ec-832f-8e41-9347d1ac686f",
+    "title": "AI-Powered Ad Management Setup",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "6996ed81-34d0-8331-8678-4c56ece6f067",
+    "title": "Clawdbot on Android",
+    "source_file": "conversations-028.json",
+    "message_count": 6
+  },
+  {
+    "id": "6997b4b5-2588-8328-9f4f-2750e3a57f59",
+    "title": "Orgo.ai AI Automation",
+    "source_file": "conversations-028.json",
+    "message_count": 10
+  },
+  {
+    "id": "6997b9bd-b3d4-8331-96e9-b6cca653847f",
+    "title": "DIY Clawdbot with n8n",
+    "source_file": "conversations-028.json",
+    "message_count": 4
+  },
+  {
+    "id": "6997bb36-2a64-832f-b8fe-c54aea919041",
+    "title": "Building AI Operations Stack",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "6997ffdc-e030-8333-96d2-dd474c790ee8",
+    "title": "Why Phones Dominate Recording",
+    "source_file": "conversations-028.json",
+    "message_count": 4
+  },
+  {
+    "id": "69980089-4758-832f-8f78-827b3f994953",
+    "title": "Android Camera Recorder Guide",
+    "source_file": "conversations-028.json",
+    "message_count": 18
+  },
+  {
+    "id": "699834dd-90e8-832b-b767-867d0b842c67",
+    "title": "Telegram Bot Security",
+    "source_file": "conversations-028.json",
+    "message_count": 4
+  },
+  {
+    "id": "699907d2-7608-8332-a9de-8c903018a3d0",
+    "title": "Outreach Methods Optimization",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "69990dba-8e04-8332-8bc1-f105df2a07d9",
+    "title": "AI Tool Engine Guide",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "69990e46-f648-8332-98e2-9d1bc4c5592f",
+    "title": "Connecting to NotebookLM",
+    "source_file": "conversations-028.json",
+    "message_count": 12
+  },
+  {
+    "id": "69991f12-d908-8331-aa02-a7125d794f5f",
+    "title": "GitHub Automation with AI",
+    "source_file": "conversations-028.json",
+    "message_count": 20
+  },
+  {
+    "id": "69992ca6-5968-8332-8fbc-c05823952348",
+    "title": "Claude n8n Relevance AI Setup",
+    "source_file": "conversations-028.json",
+    "message_count": 6
+  },
+  {
+    "id": "699943e0-a794-8328-8c75-638d77f916bd",
+    "title": "Creating AI Ad Creatives",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "69994ddb-687c-8329-9821-39c83afb5ab5",
+    "title": "Creating KellyClaude Equivalent",
+    "source_file": "conversations-028.json",
+    "message_count": 8
+  },
+  {
+    "id": "69994f45-6290-8326-b596-35bc2f47abd3",
+    "title": "Kimi K2.5 Local Setup",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "699a3f1f-1e58-8330-a218-e8a3b0a21357",
+    "title": "AI Email Automation Setup",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "699a422e-8878-8333-b6b2-c49fa8acc36a",
+    "title": "What is BuildWithOS",
+    "source_file": "conversations-028.json",
+    "message_count": 54
+  },
+  {
+    "id": "699a47c2-a72c-8331-9236-5538537151c7",
+    "title": "Lindy AI and n8n Integration",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "699a7d88-e5f0-832b-b4d4-4be88b9dedb9",
+    "title": "Instagram Affiliate Growth",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "699aa99b-76c4-832b-99b2-561eb6bcfec3",
+    "title": "Creator's Metro Beauty",
+    "source_file": "conversations-028.json",
+    "message_count": 18
+  },
+  {
+    "id": "699ab2a9-6848-8329-a4e9-a1b0ed95fc65",
+    "title": "Fish Lifespan Facts",
+    "source_file": "conversations-028.json",
+    "message_count": 10
+  },
+  {
+    "id": "699ab45f-3208-8333-b619-d4497cc09053",
+    "title": "Human Evolution: Biology vs Tech",
+    "source_file": "conversations-028.json",
+    "message_count": 30
+  },
+  {
+    "id": "699abe56-4dc0-8327-b321-ca571b9e5371",
+    "title": "Number 1 Go-To Places",
+    "source_file": "conversations-028.json",
+    "message_count": 16
+  },
+  {
+    "id": "699ad762-7c70-8329-a27a-cfa859bc3975",
+    "title": "Google API Keys",
+    "source_file": "conversations-028.json",
+    "message_count": 4
+  },
+  {
+    "id": "699ae400-1e8c-8332-b529-6750dcf163ee",
+    "title": "Premium plan breakdown",
+    "source_file": "conversations-028.json",
+    "message_count": 18
+  },
+  {
+    "id": "699afafc-83b0-832f-8639-c773b346a512",
+    "title": "Professional Bio Creation",
+    "source_file": "conversations-028.json",
+    "message_count": 2
+  },
+  {
+    "id": "699b0060-4364-832f-af74-7e90d1a2b2dd",
+    "title": "Typeform Use Cases",
+    "source_file": "conversations-028.json",
+    "message_count": 12
+  },
+  {
+    "id": "699ba00d-39c0-832b-b3d4-4db923f1a580",
+    "title": "508 c1a Nonprofit Explained",
+    "source_file": "conversations-028.json",
+    "message_count": 10
+  },
+  {
+    "id": "699ba71a-a738-832b-86b1-dd1a08fecde8",
+    "title": "PicoClaw vs OpenClaw",
+    "source_file": "conversations-028.json",
+    "message_count": 16
+  },
+  {
+    "id": "699bdbc8-7f8c-8326-9eb1-001a950404c7",
+    "title": "What is Replit",
+    "source_file": "conversations-028.json",
+    "message_count": 20
+  },
+  {
+    "id": "699be914-a2dc-832d-bf1d-21d8df772fa8",
+    "title": "Temporal AI Workflow Creation",
+    "source_file": "conversations-028.json",
+    "message_count": 14
+  },
+  {
+    "id": "699bfb19-553c-832a-bb72-ad07e720e2af",
+    "title": "Vox 45X Framework",
+    "source_file": "conversations-028.json",
+    "message_count": 4
+  },
+  {
+    "id": "699bfd8f-acdc-8331-9590-5d9c8c938def",
+    "title": "Sacred Frameworks Overview",
+    "source_file": "conversations-028.json",
+    "message_count": 6
+  },
+  {
+    "id": "699c05ad-31ec-832a-8229-ed51d4e107fb",
+    "title": "Facebook for Business Leads",
+    "source_file": "conversations-028.json",
+    "message_count": 10
+  },
+  {
+    "id": "699c098a-4f9c-8328-874b-e6112b13aca4",
+    "title": "Creative AI Fusion",
+    "source_file": "conversations-028.json",
+    "message_count": 6
+  },
+  {
+    "id": "699c0c04-f488-8328-a26d-d677fcc3e3d3",
+    "title": "AI in AOL Era",
+    "source_file": "conversations-028.json",
+    "message_count": 74
+  },
+  {
+    "id": "699c276c-8d4c-8325-b8e0-ea209057852f",
+    "title": "Department Agent System",
+    "source_file": "conversations-028.json",
+    "message_count": 6
+  },
+  {
+    "id": "699c2a6f-b9bc-8326-91eb-e6dfa540a3e8",
+    "title": "Business Context Template",
+    "source_file": "conversations-029.json",
+    "message_count": 4
+  },
+  {
+    "id": "699c3024-384c-832a-a189-85791d8ae107",
+    "title": "Shared Business Context Form",
+    "source_file": "conversations-029.json",
+    "message_count": 2
+  },
+  {
+    "id": "699c3399-005c-8331-9a99-3ba1418d1224",
+    "title": "Legacy Forge Strategy Overview",
+    "source_file": "conversations-029.json",
+    "message_count": 2
+  },
+  {
+    "id": "699c359e-83ec-832c-83fb-09051467a003",
+    "title": "AI Tool Access Architecture",
+    "source_file": "conversations-029.json",
+    "message_count": 8
+  },
+  {
+    "id": "699c45c3-b9e4-832b-973b-4ac58adc46c4",
+    "title": "WarriorPlus Agent Architecture",
+    "source_file": "conversations-029.json",
+    "message_count": 6
+  },
+  {
+    "id": "699d8a76-04c8-8330-9375-225b88936877",
+    "title": "State-Level Housing Complaints",
+    "source_file": "conversations-029.json",
+    "message_count": 6
+  },
+  {
+    "id": "699d95a1-948c-832c-9951-676af3aae6c4",
+    "title": "COVID Triggering Dormant Illnesses",
+    "source_file": "conversations-029.json",
+    "message_count": 50
+  },
+  {
+    "id": "699dbac3-d60c-8332-8232-8b55be644cdb",
+    "title": "n8n MCP Friender Integration",
+    "source_file": "conversations-029.json",
+    "message_count": 4
+  },
+  {
+    "id": "699e52cf-c508-8331-9c16-e804dd56194e",
+    "title": "iDecide Pro Strategy Breakdown",
+    "source_file": "conversations-029.json",
+    "message_count": 10
+  },
+  {
+    "id": "699e6a99-8930-8330-95a2-98e8e6d02cc0",
+    "title": "SEO AEO Content Mapping",
+    "source_file": "conversations-029.json",
+    "message_count": 2
+  },
+  {
+    "id": "699e6cf1-6a14-832e-932e-e378f0ebbe99",
+    "title": "AI Authority Engine Design",
+    "source_file": "conversations-029.json",
+    "message_count": 8
+  },
+  {
+    "id": "699eaade-d328-832e-b33a-aaaae41e2c4f",
+    "title": "Head Pressure at Home",
+    "source_file": "conversations-029.json",
+    "message_count": 10
+  },
+  {
+    "id": "699f672a-3800-8326-a318-b9a20f35c648",
+    "title": "Disability Hearing Prep",
+    "source_file": "conversations-029.json",
+    "message_count": 44
+  },
+  {
+    "id": "699f79d1-9adc-832e-be78-81dbbec57982",
+    "title": "Multiple VPS with Hostinger",
+    "source_file": "conversations-029.json",
+    "message_count": 16
+  },
+  {
+    "id": "699f8e0f-35c4-8330-b529-79b7a26905d4",
+    "title": "Beef and Potato Skillet",
+    "source_file": "conversations-029.json",
+    "message_count": 6
+  },
+  {
+    "id": "699f9f55-6e0c-8325-91fc-97de4655d6d3",
+    "title": "UpCloud Deal Analysis",
+    "source_file": "conversations-029.json",
+    "message_count": 35
+  },
+  {
+    "id": "699fd61f-44ac-832f-8977-2d18cad05a0c",
+    "title": "AI Agent Business Owner",
+    "source_file": "conversations-029.json",
+    "message_count": 2
+  },
+  {
+    "id": "69a01058-4b9c-832a-a876-da3b726c27b5",
+    "title": "Plane Overview and Potential",
+    "source_file": "conversations-029.json",
+    "message_count": 26
+  },
+  {
+    "id": "69a01d2d-2d88-832a-99ba-154881ac5ac7",
+    "title": "School vs Business Life",
+    "source_file": "conversations-029.json",
+    "message_count": 6
+  },
+  {
+    "id": "69a02161-a148-832f-ac01-93dbd4a046c1",
+    "title": "Open-source Productivity Stack",
+    "source_file": "conversations-029.json",
+    "message_count": 2
+  },
+  {
+    "id": "69a02b39-d0a8-8329-a3af-94693f1b92f7",
+    "title": "Automated Reporting Dashboard",
+    "source_file": "conversations-029.json",
+    "message_count": 18
+  },
+  {
+    "id": "69a047e8-3c08-8330-86c0-ed2df841de51",
+    "title": "Automating Grand Slam Offer",
+    "source_file": "conversations-029.json",
+    "message_count": 4
+  },
+  {
+    "id": "69a04eee-6bfc-8326-b7b5-510aa1d26d09",
+    "title": "API Access Limitations",
+    "source_file": "conversations-029.json",
+    "message_count": 12
+  },
+  {
+    "id": "69a0526f-e7ac-832c-809e-2b406f376126",
+    "title": "n8n Daily Prompt Setup",
+    "source_file": "conversations-029.json",
+    "message_count": 10
+  },
+  {
+    "id": "69a073e2-4334-832d-81b0-459b64220442",
+    "title": "Pixel Agents Overview",
+    "source_file": "conversations-029.json",
+    "message_count": 35
+  },
+  {
+    "id": "69a08a50-75a4-8329-b20e-b592021b95b6",
+    "title": "Gmail GMass API Integration",
+    "source_file": "conversations-029.json",
+    "message_count": 44
+  },
+  {
+    "id": "69a0aed9-30a0-8332-840f-6fc1ac017f07",
+    "title": "Notion Custom Agents Update",
+    "source_file": "conversations-029.json",
+    "message_count": 6
+  },
+  {
+    "id": "69a0b52e-2b18-832c-8566-b1f26720ca82",
+    "title": "Native Ads API Access",
+    "source_file": "conversations-029.json",
+    "message_count": 8
+  },
+  {
+    "id": "69a0bbc0-e060-8328-b599-b469902ad5eb",
+    "title": "Trading Psychology Framework",
+    "source_file": "conversations-029.json",
+    "message_count": 12
+  },
+  {
+    "id": "69a0f98c-48d8-832b-8b10-cf303725551e",
+    "title": "Client Brief to DocuSign",
+    "source_file": "conversations-029.json",
+    "message_count": 22
+  },
+  {
+    "id": "69a159c3-d7b0-832d-8898-838d4bb63c7e",
+    "title": "Integrating RTRVR with n8n",
+    "source_file": "conversations-029.json",
+    "message_count": 10
+  },
+  {
+    "id": "69a165c2-76b0-832b-a852-761b0dcdd01e",
+    "title": "Claude Code NotebookLM Integration",
+    "source_file": "conversations-029.json",
+    "message_count": 2
+  },
+  {
+    "id": "69a18539-c7fc-8328-8fcb-93077fef82ff",
+    "title": "AI Content Automation Stack",
+    "source_file": "conversations-029.json",
+    "message_count": 6
+  },
+  {
+    "id": "69a18af7-7cc8-832a-bcbd-e5202ccc2772",
+    "title": "VSL Transformation Pipeline",
+    "source_file": "conversations-029.json",
+    "message_count": 6
+  },
+  {
+    "id": "69a190ea-95ec-832e-a477-7839f4915440",
+    "title": "VSL Optimization Suggestions",
+    "source_file": "conversations-029.json",
+    "message_count": 4
+  },
+  {
+    "id": "69a1b5de-3c44-8333-9540-3bd7e226aa6a",
+    "title": "Jail Time Estimation WV",
+    "source_file": "conversations-029.json",
+    "message_count": 14
+  },
+  {
+    "id": "69a1e455-36c4-8326-8d91-9769485f643b",
+    "title": "Video Funnel Optimization",
+    "source_file": "conversations-029.json",
+    "message_count": 12
+  },
+  {
+    "id": "69a201b6-3ea8-832a-a862-18aa3e6180ce",
+    "title": "AI Food Vending Van",
+    "source_file": "conversations-029.json",
+    "message_count": 2
+  },
+  {
+    "id": "69a203f5-86dc-8332-b4d3-726bd7a2b91f",
+    "title": "Pedicab Business Ideas",
+    "source_file": "conversations-029.json",
+    "message_count": 10
+  },
+  {
+    "id": "69a21a23-c34c-832e-be4e-d482d051bdbb",
+    "title": "AI Growth Funnel",
+    "source_file": "conversations-029.json",
+    "message_count": 16
+  },
+  {
+    "id": "69a2290d-16dc-832b-8a04-dca49afc8092",
+    "title": "COPD Disease vs Disability",
+    "source_file": "conversations-029.json",
+    "message_count": 4
+  },
+  {
+    "id": "69a28712-ac84-8332-9da2-c87328afffb6",
+    "title": "Police Quest Overview",
+    "source_file": "conversations-029.json",
+    "message_count": 6
+  },
+  {
+    "id": "69a2908e-4454-832c-856f-baccb9d066a7",
+    "title": "AI-Driven Server Architecture",
+    "source_file": "conversations-029.json",
+    "message_count": 20
+  },
+  {
+    "id": "69a2d767-238c-8328-ba51-359121116893",
+    "title": "AI Desktop Supercomputer Breakdown",
+    "source_file": "conversations-029.json",
+    "message_count": 28
+  }
+]

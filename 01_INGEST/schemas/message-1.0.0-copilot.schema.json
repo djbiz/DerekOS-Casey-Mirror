@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://derekos.local/schemas/ingested-message/copilot/1.0.0",
+  "title": "DerekOS Master Brain Copilot CSV Message",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source_record_id", "message_id", "node_id", "conversation_id",
+    "conversation_title", "source_file", "source_format", "source_author",
+    "source_csv_row_number", "role", "author_name", "timestamp", "text",
+    "content_type", "branch", "sequence_index", "parent_message_id",
+    "child_message_ids", "source_sha256", "ingest_version"
+  ],
+  "properties": {
+    "source_record_id": {"type": "string", "pattern": "^copilot_msg_[a-f0-9]{32}$"},
+    "message_id": {"type": "string", "pattern": "^copilot_msg_[a-f0-9]{32}$"},
+    "node_id": {"type": "null"},
+    "conversation_id": {"type": "string", "pattern": "^copilot_conv_[a-f0-9]{32}$"},
+    "conversation_title": {"type": "string"},
+    "source_file": {"type": "string", "pattern": "^copilot-.*\\.csv$"},
+    "source_format": {"const": "copilot-csv"},
+    "source_author": {"enum": ["Human", "AI"]},
+    "source_csv_row_number": {"type": "integer", "minimum": 0},
+    "role": {"enum": ["user", "assistant"]},
+    "author_name": {"type": "null"},
+    "timestamp": {"type": ["string", "null"]},
+    "text": {"type": "string"},
+    "content_type": {"const": "text"},
+    "branch": {"const": "main"},
+    "sequence_index": {"type": "integer", "minimum": 0},
+    "parent_message_id": {"type": "null"},
+    "child_message_ids": {"type": "array", "maxItems": 0},
+    "source_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "ingest_version": {"const": "1.0.0"}
+  }
+}

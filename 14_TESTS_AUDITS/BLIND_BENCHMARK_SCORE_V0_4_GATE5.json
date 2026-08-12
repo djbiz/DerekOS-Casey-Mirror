@@ -1,0 +1,58 @@
+{
+  "n": 230,
+  "resolver": "provenance_resolver_v0_4",
+  "regression": {
+    "R1_false_derek_attribution": 0,
+    "R1_pass": true,
+    "R2_d0_precision": 1.0,
+    "R2_pass": true,
+    "R3_v03_d0_regressed": 0,
+    "R3_pass": true,
+    "all_pass": true
+  },
+  "gate4": {
+    "p0_precision": 0.7949,
+    "p0_recall": 0.3069,
+    "mixed_precision": 0.7273,
+    "mixed_recall": 0.4444,
+    "mixed_false_positives": [
+      "adv_030261",
+      "adv_030897",
+      "adv_032963"
+    ],
+    "mixed_misses": [
+      "adv_001326",
+      "adv_001444",
+      "adv_002059",
+      "adv_003597",
+      "adv_004101",
+      "adv_006905",
+      "adv_009750",
+      "adv_017999",
+      "adv_018155",
+      "adv_021989"
+    ]
+  },
+  "gate5": {
+    "ad3_ad4_accuracy": 1.0,
+    "ad34_misses": []
+  },
+  "overall_accuracy": 0.6087,
+  "d0_precision": 1.0,
+  "d0_recall": 0.8085,
+  "abstention_precision": 0.4437,
+  "abstention_recall": 0.9844,
+  "confusion": {
+    "D0->D0": 38,
+    "MIXED->MIXED": 8,
+    "MIXED->P0": 3,
+    "P0->D0": 1,
+    "P0->MIXED": 6,
+    "P0->P0": 31,
+    "P0->UNRESOLVED": 1,
+    "UNRESOLVED->D0": 8,
+    "UNRESOLVED->MIXED": 4,
+    "UNRESOLVED->P0": 67,
+    "UNRESOLVED->UNRESOLVED": 63
+  }
+}

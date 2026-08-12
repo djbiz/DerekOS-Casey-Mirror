@@ -1,0 +1,255 @@
+{
+  "version": "1.0.0",
+  "started_at": "2026-08-12T11:10:05.298691+00:00",
+  "source_dir": "D:\\Projects\\VOX\\DerekOS_Master_Brain\\00_RAW_ARCHIVE",
+  "files": {
+    "conversations-000.json": {
+      "status": "ok",
+      "output_file": "000.json",
+      "conversation_count": 100,
+      "message_count": 2590,
+      "duration_s": 1.2
+    },
+    "conversations-001.json": {
+      "status": "ok",
+      "output_file": "001.json",
+      "conversation_count": 100,
+      "message_count": 3048,
+      "duration_s": 2.44
+    },
+    "conversations-002.json": {
+      "status": "ok",
+      "output_file": "002.json",
+      "conversation_count": 100,
+      "message_count": 2287,
+      "duration_s": 2.1
+    },
+    "conversations-003.json": {
+      "status": "ok",
+      "output_file": "003.json",
+      "conversation_count": 100,
+      "message_count": 956,
+      "duration_s": 0.52
+    },
+    "conversations-004.json": {
+      "status": "ok",
+      "output_file": "004.json",
+      "conversation_count": 100,
+      "message_count": 1428,
+      "duration_s": 0.71
+    },
+    "conversations-005.json": {
+      "status": "ok",
+      "output_file": "005.json",
+      "conversation_count": 100,
+      "message_count": 3205,
+      "duration_s": 1.82
+    },
+    "conversations-006.json": {
+      "status": "ok",
+      "output_file": "006.json",
+      "conversation_count": 100,
+      "message_count": 1531,
+      "duration_s": 1.95
+    },
+    "conversations-007.json": {
+      "status": "ok",
+      "output_file": "007.json",
+      "conversation_count": 100,
+      "message_count": 694,
+      "duration_s": 1.2
+    },
+    "conversations-008.json": {
+      "status": "ok",
+      "output_file": "008.json",
+      "conversation_count": 100,
+      "message_count": 564,
+      "duration_s": 0.47
+    },
+    "conversations-009.json": {
+      "status": "ok",
+      "output_file": "009.json",
+      "conversation_count": 100,
+      "message_count": 1478,
+      "duration_s": 1.62
+    },
+    "conversations-010.json": {
+      "status": "ok",
+      "output_file": "010.json",
+      "conversation_count": 100,
+      "message_count": 1103,
+      "duration_s": 2.16
+    },
+    "conversations-011.json": {
+      "status": "ok",
+      "output_file": "011.json",
+      "conversation_count": 100,
+      "message_count": 2775,
+      "duration_s": 1.95
+    },
+    "conversations-012.json": {
+      "status": "ok",
+      "output_file": "012.json",
+      "conversation_count": 100,
+      "message_count": 2645,
+      "duration_s": 3.4
+    },
+    "conversations-013.json": {
+      "status": "ok",
+      "output_file": "013.json",
+      "conversation_count": 100,
+      "message_count": 3070,
+      "duration_s": 3.65
+    },
+    "conversations-014.json": {
+      "status": "ok",
+      "output_file": "014.json",
+      "conversation_count": 100,
+      "message_count": 1786,
+      "duration_s": 2.46
+    },
+    "conversations-015.json": {
+      "status": "ok",
+      "output_file": "015.json",
+      "conversation_count": 100,
+      "message_count": 1994,
+      "duration_s": 1.15
+    },
+    "conversations-016.json": {
+      "status": "ok",
+      "output_file": "016.json",
+      "conversation_count": 100,
+      "message_count": 3975,
+      "duration_s": 2.97
+    },
+    "conversations-017.json": {
+      "status": "ok",
+      "output_file": "017.json",
+      "conversation_count": 100,
+      "message_count": 3483,
+      "duration_s": 10.87
+    },
+    "conversations-018.json": {
+      "status": "ok",
+      "output_file": "018.json",
+      "conversation_count": 100,
+      "message_count": 2143,
+      "duration_s": 3.01
+    },
+    "conversations-019.json": {
+      "status": "ok",
+      "output_file": "019.json",
+      "conversation_count": 100,
+      "message_count": 1139,
+      "duration_s": 3.11
+    },
+    "conversations-020.json": {
+      "status": "ok",
+      "output_file": "020.json",
+      "conversation_count": 100,
+      "message_count": 1360,
+      "duration_s": 0.75
+    },
+    "conversations-021.json": {
+      "status": "ok",
+      "output_file": "021.json",
+      "conversation_count": 100,
+      "message_count": 1046,
+      "duration_s": 1.91
+    },
+    "conversations-022.json": {
+      "status": "ok",
+      "output_file": "022.json",
+      "conversation_count": 100,
+      "message_count": 1631,
+      "duration_s": 2.28
+    },
+    "conversations-023.json": {
+      "status": "ok",
+      "output_file": "023.json",
+      "conversation_count": 100,
+      "message_count": 1150,
+      "duration_s": 3.52
+    },
+    "conversations-024.json": {
+      "status": "ok",
+      "output_file": "024.json",
+      "conversation_count": 100,
+      "message_count": 1316,
+      "duration_s": 2.5
+    },
+    "conversations-025.json": {
+      "status": "ok",
+      "output_file": "025.json",
+      "conversation_count": 100,
+      "message_count": 1060,
+      "duration_s": 5.59
+    },
+    "conversations-026.json": {
+      "status": "ok",
+      "output_file": "026.json",
+      "conversation_count": 100,
+      "message_count": 885,
+      "duration_s": 3.02
+    },
+    "conversations-027.json": {
+      "status": "ok",
+      "output_file": "027.json",
+      "conversation_count": 100,
+      "message_count": 783,
+      "duration_s": 1.5
+    },
+    "conversations-028.json": {
+      "status": "ok",
+      "output_file": "028.json",
+      "conversation_count": 100,
+      "message_count": 1144,
+      "duration_s": 3.41
+    },
+    "conversations-029.json": {
+      "status": "ok",
+      "output_file": "029.json",
+      "conversation_count": 100,
+      "message_count": 1261,
+      "duration_s": 1.52
+    },
+    "conversations-030.json": {
+      "status": "ok",
+      "output_file": "030.json",
+      "conversation_count": 100,
+      "message_count": 1158,
+      "duration_s": 1.4
+    },
+    "conversations-031.json": {
+      "status": "ok",
+      "output_file": "031.json",
+      "conversation_count": 100,
+      "message_count": 829,
+      "duration_s": 2.35
+    },
+    "conversations-032.json": {
+      "status": "ok",
+      "output_file": "032.json",
+      "conversation_count": 100,
+      "message_count": 3960,
+      "duration_s": 10.2
+    },
+    "conversations-033.json": {
+      "status": "ok",
+      "output_file": "033.json",
+      "conversation_count": 100,
+      "message_count": 4110,
+      "duration_s": 7.46
+    },
+    "conversations-034.json": {
+      "status": "ok",
+      "output_file": "034.json",
+      "conversation_count": 76,
+      "message_count": 4291,
+      "duration_s": 5.24
+    }
+  },
+  "total_conversations": 3476,
+  "total_messages": 67878,
+  "completed_at": "2026-08-12T11:11:47.254307+00:00"
+}

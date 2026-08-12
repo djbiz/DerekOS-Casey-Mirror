@@ -1,0 +1,138 @@
+{
+  "source_labels": "blind_adjudication/PROVENANCE_ADVERSARIAL_LABELS_V1.jsonl",
+  "source_predictions": "PROVENANCE_RESOLVER_V0_4_predictions.json",
+  "families": {
+    "adoption_fn_material_transformation": [
+      "adv_001324",
+      "adv_001443",
+      "adv_007563"
+    ],
+    "mixed_fn_traceable_body_boundary": [
+      "adv_001443",
+      "adv_001444",
+      "adv_004101",
+      "adv_017999",
+      "adv_021989"
+    ],
+    "mixed_fp_ambiguous_structural_boundary": [
+      "adv_013001",
+      "adv_019425"
+    ],
+    "mixed_fp_carrier_metadata_vs_semantic_span": [
+      "adv_029474",
+      "adv_031597",
+      "adv_033054"
+    ],
+    "mixed_fp_transcript_label_tension": [
+      "adv_030261",
+      "adv_030897",
+      "adv_032963"
+    ],
+    "p0_fn_explicit_agent_source_label": [
+      "adv_028920",
+      "adv_028925",
+      "adv_028973",
+      "adv_029000",
+      "adv_029212"
+    ],
+    "p0_fn_external_web_or_transcript": [
+      "adv_001102",
+      "adv_006804",
+      "adv_007135",
+      "adv_011310",
+      "adv_018536",
+      "adv_019178",
+      "adv_025673",
+      "adv_026722",
+      "adv_030261",
+      "adv_030897",
+      "adv_032963"
+    ],
+    "p0_fn_terminal_or_tool_artifact": [
+      "adv_027517",
+      "adv_027661",
+      "adv_027678",
+      "adv_027762",
+      "adv_027814",
+      "adv_027815",
+      "adv_027927",
+      "adv_028382"
+    ],
+    "p0_fn_third_party_communication": [
+      "adv_001825",
+      "adv_001964",
+      "adv_002015",
+      "adv_003182",
+      "adv_030062",
+      "adv_030092",
+      "adv_030107",
+      "adv_030132",
+      "adv_031092"
+    ],
+    "p0_fn_untraceable_imported_artifact": [
+      "adv_005835",
+      "adv_011640",
+      "adv_013750",
+      "adv_014464",
+      "adv_014544",
+      "adv_021528",
+      "adv_022859",
+      "adv_023806",
+      "adv_025602",
+      "adv_026055",
+      "adv_026252",
+      "adv_027980",
+      "adv_028170",
+      "adv_028257",
+      "adv_028404",
+      "adv_028546",
+      "adv_028560",
+      "adv_029035",
+      "adv_029198",
+      "adv_029474",
+      "adv_030670",
+      "adv_030780",
+      "adv_030804",
+      "adv_030864",
+      "adv_030954",
+      "adv_031229",
+      "adv_031360",
+      "adv_031597",
+      "adv_031661",
+      "adv_032016",
+      "adv_032023",
+      "adv_032700",
+      "adv_033117",
+      "adv_033504",
+      "adv_033685",
+      "adv_033881",
+      "adv_034117",
+      "adv_034205",
+      "adv_034335",
+      "adv_034912"
+    ],
+    "p0_fp_carrier_collapsed": [
+      "adv_001443",
+      "adv_001444",
+      "adv_017999",
+      "adv_021989"
+    ],
+    "p0_fp_correction_or_quotation": [
+      "adv_025657"
+    ]
+  },
+  "counts": {
+    "adoption_fn_material_transformation": 3,
+    "mixed_fn_traceable_body_boundary": 5,
+    "mixed_fp_ambiguous_structural_boundary": 2,
+    "mixed_fp_carrier_metadata_vs_semantic_span": 3,
+    "mixed_fp_transcript_label_tension": 3,
+    "p0_fn_explicit_agent_source_label": 5,
+    "p0_fn_external_web_or_transcript": 11,
+    "p0_fn_terminal_or_tool_artifact": 8,
+    "p0_fn_third_party_communication": 9,
+    "p0_fn_untraceable_imported_artifact": 40,
+    "p0_fp_carrier_collapsed": 4,
+    "p0_fp_correction_or_quotation": 1
+  }
+}

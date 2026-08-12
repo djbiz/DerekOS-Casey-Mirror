@@ -1,0 +1,515 @@
+[
+  {
+    "gold_id": "gold_001",
+    "message_id": "bbb21279-dd3d-4c1b-a1c7-4e8dc85b2e79",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Casual opener ('Crazy question what if I started a faceless YouTube channel'); role=user, no reuse_match, no paste markers, no stylistic signals. Ordinary in-voice message needs no search to justify D0."
+  },
+  {
+    "gold_id": "gold_002",
+    "message_id": "bbb21c27-9ba6-408c-a416-2d616008b67b",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Casual opener about wanting to build a team; no reuse_match, no paste/stylistic signals. Ordinary in-voice message, D0."
+  },
+  {
+    "gold_id": "gold_003",
+    "message_id": "bbb214f4-f28f-4e57-b74a-19762ed39f43",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Casual continuation ('I have another dominating idea...chiropractor in Miami...'); no reuse_match, no paste/stylistic signals. Ordinary in-voice message, D0."
+  },
+  {
+    "gold_id": "gold_004",
+    "message_id": "bbb21068-3b0c-452f-9bb6-d155ebe72629",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "References named marketing figures (Dean/Deagan Smith style, Todd Falcon's 24 emotional triggers) in plain casual voice asking to combine frameworks. Referencing other people's named frameworks is not itself paste evidence -- no reuse_match, no markdown/paste markers found. D0."
+  },
+  {
+    "gold_id": "gold_005",
+    "message_id": "bbb211f6-30fe-4950-8aac-1528d4937fd7",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": "AD2",
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Casual question extending the assistant's immediately preceding VR-accessibility pitch (message 56864082-eb39-46a5-b363-055aac47f9df, gold_015: 'what Netflix did to DVDs...') to a new, Derek-originated specific application (Block University students). The new application is Derek's own idea, not a restatement, so proposition_origin is not set; adoption_status AD2 records the partial build-on-assistant's-frame. No reuse_match, no paste/stylistic signals."
+  },
+  {
+    "gold_id": "gold_006",
+    "message_id": "aaa26b42-3905-421a-9a14-11cfa7c435a6",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Casual instruction about building an MLM Gateway profile; no reuse_match, no paste/stylistic signals despite a formal outreach-email template preceding it (Derek's own message is plain, unrelated in register). D0."
+  },
+  {
+    "gold_id": "gold_007",
+    "message_id": "bbb219fe-6c24-4b07-bdab-b17034a6337a",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Casual question ('What if I get 100k visitors...'); no reuse_match, no paste/stylistic signals. D0."
+  },
+  {
+    "gold_id": "gold_008",
+    "message_id": "aaa2bae3-e096-42fc-81ba-fcf8d5efc8c4",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Short casual instruction ('Please add all new sections...'); no reuse_match, no paste/stylistic signals. D0."
+  },
+  {
+    "gold_id": "gold_009",
+    "message_id": "aaa269fc-9ea9-43f8-be28-72be42d4f617",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Very short casual command ('create an structured routine'); no reuse_match, no paste/stylistic signals. D0."
+  },
+  {
+    "gold_id": "gold_010",
+    "message_id": "aaa28708-1c11-473e-b88d-4479de05e9e2",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC1",
+    "requires_review": false,
+    "evidence_used": "reuse_match_found=True but matched_span_mostly_quoted=True (7 shingles, confined entirely to the quoted title \"The Seven Myths About The MLM Industry...\"). Per the v0.2 corrected rule this is weak/noise evidence -- Derek routinely quotes his own recurring titles back to the assistant across separate image-generation requests, producing coincidental matches. No other suspicion signal present (no paste markers, no stylistic flags), so it does not move the record off D0. This is the exact illustrative case from the spec (Section 6.0a)."
+  },
+  {
+    "gold_id": "gold_011",
+    "message_id": "c96f0943-73f7-49fd-a487-b52647815b95",
+    "evidence_class": "A0",
+    "submitted_by": "assistant",
+    "originator": "assistant",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "role=assistant, original brainstorming reply to Derek's gold_001 question ('Crazy question what if I started a faceless YouTube channel'); no reuse_match (own generated content, not reused from elsewhere). Assistant suggestion, no adoption evidence visible in this record."
+  },
+  {
+    "gold_id": "gold_012",
+    "message_id": "2fd10ad3-f369-4bde-8104-f8c9cd07f1e6",
+    "evidence_class": "A0",
+    "submitted_by": "assistant",
+    "originator": "assistant",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "role=assistant, original team-building plan responding to gold_002; no reuse_match. Assistant suggestion, adoption not evidenced in this record."
+  },
+  {
+    "gold_id": "gold_013",
+    "message_id": "fb41e0c4-7f4d-48e1-8098-7770f15e4313",
+    "evidence_class": "A0",
+    "submitted_by": "assistant",
+    "originator": "assistant",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "role=assistant, original 'local SEO kingpin' plan responding directly to gold_003's chiropractor-in-Miami idea; no reuse_match. Assistant suggestion."
+  },
+  {
+    "gold_id": "gold_014",
+    "message_id": "3dccee69-67b7-41fe-9ca7-1d125b3b97e2",
+    "evidence_class": "A0",
+    "submitted_by": "assistant",
+    "originator": "assistant",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "role=assistant, original VR/Block-University pitch responding directly to gold_005's extension question; no reuse_match. Assistant suggestion."
+  },
+  {
+    "gold_id": "gold_015",
+    "message_id": "56864082-eb39-46a5-b363-055aac47f9df",
+    "evidence_class": "A0",
+    "submitted_by": "assistant",
+    "originator": "assistant",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "role=assistant, original 'UNSEEN VR Universe' Netflix/PS4-affordability pitch; no reuse_match. Assistant suggestion; this is the message gold_005 later builds on."
+  },
+  {
+    "gold_id": "gold_016",
+    "message_id": "df74d65b-86c1-4612-b691-21eb68edd205",
+    "evidence_class": "MIXED",
+    "submitted_by": "derek",
+    "originator": "assistant",
+    "origin_message_id": "78866d50-4165-488b-816c-f099be5d1ea9",
+    "origin_conversation_id": "6a6f112c-7430-83ea-83fc-b29a1aea115f",
+    "reuse_message_id": "df74d65b-86c1-4612-b691-21eb68edd205",
+    "adoption_status": "AD1",
+    "provenance_certainty": "PC4",
+    "requires_review": true,
+    "evidence_used": "Stage2 segmented commentary vs. pasted content. reuse_evidence shows an UNQUOTED (matched_span_mostly_quoted=False) match with 308 matching shingles against an earlier assistant message in a different conversation (78866d50-4165-488b-816c-f099be5d1ea9 / 6a6f112c-7430-83ea-83fc-b29a1aea115f) -- this is effectively the spec's own worked Business Character Method / 'Identity Switch(TM)' / 'Character Engineering(TM)' example (Section 6.0a). Commentary 'Should something like this be added?' = D0 (Derek's own question); the Business Character Method block = P0, original_author assistant.",
+    "segments": [
+      {
+        "evidence_class": "D0",
+        "text_excerpt": "Should something like this be added?"
+      },
+      {
+        "evidence_class": "P0",
+        "text_excerpt": "Many train themselves to rapidly adopt a different set of: Beliefs... Your Business Character Method ... The Identity Switch(TM) ... Character Engineering(TM)"
+      }
+    ]
+  },
+  {
+    "gold_id": "gold_017",
+    "message_id": "bbb21e9f-90c2-4191-a0cd-3c0008b11afa",
+    "evidence_class": "P0",
+    "submitted_by": "derek",
+    "originator": "assistant",
+    "origin_message_id": "1883a8f9-3bed-437b-a028-4b6e4dcb4939",
+    "origin_conversation_id": "692b9b45-33b8-832d-af24-757301122c5d",
+    "reuse_message_id": "bbb21e9f-90c2-4191-a0cd-3c0008b11afa",
+    "adoption_status": "AD2",
+    "provenance_certainty": "PC4",
+    "requires_review": false,
+    "evidence_used": "Entire 17.7k-char message is an unquoted match (2208 shingles) against an earlier assistant message (1883a8f9-3bed-437b-a028-4b6e4dcb4939) in a different conversation. Text is assistant voice throughout ('I'll drop your entire Empire starter repo...', ends 'Say the letter and I'll drop it into this chat immediately... You asked: \"Please give me my whole empire so I can start a new chat.\" -- here it is'). No separable Derek commentary; stage2 could not find a paste boundary. Classic case of the assistant's own prior output pasted back as a fresh conversation opener under role=user."
+  },
+  {
+    "gold_id": "gold_018",
+    "message_id": "bbb211c7-9112-473d-86ca-c94c471ac84d",
+    "evidence_class": "P0",
+    "submitted_by": "derek",
+    "originator": "assistant",
+    "origin_message_id": "1883a8f9-3bed-437b-a028-4b6e4dcb4939",
+    "origin_conversation_id": "692b9b45-33b8-832d-af24-757301122c5d",
+    "reuse_message_id": "bbb211c7-9112-473d-86ca-c94c471ac84d",
+    "adoption_status": "AD2",
+    "provenance_certainty": "PC4",
+    "requires_review": false,
+    "evidence_used": "Near-duplicate of gold_017 (98% same text), also an unquoted match (2072 shingles) against the same origin message (1883a8f9-3bed-437b-a028-4b6e4dcb4939), pasted as the opener of a second, different fresh conversation. Same reasoning as gold_017: entire message is assistant-authored content re-pasted by Derek, no separable commentary."
+  },
+  {
+    "gold_id": "gold_019",
+    "message_id": "aaa2f22e-d78d-45e8-97a1-5fe5906d2480",
+    "evidence_class": "MIXED",
+    "submitted_by": "derek",
+    "originator": "unknown",
+    "origin_message_id": "02170d3e-daf5-41f3-a576-d749873d00d6",
+    "origin_conversation_id": "66e00b26-a02c-8006-b369-2b291de52cff",
+    "reuse_message_id": "aaa2f22e-d78d-45e8-97a1-5fe5906d2480",
+    "adoption_status": "AD3",
+    "provenance_certainty": "PC3",
+    "requires_review": true,
+    "evidence_used": "Unquoted match (matched_span_mostly_quoted=False, 8 shingles) against a different conversation (02170d3e-daf5-41f3-a576-d749873d00d6 / 66e00b26-a02c-8006-b369-2b291de52cff) -- matches the spec's own Section 6.0h 'LinkedIn headline correction' example: short and unquoted, so treated as real evidence per the corrected rule (unlike gold_010's quoted-title noise case). Commentary '\"LinkedIn marketing maestro\" add this to this:' = D0; the bio/headline text = P0. original_author left unknown because this bundle doesn't expose the origin message's role/author -- could be an earlier assistant draft or Derek's own recurring bio reused across sessions (cf. spec's thought_pilot_0010 precedent).",
+    "segments": [
+      {
+        "evidence_class": "D0",
+        "text_excerpt": "\"LinkedIn marketing maestro\" add this to this:"
+      },
+      {
+        "evidence_class": "P0",
+        "text_excerpt": "Helping Aspiring Entrepreneurs Build Financial Freedom | Chief Fun Officer | Social Media Expert | Business Mentor | Professional Connector | Peak Performance Coach"
+      }
+    ]
+  },
+  {
+    "gold_id": "gold_020",
+    "message_id": "aaa23474-3e51-4a4b-8eba-5a8dda0982e0",
+    "evidence_class": "UNRESOLVED",
+    "submitted_by": "derek",
+    "originator": "unresolved",
+    "adoption_status": null,
+    "provenance_certainty": "PC1",
+    "requires_review": true,
+    "evidence_used": "'9 Things I've learned from a decade in online marketing' listicle ending with a third-person social-media call-to-action ('Drop your thoughts in the comments, and follow for more value'); zero-width-space formatting typical of a copy-pasted social post; has_bold_markdown. reuse_match_found=False -- no locatable source. This is the exact v0.1 False Derek Attribution case the spec cites by name (Section 6.0a): genuine stylistic suspicion with no located match must resolve to UNRESOLVED, not D0, under the corrected v0.2 rule."
+  },
+  {
+    "gold_id": "gold_021",
+    "message_id": "aaa2e0f3-0ae8-4768-9a2f-1380dff7c7b5",
+    "evidence_class": "UNRESOLVED",
+    "submitted_by": "derek",
+    "originator": "unresolved",
+    "adoption_status": null,
+    "provenance_certainty": "PC1",
+    "requires_review": true,
+    "evidence_used": "Listicle/social-post structure (numbered_list_structure=True), zero-width-space formatting matching gold_020's pattern, and -- critically -- signed off with a third-party name/emoji ('Chan') that is not Derek. That signature is strong internal evidence of non-Derek authorship, but reuse_match_found=False (no locatable cross-corpus source) and the mechanical has_signature_line flag didn't trip (informal social sign-off, not a formal signature block). Per the corrected rule, absence of a located match does not permit D0 when suspicion this strong exists; resolves to UNRESOLVED rather than being force-classified as P0 without a source."
+  },
+  {
+    "gold_id": "gold_022",
+    "message_id": "aaa2e260-9fe0-492c-98a2-45b4bf55db31",
+    "evidence_class": "UNRESOLVED",
+    "submitted_by": "derek",
+    "originator": "unresolved",
+    "adoption_status": null,
+    "provenance_certainty": "PC1",
+    "requires_review": true,
+    "evidence_used": "Structured Pros:/Cons: product-review block about a specific skincare product (Meladerm) with technical ingredient claims (kojic acid, hydroquinone) -- formatting/register inconsistent with Derek's own casual voice seen throughout the rest of this bundle (no other Derek-authored message uses bold headers). Appears inside a product-review-writing workflow (same thematic cluster as gold_008 'add all new sections in the whole article' and gold_024 'copy and paste it in here and out comes a new review'), suggesting sourced reference material. reuse_match_found=False -- no locatable source. Genuine suspicion, no located match -> UNRESOLVED, not D0."
+  },
+  {
+    "gold_id": "gold_023",
+    "message_id": "bbb213ab-d73e-4bd9-9d01-4eff06d08c10",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "proposition_origin": "assistant",
+    "adoption_status": "AD3",
+    "provenance_certainty": "PC4",
+    "requires_review": false,
+    "evidence_used": "Matches the spec's own Section 12.6 worked example almost verbatim: the immediately preceding assistant message (dc6abffd-946c-4597-98da-6704a911200c) says 'You're building a trillion-dollar ecosystem' one turn earlier. Derek's sentence ('So my vision is now the trillion dollar ecosystem') is unambiguously his own words declaring/adopting that exact framing as his vision -- D0 for the words, proposition_origin=assistant for the underlying framing, AD3 for the explicit adoption."
+  },
+  {
+    "gold_id": "gold_024",
+    "message_id": "aaa2f8b0-8fcd-43c9-be6e-e9bd2245b4c5",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Casual instruction about wanting a copy-paste review pipeline; no reuse_match, no paste/stylistic signals. D0."
+  },
+  {
+    "gold_id": "gold_025",
+    "message_id": "aaa2072c-fe57-40e4-b314-815a3b3ca6ab",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "One-word affirmation ('yes') following an assistant turn; clearly Derek's own word (D0). The specific preceding proposition's text isn't available in this bundle (only its role, not content), so adoption_status/proposition_origin are left null rather than guessed at."
+  },
+  {
+    "gold_id": "gold_026",
+    "message_id": "bbb21b7c-957c-4b30-a379-decef8708944",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Short casual instruction naming his own business (DAC David Allen Capital Inc.); no reuse_match, no paste/stylistic signals. D0."
+  },
+  {
+    "gold_id": "gold_027",
+    "message_id": "aaa27f8c-f1c8-45a9-a7a9-3a84c7e64eae",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Short casual edit instruction ('change this...to...'); no reuse_match, no paste/stylistic signals. D0."
+  },
+  {
+    "gold_id": "gold_028",
+    "message_id": "aaa2c296-8822-483c-bc54-efda25f8e559",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Casual continuation with a comma-separated list of self-descriptive titles; no reuse_match, no paste/stylistic signals. Part of the same personal-branding/bio-editing thread as gold_026/gold_027. D0."
+  },
+  {
+    "gold_id": "gold_029",
+    "message_id": "bbb21903-cd92-4826-91f0-8c84a3077aa3",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Short casual correction ('No, each department will have a different theme'); Derek's own rejection/clarification statement -- D0 describes these words, not the thing being rejected. No reuse_match, no paste/stylistic signals."
+  },
+  {
+    "gold_id": "gold_030",
+    "message_id": "bbb2152b-e81f-4f27-b880-639b59a6c554",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Short casual correction ('I don't want this to be about business'); Derek's own words. No reuse_match, no paste/stylistic signals."
+  },
+  {
+    "gold_id": "gold_031",
+    "message_id": "bbb2159b-d30c-4fc6-9731-8a463533e29d",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Short casual rejection ('That's not what I want'); Derek's own words. No reuse_match, no paste/stylistic signals."
+  },
+  {
+    "gold_id": "gold_032",
+    "message_id": "bbb2191d-1a04-494f-95a3-49a06688edeb",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Short casual rejection ('That's not what I asked for'); Derek's own words. No reuse_match, no paste/stylistic signals."
+  },
+  {
+    "gold_id": "gold_033",
+    "message_id": "bbb21997-e15b-4de7-8146-c85293540b18",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Two-word casual correction ('Wrong Alex'), likely addressing a named custom-GPT persona; Derek's own words. No reuse_match, no paste/stylistic signals."
+  },
+  {
+    "gold_id": "gold_034",
+    "message_id": "bbb2129d-06b1-4aa4-a1d2-9b1f30735c77",
+    "evidence_class": "MIXED",
+    "submitted_by": "derek",
+    "originator": "external",
+    "reuse_message_id": "bbb2129d-06b1-4aa4-a1d2-9b1f30735c77",
+    "adoption_status": "AD2",
+    "provenance_certainty": "PC4",
+    "requires_review": true,
+    "evidence_used": "paste_markers show has_url/has_unsubscribe/has_physical_address/has_signature_line all True. Body quotes Dan Kennedy, Denny Hatch, and Russell Brunson by name and is signed 'Best, Todd' with an Infusionsoft unsubscribe link and a Lake Worth, FL street address -- an unmistakable forwarded marketing email, not Derek's or the assistant's writing. Matches the spec's own DAC-Offer-Strategy worked example (Section 12.7) closely. Commentary 'How can I use this strategy in my business with DAC David Allen capital inc business funding services' = D0; the forwarded email = P0, original_author external. No cross-corpus reuse_match was needed/found because the paste markers alone are dispositive.",
+    "segments": [
+      {
+        "evidence_class": "D0",
+        "text_excerpt": "How can I use this strategy in my business with DAC David Allen capital inc business funding services"
+      },
+      {
+        "evidence_class": "P0",
+        "text_excerpt": "It's the single biggest lever you can pull...Dan Kennedy...Denny Hatch...Russell Brunson...Best, Todd [Unsubscribe] [6586 Hypoluxo Road Suite 129 Lake Worth, Florida]"
+      }
+    ]
+  },
+  {
+    "gold_id": "gold_035",
+    "message_id": "bbb2179d-0e24-4b93-a58a-a8f6875a64ef",
+    "evidence_class": "MIXED",
+    "submitted_by": "derek",
+    "originator": "assistant",
+    "origin_message_id": "a9899b75-7979-49c1-80c8-9a3f0d0e451a",
+    "origin_conversation_id": "690729c0-784c-832c-845f-31cfbef7d25e",
+    "reuse_message_id": "bbb2179d-0e24-4b93-a58a-a8f6875a64ef",
+    "adoption_status": "AD2",
+    "provenance_certainty": "PC4",
+    "requires_review": true,
+    "evidence_used": "Unquoted match (1171 shingles) against an earlier assistant message (a9899b75-7979-49c1-80c8-9a3f0d0e451a) in a different conversation. Commentary 'With this I can literally create a business just by taking business trips.' = D0; the Luxury Business Travel Division / 'Aero & Sea Command' plan that follows = P0, original_author assistant.",
+    "segments": [
+      {
+        "evidence_class": "D0",
+        "text_excerpt": "With this I can literally create a business just by taking business trips."
+      },
+      {
+        "evidence_class": "P0",
+        "text_excerpt": "Love it, this is a power move that signals scale, influence, and access. Let's build a real, audit-proof Luxury Business Travel Division..."
+      }
+    ]
+  },
+  {
+    "gold_id": "gold_036",
+    "message_id": "bbb2182a-cba9-4a31-b4be-e241b4758c22",
+    "evidence_class": "MIXED",
+    "submitted_by": "derek",
+    "originator": "assistant",
+    "origin_message_id": "494a7408-8372-430e-9ead-d56fc9b3fe21",
+    "origin_conversation_id": "69840cb3-e6d8-832b-b46a-ddc88fe0b94a",
+    "reuse_message_id": "bbb2182a-cba9-4a31-b4be-e241b4758c22",
+    "adoption_status": "AD2",
+    "provenance_certainty": "PC4",
+    "requires_review": true,
+    "evidence_used": "Unquoted match (1094 shingles) against an earlier assistant message (494a7408-8372-430e-9ead-d56fc9b3fe21) in a different conversation; paste_markers also show has_attributed_quote. Commentary 'Can I do this with an AI synthetic model.' = D0; the '90% of a million-follower playbook' content-strategy block that follows = P0, original_author assistant.",
+    "segments": [
+      {
+        "evidence_class": "D0",
+        "text_excerpt": "Can I do this with an AI synthetic model."
+      },
+      {
+        "evidence_class": "P0",
+        "text_excerpt": "Alright, this is already 90% of a million-follower playbook. I'm going to tighten it, weaponize it, and make it executable..."
+      }
+    ]
+  },
+  {
+    "gold_id": "gold_037",
+    "message_id": "bbb21242-c081-42a4-b39b-df1a93fa0d58",
+    "evidence_class": "P0",
+    "submitted_by": "derek",
+    "originator": "assistant",
+    "origin_message_id": "4df2be21-cf21-474f-af92-6676e3e17fe6",
+    "origin_conversation_id": "68326864-d084-8006-bf19-fb8192c961ad",
+    "reuse_message_id": "bbb21242-c081-42a4-b39b-df1a93fa0d58",
+    "adoption_status": null,
+    "provenance_certainty": "PC4",
+    "requires_review": false,
+    "evidence_used": "Entire message is an unquoted match (233 shingles) with no separable Derek commentary -- stage2 could not find a paste boundary ('message may be entirely pasted'). This is the exact record referenced in the spec's Section 6.0h Evidence-Truth-vs-Adjudication-Truth example, where Stage 1 located genuine source evidence (origin_message_id 4df2be21-cf21-474f-af92-6676e3e17fe6) that a prior manual review had missed. Classified P0, original_author assistant."
+  },
+  {
+    "gold_id": "gold_038",
+    "message_id": "bbb21332-1804-43b1-8fe7-be24a0287cf7",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Two-letter acknowledgment ('Ok'); Derek's own word (D0). Preceding assistant message's specific content isn't available in this bundle, so adoption_status is left null rather than assuming it resolves to a specific parent proposition (per the tightened AD3 definition in Section 6.0d)."
+  },
+  {
+    "gold_id": "gold_039",
+    "message_id": "bbb213ae-065b-402c-a74b-60dc7970b608",
+    "evidence_class": "D0",
+    "submitted_by": "derek",
+    "originator": "derek",
+    "adoption_status": null,
+    "provenance_certainty": "PC0",
+    "requires_review": false,
+    "evidence_used": "Two-letter acknowledgment ('Ok'); same reasoning as gold_038. D0, adoption_status left null."
+  },
+  {
+    "gold_id": "gold_040",
+    "message_id": "bbb21d45-8825-4ec7-9386-0632a1fa6a05",
+    "evidence_class": "UNRESOLVED",
+    "submitted_by": "derek",
+    "originator": "unresolved",
+    "adoption_status": null,
+    "provenance_certainty": "PC1",
+    "requires_review": true,
+    "evidence_used": "Elaborate 'Act like the creator of the Copyboarding(TM) process, Joe Shriefer, walk you through the whole thing' roleplay-setup message. Heavy bold markdown + repeated trademark-symbol usage is a real behavioral outlier (no other Derek-authored message in this 40-item set uses bold markdown at all), and portions read like promotional/sales copy ('gives you a tight, compelling sales message every time', 'ensure every new marketing promotion brings in no less than $1 million'). The 'Act like X, walk me through it' framing does match Derek's own established prompting style seen elsewhere (cf. gold_004's 'act like deagean smith style'), which made D0 genuinely tempting -- but reuse_match_found=False (no located source), and the polish/register suspicion signal still stands on its own. Per the corrected v0.2 rule, absence of a match cannot justify D0 here; resolves to UNRESOLVED. Flagged for human review given the close call."
+  }
+]

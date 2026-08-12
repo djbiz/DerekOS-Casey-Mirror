@@ -1,0 +1,1 @@
+{"frozen": true, "frozen_at": "2026-08-12", "version": "v1", "record_count": 40, "rule": "Do not edit labels in provenance_gold_set_v1.jsonl to improve any classifier score. New verified cases go into v1.1+ or a separate adversarial set."}

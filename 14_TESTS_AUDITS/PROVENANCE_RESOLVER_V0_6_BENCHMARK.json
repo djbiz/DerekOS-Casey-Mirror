@@ -1,0 +1,122 @@
+{
+  "benchmark": "PROVENANCE_ADVERSARIAL_SET_V1",
+  "resolver": "PROVENANCE_RESOLVER_V0.6",
+  "records": 230,
+  "frozen_key_gates": {
+    "R1_false_derek_attribution": {
+      "required": 0,
+      "observed": 0,
+      "passed": true,
+      "case_ids": []
+    },
+    "R2_d0_precision": {
+      "required": 0.98,
+      "observed": 1.0,
+      "passed": true
+    },
+    "R3_d0_set_unchanged_vs_v05": {
+      "required": true,
+      "observed": true,
+      "passed": true
+    },
+    "R4_ad3_ad4_accuracy": {
+      "required": 0.97,
+      "observed": 1.0,
+      "passed": true
+    },
+    "R5_mixed_precision_adj": {
+      "required": 1.0,
+      "observed": 1.0,
+      "passed": true
+    },
+    "R6_mixed_recall_adj": {
+      "required": 1.0,
+      "observed": 1.0,
+      "passed": true
+    },
+    "R7_p0_precision_adj": {
+      "required": 0.9,
+      "observed": 1.0,
+      "passed": true
+    }
+  },
+  "frozen_key": {
+    "d0": {
+      "predicted": 38,
+      "adjudicated": 47,
+      "precision": 1.0,
+      "recall": 0.8085106382978723
+    },
+    "p0_precision": 0.6875,
+    "ad3_ad4_accuracy": 1.0
+  },
+  "adjudication_key_mixed_boundary": {
+    "adjudicated_mixed": [
+      "adv_003597",
+      "adv_021989"
+    ],
+    "predicted_mixed": [
+      "adv_003597",
+      "adv_021989"
+    ],
+    "correct_mixed": [
+      "adv_003597",
+      "adv_021989"
+    ],
+    "mixed_precision": 1.0,
+    "mixed_recall": 1.0,
+    "adjudicated_p0": [
+      "adv_000346",
+      "adv_000735",
+      "adv_000941",
+      "adv_001324",
+      "adv_001326",
+      "adv_001443",
+      "adv_006905",
+      "adv_007563",
+      "adv_007820",
+      "adv_009750",
+      "adv_013001",
+      "adv_014438",
+      "adv_018155",
+      "adv_019425",
+      "adv_029474",
+      "adv_030261",
+      "adv_030897",
+      "adv_031597",
+      "adv_032963",
+      "adv_033054"
+    ],
+    "predicted_p0_within_adjudication": [
+      "adv_000346",
+      "adv_000735",
+      "adv_000941",
+      "adv_001324",
+      "adv_001326",
+      "adv_001443",
+      "adv_006905",
+      "adv_007563",
+      "adv_007820",
+      "adv_009750",
+      "adv_013001",
+      "adv_014438",
+      "adv_018155",
+      "adv_019425",
+      "adv_029474",
+      "adv_030261",
+      "adv_030897",
+      "adv_031597",
+      "adv_032963",
+      "adv_033054"
+    ],
+    "p0_precision": 1.0,
+    "p0_recall": 1.0,
+    "adjudicated_unresolved": [
+      "adv_001444",
+      "adv_002059",
+      "adv_004101",
+      "adv_017999"
+    ]
+  },
+  "disposition": "PROVENANCE_CORPUS_V1 NOT AUTHORIZED; semantic extraction and Conglomerate V0.2 reconstruction remain behind the out-of-sample gate."
+}

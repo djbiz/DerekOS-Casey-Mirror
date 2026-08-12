@@ -1,0 +1,18 @@
+{
+  "artifact": "PROVENANCE_INDEX_V0.3_BENCHMARK_TRANCHE_1",
+  "file": "frozen_benchmark_v0_3_cases.jsonl",
+  "sha256": "39ec42ae008d03fc2720f1d86f148477f1a3a90802fa85ba92efda44d08ad4a0",
+  "case_count": 6,
+  "categories": {
+    "cross_platform_reverse_direction": 1,
+    "multiple_earlier_sources_same_conversation": 1,
+    "reuse_chain_multi_hop": 2,
+    "cross_actor_voice_convergence_control": 1,
+    "scattered_generic_overlap_control": 1
+  },
+  "built_from": "CORPUS_RELEASE_001",
+  "blind_to": "PROVENANCE_INDEX_V0.3 predictions - ground truth determined by direct 8-gram shingle comparison and manual text/timestamp reading, written before V0.3 completed its first corpus run",
+  "separate_from": "frozen_benchmark/frozen_benchmark_cases.jsonl (the 30-case V0.2 benchmark) - this is an ADDITIONAL, independent tranche, not a replacement or extension of that frozen file",
+  "frozen_rule": "This file must never be edited in place after freezing. Corrections become new, linked, superseding records.",
+  "scoring_note": "V0.3 must not be tuned against this benchmark after freezing."
+}

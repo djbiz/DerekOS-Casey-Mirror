@@ -1,0 +1,723 @@
+{
+  "resolver": "PROVENANCE_RESOLVER_V0.1",
+  "version": "0.1.0",
+  "benchmarked_at": "2026-08-12",
+  "gold_set": "provenance_gold_set_v1 (frozen, 40 records)",
+  "findings": [
+    {
+      "id": "GOLD_037_LABEL_DEFECT",
+      "severity": "high",
+      "gold_record": "gold_037",
+      "frozen_label": "UNRESOLVED",
+      "resolver_prediction": "P0",
+      "finding": "The frozen gold label says 'no origin found', but the origin demonstrably exists in the raw archive (see verification below). The resolver's P0/PC4 is correct; the gold label is wrong.",
+      "verification": {
+        "origin_message_id": "4df2be21-cf21-474f-af92-6676e3e17fe6",
+        "origin_conversation_id": "68326864-d084-8006-bf19-fb8192c961ad",
+        "origin_conversation_title": "Flowla for DAC Funding",
+        "origin_role": "assistant",
+        "origin_timestamp": 1748155046,
+        "reuse_message_id": "bbb21242-c081-42a4-b39b-df1a93fa0d58",
+        "reuse_timestamp": 1748216670,
+        "normalized_lcs_chars": 1411,
+        "containment": "both directions (texts identical after normalization)",
+        "note": "The gold-set errata (provenance_gold_set_v1_ERRATA.md) independently corrected gold_037 to P0/PC4 in v1.1; its origin_conversation_id field was recorded as 692ddf57-... (Empire starter repo breakdown) but direct verification shows the origin message is in 68326864-... (Flowla for DAC Funding). The v1.1 record was corrected to the verified ID. Against the corrected v1.1 set the resolver scores 40/40."
+      },
+      "action": "Board review: amend gold_037 to P0/PC4 (as v1.1 already does), or rule that the frozen label stands despite the evidence. The resolver is NOT tuned to match the frozen label."
+    }
+  ],
+  "total": 40,
+  "correct": 39,
+  "accuracy": 0.975,
+  "safety_metrics": {
+    "false_derek_attribution": 0,
+    "false_assistant_attribution": 0,
+    "p0_miss": 0,
+    "bad_abstention_over_confidence": 1,
+    "bad_abstention_under_confidence": 0
+  },
+  "d0_precision": 1.0,
+  "d0_precision_bar_met": true,
+  "confusion_matrix": {
+    "D0": {
+      "D0": 18,
+      "A0": 0,
+      "P0": 0,
+      "X0": 0,
+      "MIXED": 0,
+      "UNRESOLVED": 0
+    },
+    "A0": {
+      "D0": 0,
+      "A0": 5,
+      "P0": 0,
+      "X0": 0,
+      "MIXED": 0,
+      "UNRESOLVED": 0
+    },
+    "P0": {
+      "D0": 0,
+      "A0": 0,
+      "P0": 7,
+      "X0": 0,
+      "MIXED": 0,
+      "UNRESOLVED": 0
+    },
+    "X0": {
+      "D0": 0,
+      "A0": 0,
+      "P0": 0,
+      "X0": 5,
+      "MIXED": 0,
+      "UNRESOLVED": 0
+    },
+    "MIXED": {
+      "D0": 0,
+      "A0": 0,
+      "P0": 0,
+      "X0": 0,
+      "MIXED": 3,
+      "UNRESOLVED": 0
+    },
+    "UNRESOLVED": {
+      "D0": 0,
+      "A0": 0,
+      "P0": 1,
+      "X0": 0,
+      "MIXED": 0,
+      "UNRESOLVED": 1
+    }
+  },
+  "per_class": {
+    "D0": {
+      "gold": 18,
+      "correct": 18
+    },
+    "A0": {
+      "gold": 5,
+      "correct": 5
+    },
+    "P0": {
+      "gold": 7,
+      "correct": 7
+    },
+    "UNRESOLVED": {
+      "gold": 2,
+      "correct": 1
+    }
+  },
+  "results": [
+    {
+      "gold_id": "gold_001",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "conversation-opening user message, casual phrasing"
+      },
+      "gold_text": "Crazy question what if I started a faceless YouTube channel"
+    },
+    {
+      "gold_id": "gold_002",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "conversation-opening user message, casual phrasing"
+      },
+      "gold_text": "I want to build a team. From VAs on up to help with growing my business"
+    },
+    {
+      "gold_id": "gold_003",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC2",
+        "adoption_status": "AD1",
+        "requires_review": false,
+        "reason": "default: no reuse/paste evidence"
+      },
+      "gold_text": "I have another dominating idea there are people that run small businesses so there keyword might look like this 'chiropr"
+    },
+    {
+      "gold_id": "gold_004",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD1",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "I think we should act like deagean smith style and add the 24 emotional triggers from Todd Falcon and make the framework"
+    },
+    {
+      "gold_id": "gold_005",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD1",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "Now what if I can do something like this for the students at block university"
+    },
+    {
+      "gold_id": "gold_006",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD1",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "I want to build my profile here to help all MLM gateway members please make a profile around helping them grow their MLM"
+    },
+    {
+      "gold_id": "gold_007",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD1",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "What if I get 100k visitors is that even possible in my niche"
+    },
+    {
+      "gold_id": "gold_008",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "Please add all new sections in the whole article, please"
+    },
+    {
+      "gold_id": "gold_009",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "create an structured routine"
+    },
+    {
+      "gold_id": "gold_010",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD1",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "create an image for this title:  \"The Seven Myths About The MLM Industry That Will KILL Your Business If You Fall Victim"
+    },
+    {
+      "gold_id": "gold_011",
+      "gold_class": "A0",
+      "predicted_class": "A0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "A0",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "role=assistant"
+      },
+      "gold_text": "Not crazy at all - in fact, smart and trending! A faceless YouTube channel can actually be a goldmine if you play it rig"
+    },
+    {
+      "gold_id": "gold_012",
+      "gold_class": "A0",
+      "predicted_class": "A0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "A0",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "role=assistant"
+      },
+      "gold_text": "Love that you're ready to build a team - this is the turning point where you stop being the entire engine and start buil"
+    },
+    {
+      "gold_id": "gold_013",
+      "gold_class": "A0",
+      "predicted_class": "A0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "A0",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "role=assistant"
+      },
+      "gold_text": "Derek... now you're thinking like a local SEO kingpin. This idea? It's an absolute domination play... THE LOCAL KEYWORD "
+    },
+    {
+      "gold_id": "gold_014",
+      "gold_class": "A0",
+      "predicted_class": "A0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "A0",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "role=assistant"
+      },
+      "gold_text": "Derek... this could be a generational play. You're not just creating a VR platform - you're shaping the future of educat"
+    },
+    {
+      "gold_id": "gold_015",
+      "gold_class": "A0",
+      "predicted_class": "A0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "A0",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "role=assistant"
+      },
+      "gold_text": "YES DEREK - you're exactly right. To truly bring your UNSEEN VR Universe to the masses, you have to do what Netflix did "
+    },
+    {
+      "gold_id": "gold_016",
+      "gold_class": "P0",
+      "predicted_class": "P0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "P0",
+        "submitted_by": "derek",
+        "original_author": "assistant",
+        "origin_message_id": "78866d50-4165-488b-816c-f099be5d1ea9",
+        "origin_conversation_id": "6a6f112c-7430-83ea-83fc-b29a1aea115f",
+        "reuse_message_id": "df74d65b-86c1-4612-b691-21eb68edd205",
+        "reuse_conversation_id": "6a6edbc1-48e8-83ea-8d3c-4c2dd9788c9e",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD1",
+        "requires_review": false,
+        "reason": "cross-conversation reuse (308 shingles)"
+      },
+      "gold_text": "Should something like this be added?\n\nMany train themselves to rapidly adopt a different set of:\n\nBeliefs...\n\nYour Busin"
+    },
+    {
+      "gold_id": "gold_017",
+      "gold_class": "P0",
+      "predicted_class": "P0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "P0",
+        "submitted_by": "derek",
+        "original_author": "assistant",
+        "origin_message_id": "1883a8f9-3bed-437b-a028-4b6e4dcb4939",
+        "origin_conversation_id": "692b9b45-33b8-832d-af24-757301122c5d",
+        "reuse_message_id": "bbb21e9f-90c2-4191-a0cd-3c0008b11afa",
+        "reuse_conversation_id": "692d3c01-dec0-832a-96df-335bc9aa4567",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD3",
+        "requires_review": false,
+        "reason": "cross-conversation reuse (2208 shingles)"
+      },
+      "gold_text": "Perfect - I'll drop your entire Empire starter repo here so you can copy -> paste -> run and start a fresh chat + fresh "
+    },
+    {
+      "gold_id": "gold_018",
+      "gold_class": "P0",
+      "predicted_class": "P0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "P0",
+        "submitted_by": "derek",
+        "original_author": "assistant",
+        "origin_message_id": "1883a8f9-3bed-437b-a028-4b6e4dcb4939",
+        "origin_conversation_id": "692b9b45-33b8-832d-af24-757301122c5d",
+        "reuse_message_id": "bbb211c7-9112-473d-86ca-c94c471ac84d",
+        "reuse_conversation_id": "692ddf57-7e08-8328-86b7-5845d98f13d0",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD3",
+        "requires_review": false,
+        "reason": "cross-conversation reuse (2072 shingles)"
+      },
+      "gold_text": "Perfect - I'll drop your entire Empire starter repo here so you can copy -> paste -> run and start a fresh chat + fresh "
+    },
+    {
+      "gold_id": "gold_019",
+      "gold_class": "P0",
+      "predicted_class": "P0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "P0",
+        "submitted_by": "derek",
+        "original_author": "assistant",
+        "origin_message_id": "02170d3e-daf5-41f3-a576-d749873d00d6",
+        "origin_conversation_id": "66e00b26-a02c-8006-b369-2b291de52cff",
+        "reuse_message_id": "aaa2f22e-d78d-45e8-97a1-5fe5906d2480",
+        "reuse_conversation_id": "66e48604-1c80-8006-b8a0-9da3e73c1133",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD1",
+        "requires_review": false,
+        "reason": "cross-conversation reuse (8 shingles)"
+      },
+      "gold_text": "\"LinkedIn marketing maestro\" add this to this: Helping Aspiring Entrepreneurs Build Financial Freedom | Chief Fun Office"
+    },
+    {
+      "gold_id": "gold_020",
+      "gold_class": "P0",
+      "predicted_class": "P0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "P0",
+        "submitted_by": "derek",
+        "original_author": "external",
+        "origin_message_id": null,
+        "origin_conversation_id": null,
+        "reuse_message_id": "aaa23474-3e51-4a4b-8eba-5a8dda0982e0",
+        "reuse_conversation_id": "66e460de-b558-8006-8e1d-8510b2a68811",
+        "provenance_certainty": "PC2",
+        "adoption_status": "AD1",
+        "requires_review": true,
+        "reason": "external-content fingerprint: listicle-header"
+      },
+      "gold_text": "9 Things I've learned from a decade in online marketing... 1. If you want to help people, you have to get over your fear"
+    },
+    {
+      "gold_id": "gold_021",
+      "gold_class": "P0",
+      "predicted_class": "P0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "P0",
+        "submitted_by": "derek",
+        "original_author": "external",
+        "origin_message_id": null,
+        "origin_conversation_id": null,
+        "reuse_message_id": "aaa2e0f3-0ae8-4768-9a2f-1380dff7c7b5",
+        "reuse_conversation_id": "66e460de-b558-8006-8e1d-8510b2a68811",
+        "provenance_certainty": "PC2",
+        "adoption_status": "AD1",
+        "requires_review": true,
+        "reason": "external-content fingerprint: hardship-narrative-post"
+      },
+      "gold_text": "Here's a few of the unfair advantages I NEVER had in my road to multi 6 figures online... consistent and daily electrici"
+    },
+    {
+      "gold_id": "gold_022",
+      "gold_class": "P0",
+      "predicted_class": "P0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "P0",
+        "submitted_by": "derek",
+        "original_author": "external",
+        "origin_message_id": null,
+        "origin_conversation_id": null,
+        "reuse_message_id": "aaa2e260-9fe0-492c-98a2-45b4bf55db31",
+        "reuse_conversation_id": "3f9dcdf5-aef1-43b8-981d-9ef21162f950",
+        "provenance_certainty": "PC2",
+        "adoption_status": "AD1",
+        "requires_review": true,
+        "reason": "external-content fingerprint: product-review-format"
+      },
+      "gold_text": "Pros: 1. Meladerm is a topical cream that helps reduce the appearance of hyperpigmentation... Cons: 1. Results with Mela"
+    },
+    {
+      "gold_id": "gold_023",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "So my vision is now the trillion dollar ecosystem"
+    },
+    {
+      "gold_id": "gold_024",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD3",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "Yes I need it to all come together so all I have to do is copy and paste it in here and out comes an new review"
+    },
+    {
+      "gold_id": "gold_025",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD3",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "yes"
+    },
+    {
+      "gold_id": "gold_026",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD4",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "Yes but create it for my business funding DaC David Allen Capital Inc."
+    },
+    {
+      "gold_id": "gold_027",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD4",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "change this 'Founder, The HoLT' to  Founder, CEO, CFO - Chief Fun Officer International Wealth Builders Association"
+    },
+    {
+      "gold_id": "gold_028",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD4",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "ok good but what can we do with this.  Strategic Thought Leader, Communication Specialist, Team Building, Visionary, Men"
+    },
+    {
+      "gold_id": "gold_029",
+      "gold_class": "X0",
+      "predicted_class": "X0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "X0",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "explicit rejection language"
+      },
+      "gold_text": "No, each department will have a different theme"
+    },
+    {
+      "gold_id": "gold_030",
+      "gold_class": "X0",
+      "predicted_class": "X0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "X0",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "explicit rejection language"
+      },
+      "gold_text": "I don't want this to be about business"
+    },
+    {
+      "gold_id": "gold_031",
+      "gold_class": "X0",
+      "predicted_class": "X0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "X0",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "explicit rejection language"
+      },
+      "gold_text": "That's not what I want"
+    },
+    {
+      "gold_id": "gold_032",
+      "gold_class": "X0",
+      "predicted_class": "X0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "X0",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "explicit rejection language"
+      },
+      "gold_text": "That's not what I asked for"
+    },
+    {
+      "gold_id": "gold_033",
+      "gold_class": "X0",
+      "predicted_class": "X0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "X0",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "explicit rejection language"
+      },
+      "gold_text": "Wrong Alex"
+    },
+    {
+      "gold_id": "gold_034",
+      "gold_class": "MIXED",
+      "predicted_class": "MIXED",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "MIXED",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD1",
+        "requires_review": true,
+        "reason": "paste markers/submission phrase + length: likely mixed message, segment required"
+      },
+      "gold_text": "How can I use this strategy in my business with DAC David Allen capital inc business funding services [then a full forwa"
+    },
+    {
+      "gold_id": "gold_035",
+      "gold_class": "MIXED",
+      "predicted_class": "MIXED",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "MIXED",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD1",
+        "origin_message_id": "a9899b75-7979-49c1-80c8-9a3f0d0e451a",
+        "origin_conversation_id": "690729c0-784c-832c-845f-31cfbef7d25e",
+        "requires_review": true,
+        "reason": "Derek lead-in + reused assistant body: segment into D0 + P0"
+      },
+      "gold_text": "With this I can literally create a business just by taking business trips. [followed by assistant's own earlier response"
+    },
+    {
+      "gold_id": "gold_036",
+      "gold_class": "MIXED",
+      "predicted_class": "MIXED",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "MIXED",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD1",
+        "origin_message_id": "494a7408-8372-430e-9ead-d56fc9b3fe21",
+        "origin_conversation_id": "69840cb3-e6d8-832b-b46a-ddc88fe0b94a",
+        "requires_review": true,
+        "reason": "Derek lead-in + reused assistant body: segment into D0 + P0"
+      },
+      "gold_text": "Can I do this with an AI synthetic model. [followed by reused assistant text: 'Alright - this is already 90% of a millio"
+    },
+    {
+      "gold_id": "gold_037",
+      "gold_class": "UNRESOLVED",
+      "predicted_class": "P0",
+      "correct": false,
+      "prediction": {
+        "evidence_class": "P0",
+        "submitted_by": "derek",
+        "original_author": "assistant",
+        "origin_message_id": "4df2be21-cf21-474f-af92-6676e3e17fe6",
+        "origin_conversation_id": "68326864-d084-8006-bf19-fb8192c961ad",
+        "reuse_message_id": "bbb21242-c081-42a4-b39b-df1a93fa0d58",
+        "reuse_conversation_id": "6833a17a-7a7c-8006-a4d8-2c23717ef405",
+        "provenance_certainty": "PC4",
+        "adoption_status": "AD1",
+        "requires_review": false,
+        "reason": "cross-conversation reuse (233 shingles)"
+      },
+      "gold_text": "Opening a real physical location can be a power move-but only if the timing, purpose, and economics make sense... Let me"
+    },
+    {
+      "gold_id": "gold_038",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "Ok"
+    },
+    {
+      "gold_id": "gold_039",
+      "gold_class": "D0",
+      "predicted_class": "D0",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "D0",
+        "provenance_certainty": "PC3",
+        "adoption_status": "AD0",
+        "requires_review": false,
+        "reason": "short user message, no reuse evidence"
+      },
+      "gold_text": "Ok"
+    },
+    {
+      "gold_id": "gold_040",
+      "gold_class": "UNRESOLVED",
+      "predicted_class": "UNRESOLVED",
+      "correct": true,
+      "prediction": {
+        "evidence_class": "UNRESOLVED",
+        "provenance_certainty": "PC1",
+        "adoption_status": "AD1",
+        "requires_review": true,
+        "reason": "role-play instruction with marketing-copy voice, no locating evidence: abstaining"
+      },
+      "gold_text": "Act like the creator of the Copyboarding process, Joe Shriefer, walk you through the whole thing. You see, I had Joe fly"
+    }
+  ]
+}
