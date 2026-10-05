@@ -1,5 +1,10 @@
 """Governed retrieval, projection, candidate intake, and review for Master Brain."""
 
+
+from .config import RuntimeConfig
+from .diagnostics import DiagnosticReport, run_diagnostics
+from .ingest import IngestError, IngestReport, run_ingest
+from .storage import BulkResult, PathConfinementError, StorageError
 from .candidate_intake import (
     CandidateIntake,
     CandidateIntakeError,
@@ -29,6 +34,15 @@ from .review_workflow import (
     ReviewWorkflow,
 )
 __all__ = [
+    "StorageError",
+    "PathConfinementError",
+    "BulkResult",
+    "run_ingest",
+    "IngestReport",
+    "IngestError",
+    "run_diagnostics",
+    "DiagnosticReport",
+    "RuntimeConfig",
     "CandidateIntake",
     "CandidateIntakeError",
     "CandidatePathError",

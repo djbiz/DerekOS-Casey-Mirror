@@ -106,3 +106,23 @@ venv/
 08_MASTER_PLAN/reconstruction_pilots/conglomerate/GEN3_ADOPTION_CHAINS_V0.1.json
 08_MASTER_PLAN/reconstruction_pilots/conglomerate/GEN3_PRIORITY_PROVENANCE_SET_V0.1.json
 
+
+# Python packaging/test/audit artifacts
+*.egg-info/
+build/
+dist/
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pip-audit-cache/
+
+# Private/runtime Master Brain data (fixtures in tests use temp dirs)
+.env
+00_RAW_ARCHIVE/
+10_CANONICAL_KNOWLEDGE/
+12_CONFLICTS/*.jsonl
+12_CONFLICTS/*.jsonl.lock
+MasterBrain/Published/

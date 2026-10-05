@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "derekos-master-brain"
+version = "0.1.0"
+description = "Governed Master Brain bridge, ingest, diagnostics, and operator CLI"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{name = "DerekOS"}]
+license = {text = "Proprietary"}
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+  "pip-audit>=2.7,<3",
+]
+
+[project.scripts]
+derekos = "master_brain_bridge.cli:main"
+
+[tool.setuptools]
+packages = ["master_brain_bridge"]

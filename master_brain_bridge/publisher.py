@@ -16,7 +16,9 @@ import tempfile
 from pathlib import Path
 from typing import Any
 
+from .config import RuntimeConfig
 from .repository import ReadOnlyCanonicalRepository
+from .storage import BulkResult
 
 LOGGER = logging.getLogger(__name__)
 
@@ -72,10 +74,10 @@ class ManagedProjectionPublisher:
     def from_environment(cls, repository: ReadOnlyCanonicalRepository) -> "ManagedProjectionPublisher":
         """Create the publisher from the canonical Obsidian vault path."""
 
-        vault_path = os.getenv("OBSIDIAN_VAULT_PATH")
-        if not vault_path:
+        config = RuntimeConfig.load()
+        if config.obsidian_vault_path is None:
             raise ProjectionError("OBSIDIAN_VAULT_PATH not configured")
-        return cls(repository, vault_path)
+        return cls(repository, config.obsidian_vault_path)
 
     @property
     def managed_root(self) -> Path:
@@ -110,20 +112,21 @@ class ManagedProjectionPublisher:
         self._log_projection("publish", receipt)
         return receipt
 
-    def publish_all_current(self) -> list[dict[str, Any]]:
-        """Publish all CURRENT canonical records. Returns receipts."""
+    def publish_all_current(self) -> BulkResult:
+        """Publish all CURRENT canonical records with per-item outcomes."""
 
-        receipts: list[dict[str, Any]] = []
+        result = BulkResult("publish_all_current")
         for knowledge_id in self._all_knowledge_ids():
             try:
                 record = self._repository.get(knowledge_id)
                 if not self._is_publishable(record):
                     continue
                 receipt = self.publish(knowledge_id)
-                receipts.append(receipt)
+                result.add_success(receipt)
             except ProjectionError as exc:
-                LOGGER.warning("publish_all_current skipped %s: %s", knowledge_id, exc)
-        return receipts
+                result.add_failure(knowledge_id, exc)
+                LOGGER.warning("publish_all_current failed knowledge_id=%s error=%s", knowledge_id, exc)
+        return result
 
     def _validate_record_for_projection(self, record: dict[str, Any]) -> None:
         required = {"knowledge_id", "revision", "canonical_status", "title", "content", "evidence_ids"}
