@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  python:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Install package and dev tools
+        run: python -m pip install -e '.[dev]'
+      - name: Compile supported modules and wrappers
+        run: python -m compileall -q master_brain_bridge 01_INGEST/ingest.py ingest.py
+      - name: Unit and acceptance tests
+        run: python -m unittest discover -s 14_TESTS_AUDITS -p 'test_master_brain*.py' -v
+      - name: Dependency audit
+        run: python -m pip_audit

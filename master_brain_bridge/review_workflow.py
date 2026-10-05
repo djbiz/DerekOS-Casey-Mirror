@@ -9,7 +9,6 @@ Founder approval is mandatory for high-risk changes.
 from __future__ import annotations
 
 import hashlib
-import json
 import logging
 import os
 import uuid
@@ -17,7 +16,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Callable
 
+from .config import RuntimeConfig
 from .repository import ReadOnlyCanonicalRepository, CanonicalKnowledgeNotFound
+from .storage import BulkResult, StorageError, append_jsonl, read_jsonl
 
 LOGGER = logging.getLogger(__name__)
 
@@ -102,15 +103,8 @@ class ReviewWorkflow:
     ) -> "ReviewWorkflow":
         """Create the workflow from environment variables."""
 
-        queue_path = os.getenv("MASTER_BRAIN_CANDIDATE_QUEUE_PATH")
-        if not queue_path:
-            repository_root = Path(__file__).resolve().parents[1]
-            queue_path = repository_root / "12_CONFLICTS" / "candidate_queue.jsonl"
-        review_log_path = os.getenv("MASTER_BRAIN_REVIEW_LOG_PATH")
-        if not review_log_path:
-            repository_root = Path(__file__).resolve().parents[1]
-            review_log_path = repository_root / "12_CONFLICTS" / "review_log.jsonl"
-        return cls(repository, queue_path, review_log_path, reviewer_identity=reviewer_identity)
+        config = RuntimeConfig.load()
+        return cls(repository, config.candidate_queue_path, config.review_log_path, reviewer_identity=reviewer_identity)
 
     def review_candidate(self, candidate_id: str) -> dict[str, Any]:
         """Review one candidate and return the review decision.
@@ -152,19 +146,21 @@ class ReviewWorkflow:
         self._log_review(review)
         return review
 
-    def review_all_pending(self) -> list[dict[str, Any]]:
-        """Review all governed intake-state candidates. Returns reviews."""
+    def review_all_pending(self) -> BulkResult:
+        """Review all governed intake-state candidates with per-item outcomes."""
 
-        reviews: list[dict[str, Any]] = []
+        result = BulkResult("review_all_pending")
         for candidate in self._load_all_candidates():
             if candidate.get("status") not in REVIEWABLE_STATUSES:
                 continue
+            identifier = candidate.get("candidate_id", "<missing-candidate-id>")
             try:
-                review = self.review_candidate(candidate["candidate_id"])
-                reviews.append(review)
+                review = self.review_candidate(identifier)
+                result.add_success(review)
             except ReviewError as exc:
-                LOGGER.warning("review_all_pending skipped %s: %s", candidate.get("candidate_id"), exc)
-        return reviews
+                result.add_failure(identifier, exc)
+                LOGGER.warning("review_all_pending failed candidate_id=%s error=%s", identifier, exc)
+        return result
 
     def propose_canonical_commit(self, review_id: str, *, approval_record: dict[str, Any]) -> dict[str, Any]:
         """Propose a canonical commit based on an approved review.
@@ -235,23 +231,10 @@ class ReviewWorkflow:
         raise CandidateNotFound(f"candidate not found in queue: {candidate_id}")
 
     def _load_all_candidates(self) -> list[dict[str, Any]]:
-        if not self._queue_path.is_file():
-            return []
         try:
-            source_bytes = self._queue_path.read_bytes()
-        except OSError as exc:
-            raise ReviewError(f"candidate queue unreadable: {self._queue_path}") from exc
-        if not source_bytes.strip():
-            return []
-        records: list[dict[str, Any]] = []
-        for line_number, raw_line in enumerate(source_bytes.splitlines(), start=1):
-            if not raw_line.strip():
-                continue
-            try:
-                records.append(json.loads(raw_line))
-            except (UnicodeDecodeError, json.JSONDecodeError) as exc:
-                raise ReviewError(f"invalid JSON at queue line {line_number}") from exc
-        return records
+            return read_jsonl(self._queue_path)
+        except StorageError as exc:
+            raise ReviewError(str(exc)) from exc
 
     def _classify_candidate(self, candidate: dict[str, Any]) -> str:
         proposed_knowledge_id = candidate.get("proposed_knowledge_id")
@@ -502,31 +485,16 @@ class ReviewWorkflow:
         raise ReviewError(f"review not found: {review_id}")
 
     def _read_review_log(self) -> list[dict[str, Any]]:
-        if not self._review_log_path.is_file():
-            return []
         try:
-            source_bytes = self._review_log_path.read_bytes()
-        except OSError as exc:
-            raise ReviewError(f"review log unreadable: {self._review_log_path}") from exc
-        if not source_bytes.strip():
-            return []
-        records: list[dict[str, Any]] = []
-        for line_number, raw_line in enumerate(source_bytes.splitlines(), start=1):
-            if not raw_line.strip():
-                continue
-            try:
-                records.append(json.loads(raw_line))
-            except (UnicodeDecodeError, json.JSONDecodeError) as exc:
-                raise ReviewError(f"invalid JSON at review log line {line_number}") from exc
-        return records
+            return read_jsonl(self._review_log_path)
+        except StorageError as exc:
+            raise ReviewError(str(exc)) from exc
 
     def _append_review_log(self, review: dict[str, Any]) -> None:
-        self._review_log_path.parent.mkdir(parents=True, exist_ok=True)
-        line = json.dumps(review, sort_keys=True) + "\n"
-        with open(self._review_log_path, "a", encoding="utf-8") as output:
-            output.write(line)
-            output.flush()
-            os.fsync(output.fileno())
+        try:
+            append_jsonl(self._review_log_path, review)
+        except StorageError as exc:
+            raise ReviewError(str(exc)) from exc
 
     @staticmethod
     def _log_review(review: dict[str, Any]) -> None:

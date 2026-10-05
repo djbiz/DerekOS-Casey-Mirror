@@ -64,11 +64,8 @@ class ReadOnlyCanonicalRepository:
     def from_environment(cls) -> "ReadOnlyCanonicalRepository":
         """Create the repository from one explicit/default canonical path."""
 
-        configured = os.getenv("MASTER_BRAIN_CANONICAL_STORE_PATH")
-        if configured:
-            return cls(configured)
-        repository_root = Path(__file__).resolve().parents[1]
-        return cls(repository_root / "10_CANONICAL_KNOWLEDGE" / "canonical_records.jsonl")
+        from .config import RuntimeConfig
+        return cls(RuntimeConfig.load().canonical_store_path)
 
     @property
     def store_sha256(self) -> str:

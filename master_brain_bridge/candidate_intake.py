@@ -9,7 +9,6 @@ status does not mutate canonical knowledge — that belongs to a later review/co
 from __future__ import annotations
 
 import hashlib
-import json
 import logging
 import os
 import re
@@ -17,7 +16,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+from .config import RuntimeConfig
 from .repository import CanonicalKnowledgeNotFound, ReadOnlyCanonicalRepository
+from .storage import BulkResult, StorageError, append_jsonl, read_jsonl
 
 LOGGER = logging.getLogger(__name__)
 
@@ -88,16 +89,12 @@ class CandidateIntake:
     ) -> "CandidateIntake":
         """Create the intake from environment variables."""
 
-        vault_path = os.getenv("OBSIDIAN_VAULT_PATH")
-        if not vault_path:
+        config = RuntimeConfig.load()
+        vault_path = config.obsidian_vault_path
+        if vault_path is None:
             raise CandidateIntakeError("OBSIDIAN_VAULT_PATH not configured")
         if queue_path is None:
-            configured = os.getenv("MASTER_BRAIN_CANDIDATE_QUEUE_PATH")
-            if configured:
-                queue_path = configured
-            else:
-                repository_root = Path(__file__).resolve().parents[1]
-                queue_path = repository_root / "12_CONFLICTS" / "candidate_queue.jsonl"
+            queue_path = config.candidate_queue_path
         return cls(vault_path, queue_path, repository=repository)
 
     @property
@@ -135,21 +132,22 @@ class CandidateIntake:
         self._log_intake("ingest", record)
         return record
 
-    def ingest_all(self) -> list[dict[str, Any]]:
-        """Ingest all candidate notes from the candidate subtree. Returns records."""
+    def ingest_all(self) -> BulkResult:
+        """Ingest all candidate notes and return structured per-item outcomes."""
 
+        result = BulkResult("candidate_intake_all")
         if not self._candidates_root.is_dir():
-            return []
-        records: list[dict[str, Any]] = []
+            return result
         for md_file in sorted(self._candidates_root.rglob("*.md")):
             if not md_file.is_file() or md_file.is_symlink():
                 continue
             try:
                 record = self.ingest(md_file)
-                records.append(record)
+                result.add_success(record)
             except CandidateIntakeError as exc:
-                LOGGER.warning("ingest_all skipped %s: %s", md_file, exc)
-        return records
+                result.add_failure(md_file.relative_to(self._vault_root).as_posix(), exc)
+                LOGGER.warning("ingest_all failed source=%s error=%s", md_file.relative_to(self._vault_root).as_posix(), exc)
+        return result
 
     def _resolve_and_validate_path(self, source_path: str | Path) -> Path:
         requested = Path(source_path).expanduser()
@@ -351,31 +349,16 @@ class CandidateIntake:
         return None
 
     def _read_queue(self) -> list[dict[str, Any]]:
-        if not self._queue_path.is_file():
-            return []
         try:
-            source_bytes = self._queue_path.read_bytes()
-        except OSError as exc:
-            raise CandidateQueueError(f"candidate queue unreadable: {self._queue_path}") from exc
-        if not source_bytes.strip():
-            return []
-        records: list[dict[str, Any]] = []
-        for line_number, raw_line in enumerate(source_bytes.splitlines(), start=1):
-            if not raw_line.strip():
-                continue
-            try:
-                records.append(json.loads(raw_line))
-            except (UnicodeDecodeError, json.JSONDecodeError) as exc:
-                raise CandidateQueueError(f"invalid JSON at queue line {line_number}") from exc
-        return records
+            return read_jsonl(self._queue_path)
+        except StorageError as exc:
+            raise CandidateQueueError(str(exc)) from exc
 
     def _append_to_queue(self, record: dict[str, Any]) -> None:
-        self._queue_path.parent.mkdir(parents=True, exist_ok=True)
-        line = json.dumps(record, sort_keys=True) + "\n"
-        with open(self._queue_path, "a", encoding="utf-8") as output:
-            output.write(line)
-            output.flush()
-            os.fsync(output.fileno())
+        try:
+            append_jsonl(self._queue_path, record)
+        except StorageError as exc:
+            raise CandidateQueueError(str(exc)) from exc
 
     @staticmethod
     def _log_intake(operation: str, record: dict[str, Any]) -> None:
