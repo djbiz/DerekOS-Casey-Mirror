@@ -29,6 +29,12 @@ class RuntimeConfig:
     raw_chatgpt_dir: Path
     ingest_output_dir: Path
     source_index_dir: Path
+    thoughts_path: Path
+    entities_path: Path
+    relationships_path: Path
+    timelines_path: Path
+    canonical_candidates_path: Path
+    extraction_report_path: Path
     canonical_store_path: Path
     candidate_queue_path: Path
     review_log_path: Path
@@ -47,6 +53,12 @@ class RuntimeConfig:
             raw_chatgpt_dir=repo / "00_RAW_ARCHIVE" / "chatgpt",
             ingest_output_dir=repo / "01_INGEST",
             source_index_dir=repo / "13_SOURCE_INDEX",
+            thoughts_path=repo / "02_EXTRACTED_THOUGHTS" / "thoughts.jsonl",
+            entities_path=repo / "02_EXTRACTED_THOUGHTS" / "entities.jsonl",
+            relationships_path=repo / "02_EXTRACTED_THOUGHTS" / "relationships.jsonl",
+            timelines_path=repo / "02_EXTRACTED_THOUGHTS" / "timelines.jsonl",
+            canonical_candidates_path=repo / "02_EXTRACTED_THOUGHTS" / "canonical_candidates.jsonl",
+            extraction_report_path=repo / "02_EXTRACTED_THOUGHTS" / "extraction_report.json",
             canonical_store_path=canonical.expanduser().resolve(strict=False),
             candidate_queue_path=queue.expanduser().resolve(strict=False),
             review_log_path=review.expanduser().resolve(strict=False),
@@ -62,4 +74,10 @@ class RuntimeConfig:
             "RAW_CHATGPT_DIR": str(self.raw_chatgpt_dir),
             "INGEST_OUTPUT_DIR": str(self.ingest_output_dir),
             "SOURCE_INDEX_DIR": str(self.source_index_dir),
+            "EXTRACTION_THOUGHTS_PATH": str(self.thoughts_path),
+            "EXTRACTION_ENTITIES_PATH": str(self.entities_path),
+            "EXTRACTION_RELATIONSHIPS_PATH": str(self.relationships_path),
+            "EXTRACTION_TIMELINES_PATH": str(self.timelines_path),
+            "EXTRACTION_CANONICAL_CANDIDATES_PATH": str(self.canonical_candidates_path),
+            "EXTRACTION_REPORT_PATH": str(self.extraction_report_path),
         }

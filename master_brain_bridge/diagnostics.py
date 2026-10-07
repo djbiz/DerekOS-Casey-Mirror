@@ -10,6 +10,7 @@ from pathlib import Path
 from typing import Any
 
 from .config import RuntimeConfig
+from .extraction import ExtractionPipeline
 from .repository import CanonicalStoreInvalid, CanonicalStoreUnavailable, ReadOnlyCanonicalRepository
 
 
@@ -76,6 +77,23 @@ def run_diagnostics(config: RuntimeConfig | None = None) -> DiagnosticReport:
             str(cfg.raw_chatgpt_dir),
         ))
     checks.append(_check_file("ingest_schema", cfg.repo_root / "01_INGEST" / "schemas" / "message-1.1.0.schema.json", "ingest schema is present"))
+    checks.append(DiagnosticCheck("extraction_implementation", "ok", "extraction pipeline is importable"))
+    for schema_name in ("thought.schema.json", "entity.schema.json", "relationship.schema.json", "timeline.schema.json", "canonical-candidate.schema.json"):
+        schema_path = cfg.repo_root / "schemas" / schema_name
+        if not schema_path.is_file():
+            checks.append(DiagnosticCheck(f"extraction_schema_{schema_name}", "fail", f"missing required extraction schema: {schema_name}", str(schema_path)))
+            continue
+        try:
+            parsed = json.loads(schema_path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as exc:
+            checks.append(DiagnosticCheck(f"extraction_schema_{schema_name}", "fail", f"invalid schema JSON: {exc}", str(schema_path)))
+        else:
+            checks.append(DiagnosticCheck(
+                f"extraction_schema_{schema_name}",
+                "ok" if isinstance(parsed, dict) and parsed.get("type") == "object" else "fail",
+                "extraction schema is installed" if isinstance(parsed, dict) and parsed.get("type") == "object" else "extraction schema must be a JSON object schema",
+                str(schema_path),
+            ))
     try:
         repo = ReadOnlyCanonicalRepository(cfg.canonical_store_path)
     except (CanonicalStoreUnavailable, CanonicalStoreInvalid) as exc:
@@ -113,7 +131,33 @@ def run_diagnostics(config: RuntimeConfig | None = None) -> DiagnosticReport:
             f"generated artifact present: {artifact}" if path.is_file() else f"generated artifact absent: {artifact}",
             str(path),
         ))
-    status = "ready" if all(check.status == "ok" for check in checks) else "not_ready"
+    pipeline = ExtractionPipeline(cfg)
+    stage_artifacts = (
+        ("thoughts", cfg.thoughts_path, pipeline._validate_thought),
+        ("entities", cfg.entities_path, pipeline._validate_entity),
+        ("relationships", cfg.relationships_path, pipeline._validate_relationship),
+        ("timelines", cfg.timelines_path, pipeline._validate_timeline),
+        ("canonical_candidates", cfg.canonical_candidates_path, pipeline._validate_canonical),
+    )
+    for name, path, validator in stage_artifacts:
+        if not path.is_file():
+            checks.append(DiagnosticCheck(f"extraction_artifact_{name}", "warn", f"optional generated extraction artifact absent: {path.name}", str(path)))
+            continue
+        try:
+            count = 0
+            for line_number, line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+                if not line.strip():
+                    continue
+                record = json.loads(line)
+                if not isinstance(record, dict):
+                    raise ValueError(f"line {line_number} must be an object")
+                validator(record, f"{path.name} line {line_number}")
+                count += 1
+        except Exception as exc:  # noqa: BLE001 - diagnostics reports invalid optional artifacts.
+            checks.append(DiagnosticCheck(f"extraction_artifact_{name}", "fail", f"generated extraction artifact invalid: {exc}", str(path)))
+        else:
+            checks.append(DiagnosticCheck(f"extraction_artifact_{name}", "ok", f"generated extraction artifact valid ({count} records)", str(path)))
+    status = "ready" if all(check.status != "fail" for check in checks) else "not_ready"
     return DiagnosticReport(
         status=status,
         checks=checks,

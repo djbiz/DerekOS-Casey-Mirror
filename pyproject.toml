@@ -15,6 +15,7 @@ dependencies = []
 [project.optional-dependencies]
 dev = [
   "pip-audit>=2.7,<3",
+  "pytest>=9.1,<10",
 ]
 
 [project.scripts]
@@ -22,3 +23,7 @@ derekos = "master_brain_bridge.cli:main"
 
 [tool.setuptools]
 packages = ["master_brain_bridge"]
+
+[tool.pytest.ini_options]
+testpaths = ["14_TESTS_AUDITS"]
+python_files = ["test_master_brain*.py"]

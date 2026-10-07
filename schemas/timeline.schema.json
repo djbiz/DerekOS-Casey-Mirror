@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://derekos.master-brain/schemas/timeline.json",
+  "title": "Timeline Entry",
+  "description": "Chronological entry derived from source timestamps or explicit timeline text.",
+  "type": "object",
+  "required": ["id", "subject_id", "date", "event", "description", "provenance"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^TL[a-f0-9]{12}$"},
+    "subject_id": {"type": "string"},
+    "date": {"type": "string"},
+    "event": {"type": "string", "enum": ["originated", "developed", "approved", "implemented", "superseded", "rejected", "revisited", "completed"]},
+    "description": {"type": "string"},
+    "provenance": {
+      "type": "object",
+      "required": ["source_record_id", "file", "conversation_id", "message_id", "original_text"],
+      "properties": {
+        "source_record_id": {"type": "string"},
+        "file": {"type": "string"},
+        "conversation_id": {"type": "string"},
+        "message_id": {"type": "string"},
+        "timestamp": {"type": ["string", "null"]},
+        "original_text": {"type": "string"}
+      }
+    }
+  },
+  "additionalProperties": false
+}
