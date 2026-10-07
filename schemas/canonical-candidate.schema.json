@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://derekos.master-brain/schemas/canonical-candidate.json",
+  "title": "Canonical Candidate",
+  "description": "Extraction-owned canonical JSONL record compatible with the read-only repository.",
+  "type": "object",
+  "required": ["knowledge_id", "revision", "canonical_status", "title", "content", "evidence_ids", "approval_status", "projection_policy", "extraction_owner"],
+  "properties": {
+    "knowledge_id": {"type": "string", "pattern": "^MBK-EXTRACT-[A-F0-9]{12}$"},
+    "revision": {"type": "integer", "minimum": 1},
+    "canonical_status": {"type": "string", "enum": ["CURRENT"]},
+    "title": {"type": "string"},
+    "summary": {"type": "string"},
+    "content": {"type": "string"},
+    "evidence_ids": {"type": "array", "items": {"type": "string"}},
+    "approval_status": {"type": "string", "enum": ["ACCEPTED"]},
+    "projection_policy": {"type": "string", "enum": ["PUBLISH"]},
+    "extraction_owner": {"type": "string", "enum": ["master_brain_bridge.extraction"]},
+    "extraction_stage_schema": {"type": "integer"}
+  },
+  "additionalProperties": true
+}

@@ -105,6 +105,34 @@ class CliTests(unittest.TestCase):
             self.assertEqual(code, 0 if payload["status"] == "success" else 1)
             self.assertGreaterEqual(payload["success_count"], 1)
 
+    def test_extract_command_missing_input_exits_nonzero_with_json_error(self) -> None:
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            vault = root / "vault"
+            vault.mkdir()
+            env = {
+                "MASTER_BRAIN_CANONICAL_STORE_PATH": str(root / "canonical.jsonl"),
+                "OBSIDIAN_VAULT_PATH": str(vault),
+            }
+            code, out, _ = run_cli(["--json", "extract-thoughts"], env=env)
+            self.assertEqual(code, 1)
+            payload = json.loads(out)
+            self.assertEqual(payload["status"], "error")
+            self.assertIn("required artifact", payload["message"])
+
+    def test_extract_all_aggregate_failure_exits_nonzero(self) -> None:
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            vault = root / "vault"
+            vault.mkdir()
+            env = {
+                "MASTER_BRAIN_CANONICAL_STORE_PATH": str(root / "canonical.jsonl"),
+                "OBSIDIAN_VAULT_PATH": str(vault),
+            }
+            code, out, _ = run_cli(["--json", "extract-all"], env=env)
+            self.assertEqual(code, 1)
+            self.assertEqual(json.loads(out)["status"], "error")
+
 
 if __name__ == "__main__":
     unittest.main()

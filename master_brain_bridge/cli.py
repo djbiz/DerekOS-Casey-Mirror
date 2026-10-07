@@ -12,6 +12,7 @@ from typing import Any, Callable
 from .candidate_intake import CandidateIntake
 from .config import RuntimeConfig
 from .diagnostics import run_diagnostics
+from .extraction import ExtractionPipeline, ExtractionReport, StageReport
 from .ingest import run_ingest
 from .publisher import ManagedProjectionPublisher
 from .repository import ReadOnlyCanonicalRepository
@@ -65,7 +66,15 @@ def _review() -> ReviewWorkflow:
     return ReviewWorkflow.from_environment(_repository())
 
 
+def _extraction() -> ExtractionPipeline:
+    return ExtractionPipeline.from_environment()
+
+
 def _bulk_exit(result: BulkResult) -> int:
+    return 0 if result.ok else 1
+
+
+def _report_exit(result: StageReport | ExtractionReport) -> int:
     return 0 if result.ok else 1
 
 
@@ -95,6 +104,13 @@ def build_parser() -> argparse.ArgumentParser:
     publish.add_argument("knowledge_id")
     publish.add_argument("--revision", type=int)
     sub.add_parser("publish-all", help="publish all publishable CURRENT projections")
+
+    sub.add_parser("extract-thoughts", help="extract atomic thoughts from ingested messages")
+    sub.add_parser("extract-entities", help="extract explicitly supported entities")
+    sub.add_parser("extract-relationships", help="extract explicit relationships")
+    sub.add_parser("extract-timelines", help="build provenance-backed timelines")
+    sub.add_parser("extract-canonical", help="build extraction-owned canonical store and candidate notes")
+    sub.add_parser("extract-all", help="run the complete deterministic extraction workflow")
 
     intake = sub.add_parser("intake", help="intake one candidate note")
     intake.add_argument("source_path", type=Path)
@@ -128,6 +144,30 @@ def run(args: argparse.Namespace) -> int:
         result = _publisher().publish_all_current()
         _emit(result, json_output=args.json_output)
         return _bulk_exit(result)
+    if args.command == "extract-thoughts":
+        result = _extraction().extract_thoughts()
+        _emit(result, json_output=args.json_output)
+        return _report_exit(result)
+    if args.command == "extract-entities":
+        result = _extraction().extract_entities()
+        _emit(result, json_output=args.json_output)
+        return _report_exit(result)
+    if args.command == "extract-relationships":
+        result = _extraction().extract_relationships()
+        _emit(result, json_output=args.json_output)
+        return _report_exit(result)
+    if args.command == "extract-timelines":
+        result = _extraction().extract_timelines()
+        _emit(result, json_output=args.json_output)
+        return _report_exit(result)
+    if args.command == "extract-canonical":
+        result = _extraction().extract_canonical()
+        _emit(result, json_output=args.json_output)
+        return _report_exit(result)
+    if args.command == "extract-all":
+        result = _extraction().run_all()
+        _emit(result, json_output=args.json_output)
+        return _report_exit(result)
     if args.command == "intake":
         _emit(_intake().ingest(args.source_path), json_output=args.json_output)
         return 0

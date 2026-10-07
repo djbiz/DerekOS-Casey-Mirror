@@ -1,0 +1,15 @@
+services:
+  derekos:
+    build: .
+    image: derekos-casey-mirror:local
+    environment:
+      MASTER_BRAIN_CANONICAL_STORE_PATH: /data/canonical/canonical_records.jsonl
+      MASTER_BRAIN_CANDIDATE_QUEUE_PATH: /data/conflicts/candidate_queue.jsonl
+      MASTER_BRAIN_REVIEW_LOG_PATH: /data/conflicts/review_log.jsonl
+      OBSIDIAN_VAULT_PATH: /data/obsidian
+    volumes:
+      - ./00_RAW_ARCHIVE/chatgpt:/app/00_RAW_ARCHIVE/chatgpt:ro
+      - ./10_CANONICAL_KNOWLEDGE:/data/canonical
+      - ./12_CONFLICTS:/data/conflicts
+      - ./ObsidianVault:/data/obsidian
+    command: ["doctor", "--json"]
